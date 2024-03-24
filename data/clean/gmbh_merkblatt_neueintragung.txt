@@ -53,11 +53,7 @@ die Wahl des Vorsitzenden der Geschäftsführung. Dem zuständigen Organ steht e
 tungsberechtigten Personen sowie die Art ihrer Unterschriften (Einzelunterschrift, Kollektivunterschrift zu zwei-
 en, etc.) festzulegen.  
  
-
-
-[page_break]
-
-gmbh_merkblatt_neueintragung/01.01.2023  Handelsregisteramt Kanton Zürich 
+ gmbh_merkblatt_neueintragung/01.01.2023  Handelsregisteramt Kanton Zürich 
 Falls die Statuten nichts anderes bestimmen, sind die Gründer für die Wahl des Vorsitzenden der Geschäftsfüh-
 rung und die Festlegung der vertretungsberechtigten Personen sowie die Art ihrer Unterschrift zuständig. In 
 diesem Fall ist der entsprechende Beschluss in die öffentliche Urkunde über die Gründung aufzunehmen. 
@@ -115,11 +111,7 @@ Es ist dem Handelsregisteramt mitzuteilen, ob die Gesellschaft an der einzutrage
 Rechtsdomizil verfügt. Darunter ist eine Adresse zu verstehen, über welche die GmbH tatsächlich verfügen 
 kann (z.B. aufgrund von Eigentum, Miete, Untermiete etc.). Diese Adresse bildet den Mittelpunkt ihrer administ-
 rativen Tätigkeit, und es können dort Mitteilungen aller Art zugestellt werden. Bestehen Zweifel, ob eigene Bü-
-
-
-[page_break]
-
-gmbh_merkblatt_neueintragung/01.01.2023  Handelsregisteramt Kanton Zürich 
+ gmbh_merkblatt_neueintragung/01.01.2023  Handelsregisteramt Kanton Zürich 
 ros gegeben sind, kann das Handelsregisteramt einen Beleg (z.Bsp. aktuelle Bestätigung des Vermieters, 
 Grundbuchauszug) darüber verlangen. 
 Sind diese Voraussetzungen nicht erfüllt, liegt eine c/o-Adresse vor. In diesem Falle ist zusätzlich der Domizil-

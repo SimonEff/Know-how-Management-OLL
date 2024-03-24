@@ -39,11 +39,7 @@ Die Werkstattmobilien und Geräte umfassen diverse Mobilien und Geräte gemäss 
 Bestandeskarten. Die Büromobilien umfassen diverse Büromöbel sowie EDV-Anlagen 
 gemäss Bestandeskarten. Sämtliches Anlagevermögen ist zum Anschaffungswert, 
 unter Abzug der notwendigen Abschreibungen bewertet. 
-
-
-[page_break]
-
-- Kurzfristiges Fremdkapital 
+ - Kurzfristiges Fremdkapital 
 Kreditoren und Transitorische Passiven sind zum Nominalwert bewertet. 
  
  
