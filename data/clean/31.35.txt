@@ -1,0 +1,4 @@
+Muster Statutenbestimmung: Sacheinlage
+Sacheinlage
+Allgemein: Die Gesellschaft übernimmt bei der Gründung von [Firma/​Vorname Name], [Ort], [Gegenstand der Sacheinlage] im Wert von CHF [Betrag], wofür [Sacheinleger] [Anzahl] voll einbezahlte Stammanteile der Gesellschaft im Nennwert von je CHF [Betrag] erhält.
+Variante Geschäft: Die Gesellschaft übernimmt bei der Gründung von [Firma/​Vorname Name], [Ort], das [Gegenstand der Sacheinlage] geschäft mit Aktiven von CHF [Betrag] und Verbindlichkeiten von CHF [Betrag] gemäss Übernahmebilanz per [Datum] im Wert von CHF [Betrag], wofür [Sacheinleger] [Anzahl] voll einbezahlte Stammanteile der Gesellschaft im Nennwert von je CHF [Betrag] erhält.

@@ -1,0 +1,14 @@
+
+Tagesordnungsdetails
+Fügen Sie eigenen Inhalt schnell und problemlos hinzu.
+Wenn Sie den Text eines Tipps (wie diesen hier) durch eigenen Text ersetzen möchten, markieren Sie einfach einen Absatz, und beginnen Sie mit der Eingabe.
+Wenn Sie Text markieren, um ihn zu ersetzen, schließen Sie am besten keine Leerzeichen links oder rechts der Zeichen in die Markierung ein.
+Erstellen Sie die erforderliche Formatierung in kürzester Zeit.
+Bei dieser Gliederung wird Überschrift 2 (für römische Zahlen) und Überschrift 3 (für Kleinbuchstaben) verwendet.
+Zum schnellen Abrufen dieser Formatvorlagen für Überschriften oder einer beliebigen Textformatierung, die in diesem Dokument verwendet wird, sehen Sie sich im Menüband auf der Registerkarte „Start“ den Katalog mit Formatvorlagen an.
+Die römischen Zahlen in dieser Gliederung sind rot – entsprechend dem Dokumenttitel – und größer als der Text im Absatz. 
+Um dieses Dokument mit der gesamten Formatierung und dem Layout anzuzeigen, klicken Sie auf der Registerkarte „Ansicht“ auf „Lesemodus“.
+[Tagesordnungspunkt]
+[Tagesordnungsdetail]
+[Tagesordnungsdetail]
+[Tagesordnungsdetail]

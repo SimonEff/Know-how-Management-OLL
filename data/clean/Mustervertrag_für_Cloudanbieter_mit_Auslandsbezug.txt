@@ -1,0 +1,432 @@
+
+Rahmenvertrag Cloud-Services
+
+zwischen
+Name
+Strasse, Nr.
+Plz, Ort	nachfolgend "Kunde"
+und
+Name
+Strasse, Nr.
+Plz, Ort
+Land	nachfolgend "Anbieter"
+	je eine "Partei" und zusammen die "Parteien"
+Hinweise
+Dieses Vertragsmuster ist Bestandteil der Ausschreibungsunterlagen des Schweizerischen Anwaltsverbandes zu Cloud-Services für Anwaltskanzleien. Es dient dazu, die Einhaltung der rechtlichen Anforderungen, denen der Kunde als Anwalt untersteht, beim Bezug von Cloud-Services sicherzustellen. Zudem soll es den Aufwand von Vertragsverhandlungen reduzieren, indem minimale Regelungsinhalte vorgeschlagen werden – welche gegebenenfalls im Einzelfall durch detailliertere individuelle Regelungen ersetzt werden können. 
+Das vorliegende Vertragsmuster ist für Anbieter vorgesehen, welche die strengeren Voraussetzungen des Vertragsmusters für inländische Anbieter bzw. Anbieter ohne Auslandbezug nicht erfüllen. Es bleibt den einzelnen Kanzleien überlassen, welche Anforderungen sie an einen Cloud-Dienstleister stellen. Jene Stellen, die im vorliegenden Vertragsmuster unterschiedlich zum Vertragsmuster für Anbieter ohne Auslandbezug geregelt sind, sind rot markiert.
+Die gelb markierten Textpassagen sowie Kapitel, deren Überschrift gelb markiert ist, enthalten Empfehlungen und Vorschläge für eine vertragliche Regelung des betreffenden Themas. Deren Regelung kann durch die Parteien in den Verhandlungen geändert oder ergänzt werden.
+Alle nicht gelb markierten Stellen sind Mindestanforderungen in dieser Ausschreibung, welche eine Vergleichbarkeit der Angebote im Bereich der vertraglichen Regelungen sicherstellen. Mit der Einreichung eines Angebots akzeptieren die Anbieter diese zwingenden Mindestanforderungen als Grundlage für ihr Angebot.
+Grau hinterlegte Bemerkungen in kursiver Schrift oder in eckigen Klammern enthalten Hinweise zu einzelnen ausgewählten Klauseln dieses Vertragsmusters. Sie sind vor Vertragsabschluss zu löschen. Die Hinweise decken nicht alle Risiken und Überlegungen bei der Verwendung des Vertragsmusters ab. 
+Das Vertragsmuster wurde mit grosser Sorgfalt erstellt. Die Autoren und der SAV lehnen jedoch jede Haftung für allfällige Fehler und Lücken sowie für Folgen aus der Verwendung des Vertragsmusters ab.
+Beim 'Kunden' kann es sich sowohl um eine Kanzlei mit eigener Rechtspersönlichkeit (z.B. Anwalts-AG) als auch um eine natürliche Person (selbstständig erwerbende Anwältin oder Anwalt) handeln. Zur sprachlichen Vereinfachung wird jeweils die männliche Form verwendet – es sind damit auch Anwältinnen, Anbieterinnen etc. gemeint.
+
+Vorbemerkungen
+[individuell zu ergänzen, z.B:
+Kurzbeschreibung Kunde;
+Kurzbeschreibung Anbieter;
+Kurzbeschreibung der Ausgangslage und der Absicht, die mit diesem Rahmenvertrag verfolgt wird].
+Vertragsgegenstand und -struktur
+Rahmenvertrag und Einzelverträge
+Dieser Vertrag ist als Rahmenvertrag ausgestaltet. Er regelt grundsätzliche Bedingungen der Rechtsbeziehungen zwischen den Parteien. Die Bedingungen dieses Rahmenvertrags gelten für sämtliche Bestellungen bzw. Verträge im Zusammenhang mit dem Bezug von Cloud-Leistungen (sog. "Einzelverträge"). Leistungspflichten ergeben sich erst aus den Einzelverträgen.
+Vertragsbestandteile
+Dieser Rahmenvertrag betreffend Cloud-Services besteht aus folgenden Dokumenten (alle zusammen werden nachfolgend als der "Vertrag" bezeichnet):
+Rahmenvertrag (dieses Dokument);
+Anhang R1 – Vergütungen
+Anhang R2 – Geheimhaltungserklärung Mitarbeiter
+Anhang R3 – Muster Abnahmeprotokoll
+Anhang R4 – Liste eingesetzte Software
+Anhang R5 – Genehmigte Subunternehmer
+Anhang R6 – Auftragsdatenverarbeitungsvertrag
+Anhang R7 – Datensicherungskonzept
+Service Vertrag (Einzelvertrag)
+Anhang S1 – Servicekatalog und SLA
+Muster Projekteinzelvertrag
+Anhang P1 – Meilenstein und Zahlungsplan
+Die Vertragsstruktur ist in der untenstehenden Übersichtsgrafik schematisch dargestellt:
+
+Hierarchie der Vertragsdokumente
+Bei Widersprüchen geht der jeweilige Rahmen- bzw. Einzelvertrag seinen Anhängen vor. Bei Widersprüchen zwischen Rahmen- und Einzelvertrag geht der Rahmenvertrag mit seinen Anhängen den Einzelverträgen vor. Widersprechen sich Einzelverträge, gehen die neueren Einzelverträge den älteren vor.
+Keine allgemeinen Geschäftsbedingungen
+Die allgemeinen Geschäftsbedingungen der Parteien sind nicht Vertragsbestandteil und haben keine Geltung. Selbst wenn solche allgemeinen Geschäftsbedingungen späteren Offerten oder Bestellungen beigelegt werden, haben sie nur dann Geltung, wenn beide Parteien schriftlich bestätigen, dass sie von der vorliegenden Bestimmung des Rahmenvertrages bewusst abweichen wollen.
+Leistungsumfang
+Der Anbieter verpflichtet sich, die Leistungen gemäss diesem Vertrag (insbesondere den Einzelverträgen und allfälligen Nachträgen dazu) zu erbringen.
+Pflichten des Anbieters
+Persönliche Leistungspflicht / Subunternehmer
+Der Anbieter erbringt seine Leistungen grundsätzlich selbst. Der Beizug von Subunternehmern ist nur nach vorgängiger schriftlicher Zustimmung durch den Kunden und unter der Voraussetzung der Überbindung der vertraglichen Pflichten und Zusicherungen des Anbieters unter diesem Rahmenvertrag (insbesondere Datenschutz- und Geheimhaltungsbestimmungen) auf den Subunternehmer erlaubt. 
+Vom Kunden genehmigte Subunternehmer und allfällige Einschränkungen auf bestimmte Leistungen oder bestimmte Arten von Leistungen sind in Anhang R5 – Genehmigte Subunternehmer aufgeführt.
+Der Anbieter bleibt für Leistungen des Subunternehmers verantwortlich wie für seine eigenen.
+Ort der Leistungserbringung
+Die Rechenzentren des Anbieters, in denen Daten des Kunden gespeichert werden, und die Orte, von denen aus ein Zugriff auf Daten und Systeme möglich ist (z.B. im Rahmen des Supports und der Wartung), befinden sich an folgenden Standorten: […..]. 
+Änderungen der Standorte bedürfen der vorgängigen schriftlichen Zustimmung des Kunden. Ziff. 5.3.4 bleibt in jedem Fall vorbehalten.
+Der Anbieter erbringt Vor-Ort-Leistungen (z.B. Installation von Hardware für den Zugang zu den Cloud-Services) an allen Standorten des Kunden in der Schweiz.
+[Kommentar: In der Lehre ist umstritten, ob der Beizug eines ausländischen Providers ohne Einwilligung des Geheimnisherrn (in der Regel des Mandanten) zulässig ist. Es liegt am Anwalt zu entscheiden, ob die Auslagerung ins Ausland bzw. an einen ausländischen Provider angesichts der Sensibilität der Informationen angemessen ist.]
+Informationspflichten 
+Beide Parteien sind verpflichtet, sich ohne Verzug über Umstände und Tatsachen zu informieren, welche die vertragskonforme Vertragserfüllung beeinträchtigen oder in Frage stellen könnten.
+Der Anbieter informiert den Kunden über alle Weiterentwicklungen, die aus technischen, wirtschaftlichen oder rechtlichen Gründen eine Änderung der Leistungen angezeigt erscheinen lassen.
+Einweisung und Dokumentation
+Der Anbieter hat den Kunden initial im Rahmen von bis zu … [Stunden/Arbeitstagen] in die Nutzung der Cloud Services einzuweisen. Allfällige zusätzliche Endbenutzerausbildungen sind separat zu vereinbaren und gemäss den Ansätzen von Anhang R1 – Vergütungen zu vergüten.
+Der Anbieter liefert dem Kunden die folgenden Dokumentationen in elektronischer oder physischer Form:
+Benutzerhandbuch/-bücher
+[individuell zu ergänzen]. 
+Einhaltung von Standards
+Der Anbieter verpflichtet sich, bei der Erbringung von Leistungen folgende Standards einzuhalten:
+ITIL 2011
+[individuell zu ergänzen].
+Zusammenarbeit mit anderen Partnern des Kunden
+[individuell zu ergänzen, z.B:]
+Der Anbieter verpflichtet sich, mit anderen Partnern des Kunden nach dessen Anweisung zusammenzuarbeiten. Die Parteien können vereinbaren, dass dem Anbieter gewisse Koordinationsaufgaben des Kunden bezüglich solcher anderen Partner delegiert werden.
+Geheimhaltungs- und Datenschutzpflichten
+Geheimhaltung
+Umgang mit vertraulichen Informationen
+Die Parteien verpflichten sich gegenseitig, über alle ihnen im Zusammenhang mit diesem Vertrag bekannt gewordenen oder bekannt werdenden Informationen, Daten und Kenntnisse der anderen Partei sowie über die Existenz und den Inhalt dieses Vertrags ("vertrauliche Informationen") während der Dauer und auch über das Ende dieses Rahmenvertrags hinaus Stillschweigen zu bewahren. 
+Die empfangende Partei wird die ihr im Rahmen ihrer vertraglichen Tätigkeit übertragenen vertraulichen Informationen sorgfältig aufbewahren und vor Einsichtnahme Dritter schützen. Sie wird die vertraulichen Informationen der anderen Partei ausschliesslich zum Zwecke einer ordnungsgemässen Abwicklung und Erfüllung dieses Vertrags verwenden und auch nach Ende des Vertrags nicht zu ihrem eigenen Vorteil oder für Zwecke Dritter verwenden. 
+Die Unterlagen der anderen Partei bleiben auch nach Übergabe an die empfangende Partei im Eigentum der übergebenden Partei. Nach Beendigung des Vertrags sind auf Wunsch der anderen Partei sämtliche Unterlagen an sie zurückzugeben und allfällige Kopien zu vernichten, soweit gesetzliche Aufbewahrungsfristen dem nicht entgegenstehen. Die Vernichtung der Unterlagen ist schriftlich zu bestätigen.
+Berufsgeheimnis
+Der Anbieter nimmt zur Kenntnis, dass der Kunde bzw. dessen Mitarbeiter dem Berufsgeheimnis unterstehen und ein Grossteil der für den Kunden bearbeiteten Informationen strafrechtlich geschützte Geheimnisse im Sinne von Art. 321 StGB darstellen. Er verpflichtet sich zur Einhaltung der gesetzlichen Bestimmungen über das Berufsgeheimnis.
+Der Anbieter stellt sicher, dass sämtliche mit der Leistungserbringung befassten Mitarbeiter, Subunternehmer und deren Mitarbeiter zuvor ein Exemplar der Geheimhaltungserklärung für Mitarbeiter in der Form wie in Anhang R2 – Geheimhaltungserklärung Mitarbeiter unterschrieben haben und einhalten. Der Anbieter stellt dem Kunden auf Verlangen die unterzeichneten Erklärungen zu. 
+[Kommentar: In der Lehre ist umstritten, ob unter Art. 321 StGB für den Beizug einer Hilfsperson wie des Cloud-Dienstleisters eine Einwilligung des Geheimnisherrn (in der Regel des Mandanten) erforderlich ist.]
+Weitere Vorgaben
+[individuell zu ergänzen; allfällige zusätzliche Vorgaben bei anderen Berufsgruppen wie z.B. Notariate oder Finanzintermediäre]
+Umgang mit Daten des Kunden
+Herrschaft über die Daten des Kunden
+Die Herrschaft und Verfügungsbefugnis über sämtliche Daten, die der Anbieter im Auftrag des Kunden bearbeitet – unabhängig davon, ob diese ursprünglich vom Kunden oder einem Dritten dem Anbieter übermittelt oder durch den Anbieter selbst erhoben wurden (wie z.B. auch Metadaten, Nutzungsdaten, Parametrisierung etc.; alle zusammen die "Daten des Kunden") – liegt beim Kunden. Soweit technisch möglich wird der Anbieter sämtliche Daten des Kunden als solche kennzeichnen.
+Archivierung und Aufbewahrungsdauer
+Der Anbieter sorgt für die beweissichere Archivierung der Daten des Kunden entsprechend den geltenden rechtlichen Anforderungen (insbesondere der Geschäftsbücherverordnung SR 221.431). 
+Wenn der Kunde nicht explizit eine längere Aufbewahrungsdauer fordert, bewahrt der Anbieter die Daten des Kunden für … [Dauer, z.B. zehn Jahre] auf, bevor er sie löscht. [eventuell individuell zu ergänzen: Verpflichtung, die Daten während einer bestimmten Dauer nach Beendigung der aktiven Nutzung (z.B. nach Vertragsende) weiterhin beweissicher zu archivieren und Definition der entsprechenden Vergütung]. 
+Vor der Löschung weist er den Kunden auf die bevorstehende Löschung schriftlich hin und bietet ihm die Zustellung der Daten in einem gängigen maschinenlesbaren Format an, das die rechtlichen Anforderungen an die Beweissicherheit erfüllt [gegebenenfalls individuell zu ergänzen: Anforderungen an das Format und die Dokumentation des Prozesses]. Der Anbieter stellt sicher, dass Behörden (z.B. Steuerverwaltung) die archivierten Daten soweit gesetzlich vorgesehen auf schriftliche Anweisung des Kunden einsehen können (siehe dazu auch Ziff. 8.2). 
+[Kommentar: Es ist grundsätzlich zu unterscheiden zwischen aktiven Daten (und deren Backups auf Sicherungsmedien) und archivierten Daten. Buchführungs- und steuerrelevante und allenfalls auch weitere rechtlich relevante Daten müssen auch bei der Verwendung von Cloud-Services in einer beweissicheren (nicht veränderbaren) Form aufbewahrt werden. Das Ausdrucken elektronischer Daten auf Papier erfüllt diese Anforderung nicht, weil nicht gewährleistet ist, dass der Inhalt des Papierausdrucks mit dem elektronischen übereinstimmt. Der Kunde kann entweder eine entsprechende Archivierungslösung des Cloud Providers nutzen (in diesem Fall ist die obige Bestimmung zwingend) oder er kann die in der Cloud gespeicherten Daten z.B. via Schnittstelle in eigenen Archivierungssystemen speichern. Während der Aufbewahrungsdauer müssen z.B. Steuerbehörden unabhängig von der Art der Archivierung die Möglichkeit haben, Prüfungsrechte wahrzunehmen. Bei einer Auslieferung von Archivdaten am Ende der Vertragsdauer ist darauf zu achten, dass die Anforderungen an die Beweissicherheit gewahrt werden (insbesondere Signierung und Verschlüsselung) und dass der Prozess dokumentiert wird.]
+Herausgabe an den Kunden während der Vertragsdauer
+Der Kunde kann jederzeit verlangen, dass ihm sämtliche Daten des Kunden in einem gängigen maschinenlesbaren Format herausgegeben werden. Soweit angesichts der angebotenen Services sinnvoll, bietet der Anbieter dem Kunden zudem jederzeit die Möglichkeit, diese Daten selbst automatisiert als Ganzes elektronisch abzurufen und bei sich zu speichern. Bei Beendigung des Rahmenvertrags oder eines Teils davon bietet der Anbieter zudem dem Kunden von sich aus die Zustellung bzw. den Download der Daten des Kunden in einem solchen Format an. [gegebenenfalls individuell zu ergänzen: Direkte Zugriffs-/Downloadmöglichkeit des Kunden auf alle seine Daten, Anforderungen an das Datenformat, Dateninhalte und Art der Auslieferung]
+Herausgabe an den Kunden und Löschung bei Beendigung
+Der Anbieter verpflichtet sich, bei Beendigung des Vertrags sämtliche Informationen, welche er im Rahmen der Leistungserbringung vom oder für den Kunden erhalten oder erhoben hat, und sämtliche Daten des Kunden, diesem nach dessen Wahl zu übergeben oder zu vernichten und sämtliche sich noch bei ihm befindlichen Kopien zu vernichten. Der Anbieter bestätigt dem Kunden die vollständige Rückgabe oder Vernichtung auf Verlangen und legt ihm – im Falle der Löschung – das Löschprotokoll vor. [gegebenenfalls individuell zu ergänzen: Anforderung an die Löschung von Daten]
+[Kommentar: Die Datenlöschung ist ein technisch anspruchsvolles Thema. 
+Um Skaleneffekte bei der Infrastrukturnutzung (und damit Preisvorteile für die Kunden) zu nutzen, werden Sicherungskopien oft über ganze Systeme oder Installationen erzeugt, d.h. in den Sicherungskopien können Daten unterschiedlicher Kunden gespeichert sein. Das individuelle Herauslöschen der Daten eines bestimmten Kunden aus solchen Backups ist mit technischen (Zeitaufwand) und rechtlichen Schwierigkeiten verbunden (Integrität der Sicherungskopie im Hinblick auf Aufbewahrungsvorschriften des Providers). Die Lösungsarchitektur sollte daher so aufgebaut werden, dass die Daten des Kunden nicht in globale Backups gespeichert, sondern individuell (z.B. auf eigenen Backupmedien) gesichert und gekennzeichnet werden – so könnten sie gegebenenfalls auch in einem Insolvenzfall ausgesondert und bei Vertragsende dem Kunden ausgehändigt werden. Falls der Kunde trotz der rechtlichen Problematik aus Kostengründen auf individuelle Backups verzichten möchte, muss im Vertrag jedenfalls sichergestellt werden, dass die Daten des Kunden nach Vertragsende nicht wiederhergestellt werden.
+Eine besondere Problematik stellt sich bei Speichermedien: Auch wenn Daten auf einer Harddisk gelöscht werden, so können sie mit entsprechender ‚Datenrettungssoftware‘ oft wiederhergestellt werden. Eine Wiederherstellungsmöglichkeit kann nur durch spezielle Prozeduren (z.B. mehrfaches Überschreiben mit Zufallsmustern) vermieden werden. Für die sichere Datenlöschung gibt es entsprechende Standards (z.B. DIN 66399:2012 ‚Vernichtung von Datenträgern‘). Um eine Wiederherstellung technisch auszuschliessen, müssten die Daten des Kunden auf dedizierten Speichermedien abgespeichert, welche bei Vertragsende dem Kunden herausgegeben oder zerstört werden. Auf diese Weisen lassen sich die wirtschaftlichen Skaleneffekte von Cloud Lösungen durch geteilte Infrastruktur oder dynamische Verteilung der Daten innerhalb von Rechenzentren je nach Auslastung der einzelnen Server nicht nutzen. Falls der Kunde trotz der rechtlichen Problematik aus Kostengründen auf dedizierte Speichermedien im Rahmen einer Private Cloud Lösung verzichten möchte, muss im Vertrag jedenfalls sichergestellt werden, dass gelöschte Daten des Kunden nach Vertragsende nicht wiederhergestellt werden und dass alle Speichermedien nach dem Ende der Nutzungsdauer im Rechenzentrum sicher entsorgt werden.]
+Herausgabe im Rahmen eines Konkurs- oder Nachlassstundungsverfahrens
+Der Anbieter trägt dafür Sorge, dass die Daten des Kunden ausgesondert und an diesen herausgegeben werden können, falls der Anbieter oder einer seiner Subunternehmer in ein Konkurs- oder Nachlassstundungsverfahren oder ein entsprechendes ausländisches Verfahren geraten. Eine Verwertung der Daten des Kunden in einem solchen Verfahren ist ausgeschlossen. Der Anbieter hat bereits zum voraus alle nötigen Massnahmen zu ergreifen, damit die Daten des Kunden von der Verwertung in einem solchen Verfahren ausgenommen werden und ihm weiterhin vertragsgemäss zur Verfügung stehen. 
+[Kommentar: Aus unserer Sicht macht es aus praktischen Überlegungen Sinn, den Anbieter darauf hinzuweisen, dass er alles in seiner Macht stehende tun soll, um eine Aussonderung der Daten im Insolvenzfall sicherzustellen. Über eine Herausgabe nach Eintritt eines Konkurses entscheidet aber nicht der Anbieter, sondern die Konkursverwaltung bzw. das auf einen ausländischen Provider anwendbare Konkursrecht. Praktisch kann eine Aussonderung von Daten wohl nur dann gewährleistet werden, wenn diese auf dedizierten und als Eigentum des Kunden gekennzeichneten Medien gespeichert werden].
+Herausgabe an Dritte
+Tritt ein Dritter (z.B. eine Behörde) an den Anbieter oder einen Subunternehmer heran und fordert diesen zur Herausgabe von Daten des Kunden auf, so informiert dieser unverzüglich den Kunden darüber. Die Daten des Kunden dürfen nur mit vorgängiger schriftlicher Zustimmung des Kunden an einen solchen Dritten herausgegeben werden. Wird der Anbieter oder Subunternehmer gerichtlich zur Herausgabe verpflichtet oder wird ein entsprechendes Begehren gegen den Anbieter oder Subunternehmer eingereicht oder zeichnet sich ein entsprechendes Vorgehen ab, so informiert der Anbieter den Kunden unverzüglich darüber und trifft alle in seiner Macht stehenden Massnahmen, insbesondere auch die Ergreifung von Rechtsbehelfen, um sich der Herausgabe zu widersetzen oder – sollte dies nicht möglich sein – sie im Umfang zu reduzieren, wie zum Beispiel mittels Beantragung der Siegelung der Daten des Kunden entsprechend Art. 248 ff. StPO bzw. einer entsprechenden ausländischen Regelung. 
+Der Anbieter informiert den Kunden vor Vertragsabschluss über bestehende Datenherausgabepflichten gegenüber ausländischen Behörden. Er informiert den Kunden zudem umgehend schriftlich, wenn eine Konstellation eintritt, welche neue Datenherausgabemöglichkeiten ausländischer Behörden entstehen lässt (z.B. bevorstehende Übernahme des Anbieters durch ein ausländisches Unternehmen oder Anwendbarkeit ausländischer Erlasse, welche einem ausländischen Staat Zugriff auf Daten ermöglichen wie insbesondere der US-amerikanische 'Clarifying Lawful Overseas Use of Data Act' ('Cloud-Act')). Der Kunde hat in diesem Fall ein ausserordentliches Kündigungsrecht. 
+[Kommentar: Die Herausgabe von Daten an ausländische Behörden ist ein sehr heikles Thema. Die rechtlichen Anknüpfungsmöglichkeiten für entsprechende Datenherausgabeansprüche werden im jeweiligen nationalen Recht definiert. Auch hängt es vom jeweiligen nationalen Recht ab, ob sich der Provider bzw. die Kanzlei als Kundin des Providers auf das Berufsgeheimnis stützen und die Herausgabe von Daten verhindern bzw. deren Siegelung verlangen kann. Es gibt insbesondere folgende Anknüpfungsmöglichkeiten: Ort des Rechenzentrums, Sitz des Unternehmens, Börsenkotierung des Unternehmens bzw. seiner Muttergesellschaft, Zweigniederlassung oder Betriebsstandort (z.B. ausländischer Standort, von welchem aus Wartungsleistungen per Remote Access auf ein Rechenzentrum in der Schweiz durchgeführt werden) des Unternehmens im jeweiligen Land. Die Verpflichtung, Daten nur in einem Rechenzentrum in der Schweiz zu speichern, bietet somit noch keinen absoluten Schutz gegenüber ausländischen Herausgabebegehren. Einzelne nationale Rechtsgrundlagen untersagen es zudem dem Provider, den Kunden über entsprechende Herausgabebegehren zu informieren. Die hier vorgesehene Informationspflicht macht jedoch in allen Konstellationen Sinn, in welchen der Anbieter den Kunden informieren darf. Das Risiko ausländischer Herausgabeansprüche kann durch vertragliche Regeln indessen nicht ausgeschlossen werden.].
+Datenschutz
+Zweckbindung
+Der Anbieter verpflichtet sich zur Einhaltung der gesetzlichen Bestimmungen über den Datenschutz. Er verpflichtet sich, sämtliche Personendaten aus dem Bereich des Kunden, auf die er im Rahmen seiner Leistungserbringung für den Kunden Zugriff hat, ausschliesslich für die Erfüllung seiner vertraglichen Pflichten und gemäss den Anweisungen des Kunden zu bearbeiten und sie insbesondere nicht für eigene Zwecke oder Zwecke Dritter zu verwenden.
+Der Anbieter wird seine Mitarbeiter und Subunternehmer über die Geheimhaltungs- und Datenschutzpflichten aufklären und deren Einhaltung überwachen. Der Kunde hat in Bezug auf Datenschutzvorgaben ein direktes Weisungsrecht gegenüber den Mitarbeitern und Subunternehmen des Anbieters. 
+Einhaltung der Datenschutzanforderungen 
+Der Anbieter ist dafür verantwortlich, dass die von ihm unter diesem Vertrag zur Verfügung gestellten Systeme über die technischen Voraussetzungen zur Erfüllung der Anforderungen an den Datenschutz und die Informationssicherheit verfügen, die für den Kunden gelten (u.a. Zugriffsbeschränkungen). 
+Der Anbieter sorgt dafür, dass möglichst wenige Personen Zugriff auf Personendaten erhalten. Er führt eine Liste mit allen Personen, die im Rahmen der Leistungserbringung Zugriff auf Personendaten haben und stellt diese dem Kunden auf Verlangen zusammen mit den Geheimhaltungserklärungen gemäss Ziff. 5.1.2 zu. Alle Zugriffe auf die Personendaten müssen protokolliert und die Protokolle dem Kunden auf Verlangen zugestellt werden.
+[Optional, wenn vom Kunden gewünscht bzw. insb. gemäss Art. 28 EU-DSGVO benötigt:] Auftragsdatenverarbeitungsvertrag
+In Anhang R6 – Auftragsdatenverarbeitungsvertrag sind weitere Bestimmungen zum Schutz von Personendaten geregelt.
+Datenübermittlung ins Ausland
+Die Bearbeitung von Personendaten (was auch die Speicherung von Daten und den Remote-Zugriff auf Daten umfasst) im Ausland ist nur unter Einhaltung der Voraussetzungen von Art. 6 DSG zulässig. Vor einer Bekanntgabe von Personendaten in ein Land ohne Gesetzgebung, die einen angemessenen Schutz gewährleistet, muss der Anbieter hinreichende vertragliche Garantien gemäss den vom Eidg. Datenschutz- und Öffentlichkeitsbeauftragten bereitgestellten Musterverträgen zusichern.
+Datensicherheit
+Schutzniveau
+Der Anbieter verpflichtet sich, alle Daten des Kunden nach dem jeweils aktuellen Stand der Technik zu schützen. Dies beinhaltet insbesondere einen im Verhältnis zu den bearbeiteten Daten angemessenen Schutz gegen unbefugte oder zufällige Vernichtung, zufälligen Verlust, technische Fehler, widerrechtliche Verwendung, unbefugtes Ändern, Kopieren, Zugreifen oder andere unbefugte Bearbeitungen sowie Massnahmen zur Sicherstellung der Portabilität der Daten. Er hält mindestens die Vorgaben des BSI IT-Grundschutz Kataloges oder eines gleichwertigen anerkannten Standards ein.
+Die Parteien können weitergehende Verpflichtungen für den Schutz der Daten vereinbaren.
+Datenübermittlungen
+Daten des Kunden werden auf den Systemen des Anbieters stets in verschlüsselter Form gespeichert. Elektronische Übermittlungen von Daten unter diesem Rahmenvertrag erfolgen nur über verschlüsselte Kanäle. Hiervon ausgenommen ist die Kommunikation mittels gewöhnlichen E-Mail-Verkehrs, sofern der Kunde nicht explizit auch hierfür verschlüsselte Übermittlung verlangt. Alle Verschlüsselungen bei Übermittlung und Speicherung der Daten erfolgen jeweils nach dem aktuellen Stand der Technik.
+Zertifizierung
+Der Anbieter sichert zu, dass er über folgende Zertifizierungen verfügt und diese während der gesamten Vertragsdauer aufrechterhält:
+[individuell zu ergänzen]
+Sollte der Anbieter eine dieser Zertifizierungen verlieren, informiert er umgehend den Kunden darüber. [eventuell individuell zu ergänzen: ausserordentliche Vertragsauflösungsmöglichkeit für den Fall des Verlusts der Zertifizierung]
+Mitteilung bei Verletzungen der Datensicherheit
+Der Anbieter teilt dem Kunden unverzüglich mit, wenn er eine Verletzung seiner Pflichten zum Datenschutz feststellt oder bei begründetem Verdacht einer solchen Verletzung. Er unterstützt den Kunden auf eigene Kosten bei Massnahmen zur Minimierung des möglichen Schadens aus solchen Verletzungen.
+Sicherung der Daten
+Der Anbieter garantiert die Sicherung und Wiederherstellung der Daten entsprechend dem Stand der Technik. 
+Die Sicherung der Daten erfolgt gemäss dem Datensicherungskonzept in Anhang R7 – Datensicherungskonzept. Die Aufbewahrungsfrist beträgt mindestens 30 Tage. Zusätzlich ist eine Monats- und eine Jahressicherung zu erstellen. 
+Die Sicherung und Wiederherstellungs-Funktionalität ist vom Anbieter mindestens zwei Mal pro Jahr zu testen. Dem Kunden ist das Testresultat mitzuteilen.
+Veränderung der rechtlichen Rahmenbedingungen
+Der Anbieter anerkennt, dass es während der Vertragsdauer zu Änderungen der rechtlichen Rahmenbedingungen zum Schutz von Personendaten und/oder des Berufsgeheimnisses kommen kann. Er sichert zu, in einem solchen Fall von sich aus alle Anforderungen zu erfüllen, die vom Kunden vernünftigerweise erwartet werden können, damit dieser weiterhin die Leistungen des Anbieters beziehen kann. Sollten entsprechende Änderungen der rechtlichen Rahmenbedingungen beim Anbieter nachweisbar zu einer erheblichen Erhöhung des Aufwands führen, kann er eine entsprechende Anpassung der betroffenen Vergütungen fordern. Er hat seinen Mehraufwand gegenüber dem Kunden jedoch detailliert auszuweisen.
+Konventionalstrafe
+Verletzen der Anbieter oder seine Mitarbeiter oder Subunternehmer die Pflichten gemäss diesem Kapitel 5, schuldet er dem Kunden eine Konventionalstrafe in der Höhe von CHF …. [Betrag, z.B. 20'000], sofern er nicht beweist, dass weder ihn noch seine Mitarbeiter und Subunternehmer ein Verschulden trifft. Die Bezahlung der Konventionalstrafe befreit nicht von der weiteren Einhaltung der Geheimhaltungs- und Datenschutzpflichten.
+Dauer der Geheimhaltungs- und Datenschutzpflichten
+Die Geheimhaltungs- und Datenschutzpflichten gemäss diesem Kapitel 5 gelten über die Beendigung des Vertragsverhältnisses hinaus, solange die andere Partei ein Interesse an der Geheimhaltung hat oder entsprechende gesetzliche Verpflichtungen bestehen.
+Abnahmen
+[Kommentar: Hier wären gegebenenfalls Regeln zur Abnahme von Projektleistungen vorzusehen (z.B. Ablauf des Abnahmeverfahrens, Unterstützungspflichten des Anbieters, Abnahmeverweigerungsgrunde, Nichtverwirkung von Gewährleistungsansprüchen durch Teilabnahmen, Vorgehen beim Scheitern von Abnahmen)].
+Contract Management
+Ansprechpartner der Parteien
+Beide Parteien bezeichnen jeweils eine Person, die als primäre Ansprechpartnerin für alle Fragen zu diesem Vertrag zur Verfügung steht: 
+Regelmässige Besprechungen
+Bis zur vollständigen Abwicklung aller unter dem vorliegenden Vertrag stehenden Leistungen finden Besprechungen in regelmässigen Abständen [z.B. jährlich] in […] statt. Darüber hinaus hat jede Partei das Recht zur Einberufung von Sitzungen.
+An den regelmässigen Besprechungen sollen insbesondere folgende Punkte thematisiert werden:
+Vertragskonformität der Leistungen (Qualität der Leistungen, Kundenzufriedenheit, Budgetrahmen, Probleme und Hindernisse bei der Leistungserbringung)
+Offene Fragen im Zusammenhang mit der Auslegung und Konkretisierung des Vertrages, Bedarf zur Vertragsanpassung 
+Ausblick und Life Cycle Planung 
+Jede Partei hat ihren eigenen Aufwand für die Teilnahme an den Besprechungen selbst zu tragen.
+Mitwirkungsobliegenheiten
+Ist der Anbieter der Meinung, dass der Kunde zur Vertragserfüllung notwendige Mitwirkungsobliegenheiten nicht, nicht rechtzeitig oder nicht im erforderlichen Umfang wahrnimmt, so hat er dies dem Kunden schriftlich an folgende Adresse mitzuteilen: [Adresse einfügen].
+Bedarf für Änderungen des Vertrags
+Die Parteien sind sich einig, dass während der Vertragsdauer Änderungen des Rahmenvertrags nötig werden können, z.B. wegen Veränderungen der regulatorischen Rahmenbedingungen. In diesem Fall werden die Parteien in guten Treuen verhandeln und sich auf die nötigen Vertragsanpassungen einigen, um dem Kunden weiterhin den rechtskonformen Bezug der Leistungen zu ermöglichen.
+Change Management Prozess
+[individuell zu ergänzen, z.B.
+Möchte eine Partei den Vertrag oder den Leistungsumfang ändern, so stellt sie der anderen Partei schriftlich einen begründeten Änderungsantrag zu. Die Ansprechpartner der Parteien (vgl. Ziffer 7.1) verhandeln in guten Treuen über den Antrag. Bei Meinungsverschiedenheiten gehen sie nach Ziffer 7.6 vor. Einigen sich die Parteien auf eine Änderung, ist diese nach Unterzeichnung durch die Parteien diesem Vertrag anzufügen.]
+Vorgehen bei Meinungsverschiedenheiten
+Können sich die Ansprechpartner bezüglich einer Frage nicht auf eine gemeinsame Auslegung des Vertrags einigen, so halten sie diese Meinungsverschiedenheit schriftlich fest. Sofern sie sich innert […] Tagen nicht auf eine Lösung oder einen Lösungsweg zur Bereinigung der Differenz einigen können, eskalieren sie diese an ... [Bezeichnung der Eskalationsebene].
+Kontrollrechte
+Nachweis der Einhaltung der Datensicherheit
+Der Anbieter führt den regelmässigen Nachweis über die Einhaltung seiner Pflichten zur Datensicherheit. Der Nachweis gilt grundsätzlich als erbracht, wenn der Anbieter einmal jährlich den Bericht eines im Bereich der Datensicherheit anerkannten unabhängigen Auditors vorlegt, der bestätigt, dass alle Anforderungen von Berufsgeheimnis, Datenschutz und Datensicherheit gemäss dem vorliegenden Vertrag eingehalten werden. Der Anbieter gibt dem Kunden den Namen des Auditors zum voraus bekannt. Der Kunde hat das Recht, innerhalb von ... Arbeitstagen nach Erhalt der Mitteilung schriftlich die Fachkompetenz oder Unabhängigkeit des Auditors zu bestreiten. Können sich die Parteien nicht innerhalb von ... Arbeitstagen auf einen Auditor einigen, kann der Kunde die Einsetzung eines Auditors gemäss Ziff. 16.9 verlangen. [eventuell ergänzende Regelungen, ob der Kunde in den detaillierten Prüfbericht des Auditors Einblick nehmen darf und ob er – gegen zusätzliche Vergütung – individuelle Fragen durch den Auditor überprüfen lassen darf oder z.B. nach Mitteilung einer Verletzung der Datensicherheit zusätzliche Audits verlangen darf].
+[Kommentar: Das Auditrecht des Kunden gibt immer wieder Anlass zu Diskussionen. Für Anwälte gibt es derzeit keine berufsrechtliche Bestimmung, welche ein Auditrecht beim IT Outsourcing zwingend verlangen würde. In der Diskussion werden aber oft die Anforderungen der FINMA analog für Anwälte herangezogen. Das FINMA Rundschreiben 2018/3 Outsourcing – Banken und Versicherer sieht vor, dass ein entsprechendes Auditrecht vertraglich vereinbart werden muss (Rz. 26ff). Da es kaum praktikabel ist, dass kleine Anwaltskanzleien in den Rechenzentren von Cloud Providern individuelle Prüfungen durchführen, könnte der Provider entsprechende Prüfungen zuhanden aller Kanzleien vornehmen lassen, welche Cloud-Services bei ihm beziehen. Um Missbräuche in Bezug auf Fachkompetenz und Unabhängigkeit zu verhindern, sollte der Kunde ein Ablehnungsrecht aus wichtigen Gründen haben. Da Anwälte spezifische berufsrechtliche Anforderungen einzuhalten haben, genügt nicht ein allgemeiner Audit zur Informationssicherheit. Der Auditor sollte sich damit auseinandersetzen, ob seitens des Providers auch die berufs- und datenschutzrechtlichen Anforderungen eingehalten werden.]
+Einsichtsrecht von Aufsichtsbehörden des Kunden
+Der Anbieter ermöglicht dem Kunden, die Einhaltung seiner Pflichten gegenüber dessen Aufsichtsbehörden und Klienten nachzuweisen (siehe in Bezug auf Archivdaten auch Ziff. 5.2.2). Er stellt dem Kunden hierzu alle nötigen Informationen zur Verfügung. Er gewährt den Aufsichtsbehörden des Kunden soweit gesetzlich vorgesehen direkten Zugang zu Daten und Systemen. Er holt dafür vorgängig die schriftliche Zustimmung des Kunden ein.
+Nach Möglichkeit sind die Kontrollen zu Geschäftszeiten des Anbieters durchzuführen und so zu legen, dass sie dessen gewöhnlichen Geschäftsbetrieb möglichst nicht behindern.
+Kostenaufteilung von Kontrollen
+Grundsätzlich trägt jede Partei ihren eigenen Aufwand in Zusammenhang mit einer Kontrolle. Wird anlässlich einer Kontrolle eine Verletzung der Pflichten des Anbieters festgestellt, so trägt dieser auch den Aufwand des Kunden (externe Kosten sowie belegter Zeitaufwand zu einem Ansatz von CHF … pro Stunde).
+Vergütung
+Vergütungspflicht
+Der Kunde verpflichtet sich, die vereinbarten Vergütungen gemäss Anhang R1 – Vergütungen zu leisten. Mit Bezahlung der Vergütungen sind alle Leistungen vollumfänglich abgegolten, soweit die Parteien nicht schriftlich eine abweichende Vereinbarung getroffen haben.
+Soweit nicht anderweitig schriftlich vereinbart, verstehen sich alle Preisangaben netto. Gesetzlich geschuldete schweizerische Mehrwertsteuerbeträge sind vom Kunden zusätzlich zu bezahlen.
+Rechnungsstellung und Zahlungsfrist
+[individuell zu ergänzen; z.B:
+Soweit in den Einzelverträgen nichts Abweichendes vereinbart wurde, erfolgt die Rechnungsstellung wie folgt:
+bei einmaligen Vergütungen (inklusive nach Aufwand verrechnete Vergütungen) entsprechend dem Zahlungsplan. Falls kein Zahlungsplan vereinbart wurde, auf den Zeitpunkt der Abnahme der Leistung.
+bei jährlich anfallenden Kosten (z.B. Wartungs- und Supportgebühren) jeweils auf Mitte des Vertragsjahres
+bei allfälligen sonstigen wiederkehrenden Vergütungen jeweils am Ende jeden Monats.
+Die Zahlungsfrist beträgt … [Dauer, z.B. 30 Tage].
+Die Rechnung muss den Bestimmungen des schweizerischen Mehrwertsteuerrechts und allfälligen anwendbaren ausländischen Bestimmungen entsprechen. Sie hat insbesondere folgende Angaben zu enthalten:
+Name, Adresse und MWST-Nr. des Rechnungsstellers
+Name und Adresse des Empfängers. Soweit in den Einzelverträgen nichts anderes vereinbart wurde, erfolgt die Rechnungsstellung unter Angabe der Vertragsnummer an folgende Adresse: 
+…
+Datum oder Zeitraum der erbrachten Leistungen
+Ausführende Personen, Art, Gegenstand und Umfang der erbrachten Leistungen
+Rechnungsbetrag
+Anwendbare Steuersätze und auf den Rechnungsbetrag entfallende Steuerbeträge
+Vertragswährung ist Schweizer Franken. Soweit Umrechnungen in CHF vorzunehmen sein sollten, haben diese entsprechend den Vorgaben der Eidgenössischen Steuerverwaltung zu erfolgen.]
+Hinterlegung mit befreiender Wirkung auf ein Sperrkonto
+Der Kunde ist berechtigt, bei Meinungsverschiedenheiten über den Bestand oder die Höhe einer bestimmten Vergütung, den betreffenden Betrag bis zur Klärung der Meinungsverschiedenheit mit befreiender Wirkung auf ein Sperrkonto, das jede Partei errichten, aber über das nur von beiden Parteien gemeinsam verfügt werden kann, zu überweisen.
+Zusicherungen und Gewährleistungen
+Der Anbieter macht folgende ausdrückliche Zusicherungen in Bezug auf die vereinbarten Leistungen:
+….
+Haftung
+Bei vorsätzlicher oder grob fahrlässiger Verletzung ihrer Pflichten haftet die betreffende Partei unbegrenzt für den daraus entstehenden Schaden. Unter Vorbehalt von Ziff. 12 ist die Haftung in allen anderen Fällen beschränkt auf CHF … [Betrag]. 
+Schadloshaltung
+Der Anbieter leistet Gewähr dafür, dass die im Rahmen der Vertragserfüllung eingesetzten Immaterialgüter (Software, Konzepte, Skripts, Tools, Dokumentationen etc.) keine Schutzrechte Dritter verletzen. 
+Er verpflichtet sich, den Kunden auf eigene Kosten gegen Drittansprüche gerichtlich und aussergerichtlich zu verteidigen. Der Kunde erhält bei der Abwehr solcher Ansprüche ein Mitspracherecht. Dieses betrifft sowohl die Anwaltswahl als auch die konkrete Verhandlungs- bzw. Prozessführung. 
+Macht der Dritte die Ansprüche direkt gegenüber dem Kunden geltend, so beteiligt sich der Anbieter auf erstes Verlangen des Kunden hin gemäss den Möglichkeiten der einschlägigen Prozessordnung am Streit. 
+Der Anbieter verpflichtet sich, sämtliche Kosten zu übernehmen (insbesondere Schadenersatzleistungen, Anwalts- und Gerichtskosten), die dem Kunden aus der Prozessführung und dem Urteil bzw. aus einer allfälligen aussergerichtlichen Erledigung des Rechtsstreites entstehen. Bei einer aussergerichtlichen Erledigung hat der Anbieter vereinbarte Zahlungen an Dritte nur zu übernehmen, wenn er dem Vergleich zugestimmt hat. 
+Versicherung
+[individuell zu ergänzen, z.B.:]
+Der Anbieter schliesst spätestens auf den Zeitpunkt der Unterzeichnung des Vertrages hin eine Versicherung ab, welche vollumfänglich alle Schadenersatzansprüche gemäss dem vorliegenden Vertrag abdeckt. Anwendbares Recht und Gerichtsstand haben mit dem vorliegenden Vertrag übereinzustimmen. Der Anbieter stellt dem Kunden unaufgefordert eine entsprechende Bestätigung der Versicherung über Inhalt und Höhe der Deckung zu. Er informiert den Kunden entsprechend auch im Fall späterer Änderungen der Police.
+Der Anbieter ist während der gesamten Vertragsdauer zur Aufrechterhaltung der Versicherung mit gleicher Deckungshöhe verpflichtet. Er hat dem Kunden auf dessen Wunsch hin Nachweise über die Bezahlung der Prämien zu leisten.
+Der Anbieter darf die Versicherung nur mit vorgängiger Zustimmung des Kunden kündigen oder ändern. Sofern nachgewiesen ist, dass keine Deckungslücken entstehen, darf der Kunde die Zustimmung zu einem Versicherungswechsel nur aus wichtigen Gründen verweigern.
+Der Anbieter hat dafür zu sorgen, dass auch nach Auflösung des Vertragsverhältnisses für die Vergangenheit keine Deckungslücken entstehen.
+Hiermit werden sämtliche Ansprüche des Anbieters gegenüber seiner Versicherung im Zusammenhang mit Schadenersatzforderungen des Kunden soweit gesetzlich zulässig abgetreten. Die Abtretung der Ansprüche ist der Versicherung durch den Anbieter mitzuteilen.
+Dauer und Beendigung des Vertrags
+[individuell zu ergänzen; z.B.
+Inkrafttreten und Dauer
+Dieser Rahmenvertrag tritt mit seiner Unterzeichnung in Kraft und wird für eine Dauer von … [Dauer, z.B. einem Jahr] abgeschlossen. Sofern keine der Parteien den Vertrag gemäss den nachfolgenden Bestimmungen kündigt, verlängert er sich jeweils um … [Dauer, z.B. ein weiteres Jahr].
+Ordentliche Kündigung
+Beide Parteien können diesen Rahmenvertrag unter Einhaltung einer [z.B. sechsmonatigen] Frist auf Ende der festen Vertragsdauer schriftlich kündigen. Der Anbieter kann der Vertrag erstmals per … kündigen. Die Parteien können für Einzelverträge schriftlich abweichende Fristen vereinbaren.
+Ausserordentliche Kündigung
+Beide Parteien können diesen Rahmenvertrag jederzeit aus wichtigem Grund kündigen. Wichtige Gründe sind insbesondere Verletzungen der Bestimmungen zur Vertraulichkeit, zum Datenschutz oder der Datensicherheit durch den Anbieter, schwere Verletzungen von SLAs, welche trotz Mahnung nicht innert 20 Tagen behoben werden, Konkurs oder Nachlassstundung bzw. drohender Konkurs oder Nachlassstundung des Anbieters sowie Zahlungsverzug des Kunden von mehr als … Monaten.
+Wirkung der Kündigung
+Mit der Kündigung wird der Rahmenvertrag auf den Kündigungstermin hin beendet. Ist für einen oder mehrere Einzelverträge eine längere Kündigungsfrist vereinbart, so gelten die Bestimmungen dieses Rahmenvertrags für den Einzelvertrag bis zu dessen Beendigung weiter.] 
+[eventuell individuell zu ergänzen: Weitergeltung der Bestimmungen des Rahmenvertrages für weiterhin beim Anbieter gehostete Archivdaten während einer bestimmten Dauer.]
+Beendigungsunterstützung
+Daten, Software, Parametrisierungen
+Der Anbieter stellt dem Kunden bei Vertragsende sämtliche Daten des Kunden entsprechend Ziff. 5.2.3 zur Verfügung.
+Um sicherzustellen, dass die Daten des Kunden über die Vertragsbeendigung hinaus weiterbearbeitet werden können, setzt der Anbieter während der ganzen Vertragsdauer nur solche Datenbearbeitungslösungen ein, die am Markt frei erhältlich sind (kommerziell erhältliche Software oder Open Source Software), oder (im Fall von Eigenentwicklungen) die er selbst über das Vertragsende hinaus zu [vorausdefinierten/marktüblichen] Preisen zu lizenzieren bereit ist (siehe Anhang R4 – Liste eingesetzte Software und Anhang R1 – Vergütungen). [Kommentar: bei Eigenentwicklungen, die zu vorausdefinierten Preisen lizenziert werden, sind diese Preise in Anhang R1 aufzunehmen und daher hier zu referenzieren. In allen anderen Fällen ist die Referenz auf Anhang R1 zu löschen.] 
+Der Anbieter liefert dem Kunden bei Vertragsende auch Konfigurationsdokumentationen und – sofern die eingesetzte Softwarelösung dies technisch erlaubt –Parametrisierungsdaten mit den Einstellungen des Kunden, die für einen effizienten Weiterbetrieb der Lösungen benötigt werden.
+[eventuell individuell zu ergänzen: Vereinbarung der Auslieferung der gesamten Kundeninstallation als virtuelle Maschine]
+Unterstützung bei der Migration
+Der Anbieter verpflichtet sich, den Kunden bei Beendigung des Vertrags nach dessen Wahl bei der Reintegration oder Migration auf einen Nachfolgeanbieter zu unterstützen. Er erarbeitet nach Wahl des Kunden bei Bedarf ein Migrationskonzept für den Kunden oder wirkt an der Erstellung eines solchen Konzepts mit.
+Verzögerung der Migration
+Gelingt die Reintegration oder Migration auf einen Nachfolgeanbieter nicht innert der geplanten Zeit, hat der Kunde die Möglichkeit, den Vertrag durch schriftliche Erklärung bis zum Abschluss der Reintegration oder Migration zu verlängern zu denselben Konditionen, als wäre der Vertrag nicht beendet worden.
+Vergütung von Migrationsunterstützungsleistungen
+[individuell zu ergänzen, z.B. 
+Der Kunde vergütet dem Anbieter seinen Aufwand für die Beendigungsunterstützung nach dessen üblichen Stundensätzen, maximal aber zu den vereinbarten Stundensätzen gemäss Anhang R1 – Vergütungen.]
+Schlussbestimmungen
+Gesamte Vereinbarung
+Dieser Vertrag stellt die gesamte Vereinbarung zwischen den Parteien dar und ersetzt alle früheren mündlichen oder schriftlichen Vereinbarungen.
+Übertragung von Rechten
+Keine der Parteien kann ihre Rechte oder Pflichten aus diesem Vertrag ohne vorgängige schriftliche Zustimmung der anderen Partei ganz oder teilweise abtreten oder in sonstiger Weise auf Dritte übertragen.
+Nichtverwirkung von Ansprüchen
+Sollte eine Partei ein Recht oder einen Rechtsbehelf nicht geltend machen, welcher ihr gemäss diesem Vertrag zusteht, so kann daraus kein Verzicht auf weitere damit im Zusammenhang stehende Rechte oder Rechtsbehelfe abgeleitet werden.
+Vorbehalt der Schriftform
+Änderungen oder Ergänzungen dieses Vertrags oder von Teilen davon, inklusive dieser Ziffer 16.4, bedürfen der Schriftform.
+Salvatorische Klausel
+Sollte einzelne Bestimmungen dieses Rahmenvertrags ungültig oder nicht durchsetzbar sein oder werden, oder sollte dieser Vertrag eine Lücke aufweisen, so wird hierdurch die Gültigkeit und Durchsetzbarkeit der übrigen Bestimmungen des Vertrags nicht berührt. Die ungültige oder nicht durchsetzbare Bestimmung bzw. die Lücke wird durch eine gültige und durchsetzbare Regelung ersetzt, die aus der Sicht der Parteien wirtschaftlich der Zielsetzung, die mit der ungültigen oder nicht durchsetzbaren Bestimmung verbunden war, am nächsten kommt.
+Anwendbares Recht
+Auf diesen Vertrag ist materielles Schweizer Recht unter Ausschluss seiner Kollisionsnormen anwendbar.
+Gerichtsstand
+Ausschliesslicher Gerichtsstand für Streitigkeiten im Zusammenhang mit diesem Vertrag sind die Gerichte von … [Ort].
+[Alternativ kann auch eine Schiedsklausel eingefügt werden]
+Schiedsgutachten
+Im Fall von Auseinandersetzungen über Sachverhalts-, Bewertungs- und ähnliche Fragen kann jede Partei verlangen, dass ein für beide Parteien verbindliches Schiedsgutachten im Sinn von Art. 189 ZPO durch einen unabhängigen Sachverständigen eingeholt wird. Das Recht zur Durchführung eines Konflikteskalationsverfahrens – bzw. eines Gerichtsverfahrens nach erfolglosem Abschluss des Konflikteskalationsverfahrens – wird durch die Einholung eines Schiedsgutachtens nicht eingeschränkt. Ein bereits hängig gemachtes Konflikteskalationsverfahren wird bis zum Vorliegen des Schiedsgutachtens sistiert, wenn alle betroffenen Parteien der Sistierung zustimmen. Über die Person des Schiedsgutachters und den Ablauf des Verfahrens einigen sich die Parteien ad hoc (siehe dazu auch Ziff. 16.9). Falls sich die Parteien über das Verfahren nicht einigen können, entscheidet die ernannte Person darüber ad hoc. Der Schiedsgutachter hat sich auch zur Verteilung der Verfahrenskosten zu äussern. Dabei gilt der Grundsatz, dass die Kosten von der unterlegenen Partei zu tragen sind.
+Ernennung gemeinsam zu bestimmender Personen
+Sollten sich die Parteien auf die Ernennung einer gemeinsam zu bestimmenden Person (z.B. Schiedsgutachter, Auditor) nicht einigen, wird diese durch … [z.B. das zuständige Gericht gemäss Ziff. 16.7] bestimmt. Weigert sich dieser, eine entsprechende Ernennung vorzunehmen, erfolgt diese durch das nach diesem Vertrag zuständige Gericht. 
+Ort, Datum
+
+			
+Name Anbieter
+
+			
+Name:		Name:
+Funktion:		Funktion:
+
+
+Ort, Datum
+
+			
+Name Kunde
+
+			
+Name:		Name:
+Funktion:		Funktion:
+
+
+Anhang R1 – Vergütungen
+Services
+
+Stundenansätze
+Für den Fall, dass die Parteien schriftlich vereinbaren, zusätzlich für bestimmte Leistungen des Anbieters nach Stunden abzurechnen, darf der Anbieter maximal die folgenden Stundenansätze in Rechnung stellen.
+
+Anhang R2 – Geheimhaltungserklärung Mitarbeiter
+Diese Erklärung ist durch alle Personen, die Arbeiten für … [Kunde] (nachfolgend "Leistungsbezüger") erbringen und dabei Zugang zu vertraulichen Informationen, Berufsgeheimnissen oder Personendaten erhalten, zu unterzeichnen.
+1.	Die unterzeichnende Person hat aufgrund ihrer Tätigkeit im Rahmen ihres Auftrages für den Leistungsbezüger Zugang zu nicht allgemein bekannten Informationen und Personendaten, welche zudem zum Teil dem Berufsgeheiminis gemäss Art. 321 StGB unterstehen können (nachfolgend "Vertrauliche Informationen"). 
+2.	Die unterzeichnende Person nimmt zur Kenntnis, dass sie als Hilfsperson beigezogen ist und dass entsprechend die Verletzung ihrer Pflichten zu strafrechtlichen Konsequenzen im Sinne von Art. 321 StGB (Verletzung des Berufsgeheimnisses; Wortlaut siehe unten) führen kann. 
+3.	Die unterzeichnende Person nimmt zur Kenntnis, dass sie im Rahmen dieses Auftrages zudem zur Einhaltung der Bestimmungen des anwendbaren Datenschutzrechts verpflichtet ist und dem Weisungsrecht des Leistungsbezügers untersteht.
+4.	Die unterzeichnende Person verpflichtet sich insbesondere zur Geheimhaltung der Vertraulichen Informationen. Sie verpflichtet sich, die Vertraulichen Informationen ausschliesslich zu den im Auftrag des Leistungsbezügers vorgesehenen Zwecken zu bearbeiten und sie nur mit vorgängiger schriftlicher Zustimmung des Leistungsbezügers an Dritte weiterzugeben oder Dritten zugänglich zu machen. 
+5.	Die unterzeichnende Person verpflichtet sich, die erforderlichen Massnahmen zu treffen, um zu verhindern, dass unbefugte Personen Zugang zu Vertraulichen Informationen erhalten oder Vertrauliche Informationen verloren gehen. Allfällige Zugangsdaten und Passwörter sind für den persönlichen Gebrauch bestimmt. Die Weitergabe an Mitarbeitende oder an Dritte ist ohne vorgängige schriftliche Zustimmung des Leistungsbezügers nicht erlaubt. 
+6.	Sämtliche Unterlagen und Dokumente mit Vertraulichen Informationen sind nach Wahl des Leistungsbezügers nach Beendigung des Auftrags zurückzugeben oder zu löschen. 
+7.	Diese Verpflichtungen gelten auch nach Beendigung des Arbeitsverhältnisses der unterzeichnenden Person oder nach Beendigung des Auftrags weiter.
+Art. 321 StGB – Verletzung des Berufsgeheimnisses
+1. Geistliche, Rechtsanwälte, Verteidiger, Notare, Patentanwälte, nach Obligationenrecht zur Verschwiegenheit verpflichtete Revisoren, Ärzte, Zahnärzte, Chiropraktoren, Apotheker, Hebammen, Psychologen sowie ihre Hilfspersonen, die ein Geheimnis offenbaren, das ihnen infolge ihres Berufes anvertraut worden ist oder das sie in dessen Ausübung wahrgenommen haben, werden, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+Ebenso werden Studierende bestraft, die ein Geheimnis offenbaren, das sie bei ihrem Studium wahrnehmen.
+Die Verletzung des Berufsgeheimnisses ist auch nach Beendigung der Berufsausübung oder der Studien strafbar.
+2. Der Täter ist nicht strafbar, wenn er das Geheimnis auf Grund einer Einwilligung des Berechtigten oder einer auf Gesuch des Täters erteilten schriftlichen Bewilligung der vorgesetzten Behörde oder Aufsichtsbehörde offenbart hat.
+3. Vorbehalten bleiben die eidgenössischen und kantonalen Bestimmungen über die Zeugnispflicht und über die Auskunftspflicht gegenüber einer Behörde.
+
+Ich bestätige hiermit, dass ich die oben stehenden Verpflichtungen zur Kenntnis genommen habe und verpflichte mich, diese einzuhalten. 
+
+_______________________________________	___________________________
+Ort, Datum 	Name in Blockschrift 
+
+_______________________________________
+Privatadresse 
+
+_______________________________________
+Firma und Firmenadresse 
+
+_______________________________________
+Unterschrift
+
+
+Anhang R3 – Muster Abnahmeprotokoll
+Gegenstand der Abnahme
+………………………………………….…….……………………………………………………………………
+Art der Abnahme
+ Teilabnahme 	oder 	 Gesamtabnahme
+ Erstabnahme	oder	 Wiederholung (nach misslungener Erstabnahme)
+
+Art der durchgeführten Abnahmen, Tests und Reviews
+………………………………………….…….……………………………………………………………………
+Abzunehmende Resultate
+………………………………………….…….……………………………………………………………………
+Abnahmekriterien / Testfälle
+………………………………………….…….……………………………………………………………………
+Anwesende Personen
+Resultat des Abnahmeverfahrens
+Abnahmeerfolg
+ Die Abnahme ist erfolgreich.
+ Die Abnahme ist gescheitert und wird wiederholt am ……………………………….…..
+ Die Abnahme ist erfolgreich. Es wurden jedoch die nachfolgend erwähnten Mängel festgestellt, die entsprechend den in der Tabelle festgehaltenen Termine zu beheben sind (keine neue Abnahme erforderlich).
+Festgestellte Mängel
+Allfällige Meinungsverschiedenheiten über die Abnahmefähigkeit des Abnahmegegenstandes sowie über Mängelklassierung, Verantwortlichkeit und Behebungstermine sind hier zu vermerken:
+………………………………………….…….……………………………………………………………………
+………………………………………….…….……………………………………………………………………
+Unterschriften
+Datum und Ort
+……………………………..………………	…………..………….……..……………….
+Name und Funktion
+………………………………………….…….……………………………………………………………………
+………………………………………….…….……………………………………………………………………
+Unterschriften
+……………………………..………………	…………..………….……..……………….
+
+
+Anhang R4 – Liste eingesetzte Software
+[individuell zu erstellen]
+
+
+Anhang R5 – Genehmigte Subunternehmer
+Folgende Subunternehmer des Anbieters sind genehmigt:
+
+
+
+Anhang R6 – Auftragsdatenverarbeitungsvertrag
+[individuell zu ergänzen, falls ein solcher Vertrag vom Kunden gewünscht ist.]
+
+
+Anhang R7 – Datensicherungskonzept
+[individuell zu ergänzen.] 
+
+
+
+Service Vertrag
+Pflichten des Anbieters
+Servicekatalog und SLA
+Unter diesem Servicevertrag erbringt der Anbieter die Leistungen im Umfang und der Qualität gemäss Anhang S1 – Servicekatalog und SLA.
+Nutzungsrecht an Services
+[individuell zu ergänzen; grundsätzliche Umschreibung des eingeräumten Nutzungsrechts (Lizenz) an den Services mit Referenz auf Zugriffsbestimmungen des Anhang S1 – Servicekatalog und SLA. Allenfalls kann auch ein Direktzugriff durch Dritte (insbesondere Klienten des Kunden) auf bestimmte Teile der Services vorgesehen werden (z.B. Dossier Management, Einsicht in aktuelle Kosten etc.) wofür diesen durch den Anbieter ebenfalls ein Nutzungsrecht eingeräumt werden muss.]
+Weiterentwicklungen
+[individuell zu ergänzen; Umschreibung ob generell Weiterentwicklungen des Service erfolgen und wie mit diesen umzugehen ist (z.B. Release Zyklus, zwingende Nutzung der jeweils neusten Version, Urheberrechte an individuellen Weiterentwicklungen für den Kunden). Der Umgang mit individuellen Weiterentwicklungen kann hier umschrieben werden oder in einem separaten Projektvertrag gemäss Muster Projekteinzelvertrag]
+Vergütung
+Die Vergütung der Services richtet sich von Anhang R1 – Vergütungen.
+Kundenobliegenheiten
+[gegebenenfalls individuell zu ergänzen; grundsätzlich treffen den Kunden keine Obliegenheiten ausser IT-Infrastruktur mit einem gewissem Standard zu unterhalten (z.B. Internetverbindung, mindestens Browser Version X.Y). Für gewisse Services können aber auch Drittlizenzen (z.B. bestimmte Plattform) nötig sein, welche ebenfalls hier aufzuführen sind)]
+Inkrafttreten und Dauer
+[individuell zu ergänzen]
+
+
+Anhang S1 – Servicekatalog und SLA
+[individuell zu erstellen, insbesondere folgende Punkte könnten enthalten sein:
+Servicekatalog/Serviceumfang: 
+Services und deren Funktionalitäten, allenfalls Schnittstellen zu Drittsoftware
+Betriebs- und Servicezeit 
+Zugriffsbestimmungen:
+nach User/Gerät/geographisch etc.
+Support- und Maintenance Leistungen (inkl. Prozesse wie Hotline, Ticketing etc.)
+Service Levels, insbesondere:	
+Verfügbarkeit, maximale Ausfalldauern, Übertragungsbandbreiten, Systemantwortzeiten, Supportantwortzeiten, bezogen auf einen Referenzzeitraum
+Servicezeiten für Supportleistungen
+Leistungsübergabepunkte, Anforderungen an Internetanbindung etc.
+Malusregelung bei Nichterreichen der vereinbarter Service Levels, Kündigungsrechte bei Unterschreitung bestimmter Service Levels
+Ergänzende Leistungen vor Ort (z.B. Installation und Wartung von Hard- und Softwarekomponenten) ]
+
+
+Muster Projektvertrag
+[Kommentar: Dieser Muster Projektvertrag kann für Projekte der Parteien, wie z.B. eine initiale Migration auf den Service des Anbieters, individuelle Weiterentwicklungen oder die Migration bei Vertragsende auf einen anderen Anbieter verwendet werden.] 
+Pflichten des Anbieters
+Unter diesem Projektvertrag erbringt der Anbieter folgende Leistungen:
+[individuell zu ergänzen]
+Zeitplan
+Der Zeitplan ist im Projektplan in Anhang P1 – Meilenstein- und Zahlungsplan festgehalten.
+Verantwortlichkeiten
+Die Verantwortlichkeiten für diesen Projektvertrag richten sich nach folgender Aufstellung:
+[individuell zu ergänzen, z.B. RACI-Matrix: 
+Die Darstellung von Verantwortlichkeiten erfolgt entsprechend folgender Klassifikation:
+Responsible – verantwortlich (Durchführungsverantwortung), zuständig für die eigentliche Durchführung. Die Person, die die Initiative für die Durchführung (durch Andere) gibt oder die die Aktivität selbst durchführt.
+Accountable – rechenschaftspflichtig (Kostenverantwortung), verantwortlich im Sinne von „genehmigen“, „billigen“ oder „unterschreiben“. Die Person, die im rechtlichen oder kaufmännischen Sinne die Verantwortung trägt.
+Consulted – konsultiert. Eine Person, die nicht direkt an der Umsetzung beteiligt ist, aber relevante Informationen für die Umsetzung hat und deshalb befragt werden soll oder muss.
+Informed – zu informieren (Informationsrecht). Eine Person, die Informationen über den Verlauf bzw. das Ergebnis der Tätigkeit erhält oder die Berechtigung besitzt, Auskunft zu erhalten.
+Kundenobliegenheiten
+[individuell zu ergänzen]
+Abnahmen
+Abnahmeprozess und Abnahmekriterien
+[individuell zu ergänzen]
+Abnahmeprotokoll
+Die Parteien verwenden für Abnahmen das Muster Abnahmeprotokoll in Anhang R3 – Muster Abnahmeprotokoll.
+Vergütung
+Meilenstein- und Zahlungsplan
+Die Vergütung erfolgt nach den Grundsätzen des Rahmenvertrags nach erreichen des jeweiligen Meilensteins und gemäss dem Zahlungsplan in Anhang P1 – Meilenstein- und Zahlungsplan.
+Garantierückbehalt
+Bei Projektleistungen beträgt die letzte Zahlungstranche … [z.B. 10 %] der Gesamtvergütung. Diese wird … [z.B. 6] Monate nach erfolgreicher Gesamtabnahme fällig, sofern zu diesem Zeitpunkt keine offenen Gewährleistungsansprüche mehr bestehen. Andernfalls ist der Kunde berechtigt, bis zur definitiven Mangelbeseitigung diese Zahlungen zurückzubehalten. Im Fall von Meinungsverschiedenheiten über Berechtigung und Höhe des weiteren Rückbehalts ist eine Hinterlegung gemäss Ziff. 9.3 des Rahmenvertrages möglich.
+
+
+Anhang P1 – Meilenstein- und Zahlungsplan
+Projektplan
+[individuell zu ergänzen]
+Meilenstein- und Zahlungsplan
+Allfällige automatisch verzugsbegründende Termine werden mit * gekennzeichnet.
+Nach Stunden abgerechnete Leistungen werden maximal zu den Stundenansätzen in Anhang R1 – Vergütungen in Rechnung gestellt.

@@ -1,0 +1,58 @@
+Muster Sacheinlagevertrag
+Sacheinlagevertrag
+zwischen den Veräusserern und Sacheinlegern:
+_______________ [Firma/​Name, Adresse], nachfolgend «Sacheinleger 1»,
+_______________ [Firma/​Name, Adresse], nachfolgend «Sacheinleger 2»
+[evtl. weitere Sacheinleger]
+und der
+[Firma] GmbH in Gründung, [Adresse], nachfolgend «Gesellschaft»
+vertreten durch die Gründer:
+_______________ [Name, Adresse],
+_______________ [Name, Adresse],
+[evtl. weitere Gründer].
+1.	Gegenstand der Sacheinlage
+Die Gesellschaft übernimmt vom
+Sacheinleger 1:	[Umschreibung des Gegenstandes der Sacheinlage]
+Sacheinleger 2:	[Umschreibung des Gegenstandes der Sacheinlage]
+[evtl. weitere Sacheinlagen].
+Variante:
+Der Gegenstand der Sacheinlage und dessen Bewertung ergibt sich im Einzelnen aus der diesem Vertrag als integrierender Bestandteil beigefügten Inventarliste.
+Variante:
+Sacheinleger 1 bringt in die Gesellschaft [den Betrieb/​das im Handelsregister (nicht) eingetragene Einzelunternehmen […] (Firma gemäss Handelsregistereintrag) [Name], in [Sitz] ] gemäss Übernahmebilanz vom [Datum] mit Aktiven im Betrag von CHF [Betrag] und Passiven im Betrag von CHF [Betrag] ein. Demnach ergibt sich ein Aktivenüberschuss von CHF [Betrag].
+Variante:
+Sacheinleger 1 bringt in die Gesellschaft [den Betrieb/​das im Handelsregister (nicht) eingetragene Einzelunternehmen […] (Firma gemäss Handelsregistereintrag) [Name], in [Sitz] ] mit den übertragenen Aktiven im Betrag von CHF [Betrag] und den übertragenen Passiven im Betrag von CHF [Betrag] sowie den übertragenen Verträgen gemäss Inventar vom [Datum] durch Vermögensübertragung im Sinne von Art. 69 ff. FusG ein. Das Inventar weist einen Aktivenüberschuss von CHF [Betrag] aus.
+Falls und soweit [zum Betrieb/​zur Einzelfirma] gehörende Verträge nicht formell auf die übernehmende Gesellschaft übertragen werden können, bleibt Sacheinleger 1 formelle Vertragspartei und erfüllt die entsprechenden übertragenen Verträge im eigenen Namen, aber für Rechnung und Gefahr der Gesellschaft oder implementieren die Parteien eine andere Lösung, welche wirtschaftlich einer Übertragung der entsprechenden Verträge gleichkommt. Sacheinleger 1 wird seine Rechtsstellung als Vertragspartei der entsprechenden Verträge nur gemäss den Instruktionen der Gesellschaft ausüben.
+Die übergehenden Arbeitsverhältnisse gehen gemäss Art. 333 OR mit allen Rechten und Pflichten auf die Gesellschaft über, sofern der Arbeitnehmer den Übergang nicht ablehnt. Lehnt der Arbeitnehmer den Übergang ab, wird das Arbeitsverhältnis auf den Ablauf der gesetzlichen Kündigungsfrist aufgelöst; die Gesellschaft ist bis dahin zur Erfüllung des Arbeitsvertrags verpflichtet.
+3.	Übernahmepreis
+Der Übernahmepreis beträgt CHF [Betrag] und stützt sich auf die Bewertung gemäss [Anhang/​Gründungsbericht], welcher die Bewertungsregeln, den Bewertungsstichtag und die Bewertungsmethoden näher umschreibt.
+Der Übernahmepreis wird wie folgt getilgt:
+Sacheinleger 1 erhält [Zahl] Stammanteile der Gesellschaft à 	Total CHF [Betrag 1]
+nominal CHF [Nominalbetrag] je Stammanteil, zum Ausgabebetrag 
+je Stammanteil von CHF [Ausgabebetrag]
+Sacheinleger 2 erhält [Zahl] Stammanteile der Gesellschaft à nominal 	Total CHF [Betrag 2]
+CHF [Nominalbetrag] je Stammanteil, zum Ausgabebetrag je Stammanteil 
+von CHF [Ausgabebetrag]
+Eventuell: (Nennung von weiteren, mit den Sacheinlegern nicht identischen 	Total CHF [Betrag 3]
+natürlichen oder juristischen Personen, denen [Zahl] Stammanteile zugeteilt
+ werden)
+Total [gesamter Ausgabebetrag der Stammanteile]	Total CHF [Betrag 1+2+3]
+
+Der Übernahmepreis ist durch die Ausgabe der Stammanteile vollständig getilgt.
+Variante (Nennung einer anderen Art der Tilgung wie etwa):
+Für den über den Ausgabebetrag der gezeichneten Stammanteile hinausgehenden Betrag des Übernahmepreises erwirbt der Sacheinleger 1 eine Darlehensforderung gegenüber der Gesellschaft, welche gemäss separatem Darlehensvertrag verzinst und amortisiert wird.
+Variante:
+Die Differenz von CHF [Betrag] zwischen dem Aktivenüberschuss und dem Nominalwert der ausgegebenen Stammanteile stellt Agio dar und wird der gesetzlichen Kapitalreserve der Gesellschaft gutgeschrieben.
+4.	Gewährleistung
+Die Sacheinleger geben jeweils folgende Gewährleistungen in Bezug auf ihre Sacheinlage ab:
+Sie können frei über die Sacheinlagegegenstände verfügen und dieselben sind frei von jeglichen Pfandrechten oder anderen Rechten Dritter;
+Die Sacheinlagegegenstände sind sacheinlagefähig (aktivierbar, übertragbar, frei verfügbar und verwertbar), befinden sich in einem guten und gebrauchsfähigen Zustand und sind angemessen bewertet (vgl. Bewertung gemäss Anhang [Fundstelle]), d.h. der wirkliche Wert der Sacheinlagegegenstände entspricht dem Übernahmepreis.
+Weitere Gewährleistungen werden hiermit wegbedungen. Im Gewährleistungsfall ist jeder betroffene Sacheinleger dazu verpflichtet, den Differenzbetrag zwischen dem Übernahmepreis und dem wirklichen Wert seiner Sacheinlage innert [Frist] in bar nachzuzahlen. Vorbehalten bleiben die Regeln zur Kaduzierung.
+5.	Vollzug
+Der Vollzug der Eigentumsübertragung der Sacheinlagegegenstände gemäss Ziffer [1] vorstehend erfolgt unmittelbar im Anschluss an die Unterzeichnung des vorliegenden Vertrages noch vor der Handelsregistereintragung der Gesellschaft. Die Sacheinleger verpflichten sich, sämtliche rechtlichen Vorkehrungen zu treffen, dass der Rechtserwerb der Gesellschaft an den Sacheinlagegegenständen gemäss Ziffer [1] auf den Zeitpunkt der Handelsregistereintragung rechtsgültig erfolgt und damit sichergestellt ist, dass die Gesellschaft unmittelbar danach rechtlich uneingeschränkt über die betreffenden Vermögenswerte verfügen kann.
+6.	Bedingung, Nutzen und Gefahr
+Die rechtsgeschäftliche Verpflichtung zur Vermögensübertragung und deren Vollzug stehen unter der Bedingung der rechtsgültigen Handelsregistereintragung der Gesellschaft. Nutzen und Gefahr an den übertragenen Vermögenswerten wechseln auf den Zeitpunkt der Handelsregistereintragung.
+[Ort, Datum]
+______________________ [Unterschriften der Sacheinleger 1, 2, evtl. weitere]
+
+[Firma] GmbH in Gründung
+______________________ [Unterschriften der Gründer 1, 2, evtl. weitere]

@@ -1,0 +1,7 @@
+Verrechnungserklärung
+Mit Zeichnungsschein vom [Datum] hat sich [Name] von [Bürgerort Zeichner] in [Wohnort] zur Zeichnung von [Anzahl] [Art]-Stammanteile zum Nennwert von je CHF [Nennwert] und Ausgabebetrag von je CHF [Betrag], mithin zu einem Gesamtausgabebetrag von CHF [Ausgabebetrag], verpflichtet.
+[Name Zeichner] erklärt hiermit die Verrechnung des Ausgabebetrags von CHF [Einlage] mit dem entsprechenden Betrag seines bestehenden, unbestrittenen und uneingeschränkt verrechenbaren Guthabens gegenüber der Gesellschaft aus Vereinbarung vom [Datum] über [Forderungsgrund].
+[Ort] [Datum]
+(Unterschrift)
+..........................................
+[Zeichner]
