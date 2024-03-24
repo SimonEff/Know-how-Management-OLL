@@ -1,0 +1,892 @@
+ 
+ 
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis
+Die Einlage von Kryptowährungen zur
+Gründung einer Gesellschaft
+Die Liberierung des erforderlichen Gesellschaftskapitals kann durch Hin-
+terlegung bei einer Schweizer Bank oder mittels Sacheinlage erfolgen. Weil
+Schweizer Banken Gesellschaften mit einem Krypto-Bezug (sog. «Krypto-
+Gesellschaften») zurückhaltend gegenüber stehen, ist es in der Praxis schwie-
+rig, solche Gesellschaften mittels Bareinlage zu gründen. Diese Problematik
+kann gelöst werden, indem Kryptowährungen als Sacheinlage in die zu grün-
+dende Gesellschaft eingebracht werden. Die Verfasser haben Erfahrungen mit
+solchen «Krypto-Gründungen» gesammelt und beleuchten im vorliegenden
+Beitrag einige Problemfelder und deren Lösungen.
+Beitragsart: Beiträge
+Rechtsgebiete: Informatik und Recht, Wirtschafts- und
+Wirtschaftsverwaltungsrecht, Rechtsinformatik, Privatrecht
+Zitiervorschlag: Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von
+Kryptowährungen zur Gründung einer Gesellschaft, in: Jusletter 20. Mai 2019
+ISSN 1424-7410, jusletter.weblaw.ch, Weblaw AG, info@weblaw.ch, T +41 31 380 57 77
+ 
+ 
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+Inhaltsverzeichnis
+1.
+Einleitung
+2.
+Bareinlage von Kryptowährungen
+3.
+Sacheinlage von Kryptowährungen
+3.1.
+Anwendbarkeit der Sacheinlagevorschriften
+3.2.
+Einzelne Voraussetzungen
+3.2.1.
+Übersicht
+3.2.2.
+Aktivierbarkeit
+3.2.3.
+Freie Übertragbarkeit
+3.2.4.
+Freie Verfügbarkeit
+3.2.5.
+Freie Verwertbarkeit
+3.2.6.
+Zwischenfazit
+3.3.
+Sacheinlagevertrag
+3.4.
+Gründungsbericht
+3.5.
+Prüfbestätigung
+3.6.
+Oﬀenlegungspﬂicht
+4.
+Schlussbemerkungen
+1.
+Einleitung
+[Rz 1] Im Frühjahr des vergangenen Jahres wurde der Höhenﬂug der Kryptowährungskurse1 jäh
+gebremst. Diese Entwicklung geniesst den Vorteil, dass sich – auf deutlich bescheidener Flughö-
+he – ein im Vergleich zu früher verhältnismässig relativ stabiler Kurs eingependelt hat.2 Damit
+bleiben Einlagen von Kryptowährungen aktuell, obwohl sich der stereotypische Einleger tenden-
+ziell weg vom Spekulanten hin zum technikaﬃnen Unternehmer entwickelt hat.
+[Rz 2] Schweizer Banken sind generell zurückhaltend bei der Aufnahme von Geschäftsbeziehun-
+gen mit Gesellschaften, welche Mittel durch ein Initial Coin Oﬀering (ICO)3 aufnehmen oder
+1
+Kryptowährungen können deﬁniert werden als kryptograﬁsche und dezentral gespeicherte Datenelemente, welche
+in der jeweiligen Krypto-Community als Zahlungsmittel anerkannt sind; ähnlich Urteil des Bundesverwaltungsge-
+richts B-5769/2017 vom 21. Januar 2019, E. 3.2; vgl. auch Tina Balzli, S. 6. Kapitel: Blockchain und Kryptowäh-
+rungen, in: Ulf Klebeck/Günther Dobrauz-Saldapenna (Hrsg.), Rechtshandbuch Digitale Finanzdienstleistungen,
+FinTechs, Mobile Payment, Crowdfunding, Blockchain, Kryptowährungen, ICOs, Robo-Advice, München 2018,
+S. 411 ﬀ., Rz. 33; Sabine Gless/Peter Kugler/Dario Stagno, Was ist Geld? Und warum schützt man es? recht
+2015, S. 82 ﬀ., S. 86; Sébastien Gobat, Les monnaies virtuelles à l’épreuve de la LP, AJP 2016, S. 1095 ﬀ., S. 1096;
+Lukas Müller/Thomas Stoltz/Tobias A. Kallenbach, Liberierung des Aktienkapitals mittels Kryptowäh-
+rung, Eignen sich Bitcoins und andere Kryptowährungen zur Kapitalaufbringung?, S. 1318 ﬀ., S. 1319; Bruno
+Pasquier/Jean-Marie Ayer, Les ICO « industrielles », Obstacles au transfert d’actions sur la blockchain et alternati-
+ves, AJP 2019, S. 413 ﬀ., S. 414. Die Kryptowährungen sind auf einer sog. Blockchain gespeichert; vgl. zu den tech-
+nischen Grundfragen der Blockchain Benedikt Seiler/Daniel Seiler, Sind Kryptowährungen wie Bitcoin (BTC),
+Ethereum (ETH) und Ripple (XRP) als Sachen im Sinne des ZGB zu behandeln?, sui-generis 2018, S. 149, Rz. 4 ﬀ.;
+vgl. auch Seraina Grünewald, Währungs- und geldwäschereirechtliche Fragen bei virtuellen Währungen, in: Rolf
+H. Weber/Florent Thouvenin (Hrsg.), Rechtliche Herausforderungen durch webbasierte und mobile Zahlungs-
+systeme, Zürich/Basel/Genf 2015, S. 93 ﬀ., S. 94 ﬀ.; Martin Hess/Patrick Spielmann, Cryptocurrencies, Block-
+chain, Handelsplätze & Co. – Digitalisierte Werte unter Schweizer Recht, in: Thomas U. Reutter/Thomas Werlen
+(Hrsg.), Kapitalmarkt – Recht und Transaktionen XII, Zürich/Basel/Genf 2017, S. 145 ﬀ., S. 152 f.; Alexander F.
+Wagner/Rolf H. Weber, Corporate Governance auf der Blockchain, SZW 2017, S. 59 ﬀ., S. 61; Rolf H. Weber,
+Blockchain als rechtliche Herausforderung, in: Jusletter IT 18. Mai 2017, Rz. 1 ﬀ.
+2
+Kritisch Giovanni Molo/Jana Drzalic, Können Kryptowährungen compliant sein?, AJP 2019, S. 40 ﬀ., S. 57.
+3
+Eine klare Deﬁnition des ICO besteht nicht. Hauptmerkmal eines ICO ist die Herausgabe von digitalen, über-
+tragbaren, einmaligen Coins bzw. Token an die Teilnehmer typischerweise gegen Einlage einer gesetzlichen
+oder virtuellen Währung; vgl. auch Jacques Iffland/Alessandra Läser, Die Tokenisierung von Eﬀekten,
+GesKR 2018, S. 415 ﬀ., S. 415 Anm. 1 und S. 417; Pasquier/Ayer (Fn. 1), S. 413; Dominic Wyss, Initial Co-
+in Oﬀerings (ICOs), in: Jusletter 3. Dezember 2018, S. 8 ﬀ.; Schweizerische Bankiervereinigung, Leitfaden der
+SBVg zur Eröﬀnung von Firmenkonten für Blockchain-Unternehmen vom September 2018, abrufbar unter
+https://www.swissbanking.org/library/richtlinien/leitfaden-der-sbvg-zur-eroeﬀnung-von-ﬁrmenkonti-fuer-
+2
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+sonstige Geschäfte mit Kryptowährungen tätigen.4 Nur einzelne Banken haben sich bislang ins
+Geschäft mit Kryptowährungen vorgewagt, wenige beraten und unterstützen aktiv bei ICOs.
+Die Schweizerische Bankiervereinigung (SBVg) wollte dieser restriktiven Bankenpraxis mit ei-
+nem Leitfaden5 zur Eröﬀnung von Firmenkonten für Blockchain-Unternehmen entgegenwirken.6
+Trotz dieses Leitfadens bleibt etlichen Unternehmen im Kryptobereich der Weg einer Bargrün-
+dung versperrt. Das schweizerische Obligationenrecht verlangt bei der Gründung einer Gesell-
+schaft mittels Bareinlage die Leistung der Einlage bei einem schweizerischen Bankinstitut (vgl.
+Art. 633 Abs. 1 OR). Mittels Kontoausweis von einer ausländischen Bank lässt sich keine schwei-
+zerische Gesellschaft errichten.7
+[Rz 3] Eine Alternative zur Bargründung ist die Gründung mittels Kryptowährung. Die Gründer
+von Krypto-Gesellschaften8 besitzen in der Regel bereits selbst Kryptowährungen oder haben
+zumindest digitale Wallets zum Erwerb von Kryptowährungen eingerichtet und können mit be-
+scheidenem Aufwand entsprechende Kryptowährungen erwerben. Es ist deshalb naheliegend,
+dass eine solche Gesellschaft nicht erst im operativen Stadium bzw. nach einem ICO Kryptowäh-
+rungen erwirbt, sondern bereits damit gegründet wird.9 In der Praxis erfolgt die Gründung dann
+mittels Sacheinlage.10 Etliche solche Sacheinlagegründungen wurden bereits durchgeführt.
+2.
+Bareinlage von Kryptowährungen
+[Rz 4] Kryptowährungen wie Bitcoin (BTC), Ripple (XRP) oder Ether (ETH) qualiﬁzieren nicht
+als gesetzliche Zahlungsmittel.11 Artikel 2 des Bundesgesetzes über die Währung und die Zah-
+blockchain-unternehmen/sbvg_leitfaden_kontoeroeﬀnung_d.pdf/ (Stand sämtlicher Internet-Referenzen in die-
+sem Beitrag ist der 15. Mai 2019), S. 14.
+4
+Ebenso Bericht des Bundesrates vom 14. Dezember 2018 zu den rechtlichen Grundlagen für Distributed Ledger-
+Technologie und Blockchain in der Schweiz, Eine Auslegeordnung mit Fokus auf dem Finanzsektor, abrufbar
+unter https://www.newsd.admin.ch/newsd/message/attachments/55150.pdf, S. 16 f.; vgl. als Beispiel die Zuger
+Kantonalbank: https://www.zugerkb.ch/ﬁrmen/gr%C3%BCndung-und-nachfolge/aufnahme-von-
+geschaeftsbeziehungen.
+5
+Vgl. dazu oben Fn. 3.
+6
+Unseres Erachtens äussert sich der Leitfaden nur zur Gründung, bei der gleichzeitig sog. Token ausgegeben wer-
+den. Eine Ausgabe und spätere Übertragung von Aktien als Token ist mit den geltenden Übertragungsmöglich-
+keiten kaum praxisfähig und nur unter zielorientiert konstruierter rechtlicher Argumentation möglich, ebenso
+Pasquier/Ayer (Fn. 1), S. 421, a. M. Hans Caspar von der Crone/Martin Monsch/Luzius Meisser, Aktien-Token,
+Eine privatrechtliche Analyse der Möglichkeit des Gebrauchs von DLT-Systemen zur Abbildung und Übertragung
+von Aktien, GesKR 2019, S. 1 ﬀ., S. 12 ﬀ. und S. 17; vgl. zum Ganzen Mirjam Eggen, Was ist ein Token?, AJP 2018,
+S. 558 ﬀ., S. 562 f. Zukünftig soll eine blockchainbasierte Übertragung von Aktien durch Gesetzesrevision möglich
+werden: Art. 622 Abs. 1 VE-OR i. V. m. Art. 973d VE-OR; vgl. auch Erläuternder Bericht zum Bundesgesetz zur An-
+passung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register (DLT) vom 22. März
+2019, S. 9 f. und S. 27 ﬀ.; kritisch zur Frage, ob mit dem aktuell vorgeschlagenen Wortlaut die rechtlichen Proble-
+me der Blockchain-Übertragung gelöst werden: Pasquier/Ayer (Fn. 1), S. 421.
+7
+Anders sieht es aus für die Geschäftsbeziehungen nach erfolgter Gründung, die nach geltenden Vorschriften
+durchaus über ein ausländisches Institut laufen können.
+8
+Als Krypto-Gesellschaften werden gemäss vorliegendem Verständnis diejenigen Rechtseinheiten verstanden, die
+sich entweder mittels Kryptowährungen ﬁnanzieren oder deren Geschäftstätigkeit vordergründig einen Zusam-
+menhang mit Kryptowährungen (z. B. Handel oder Vermögensverwaltung von Kryptowährungen) aufweist.
+9
+In der Praxis erscheint für Krypto-Gesellschaften eine krypto-bezogene Gründung nicht zuletzt aus Marketing-
+überlegungen interessant; vgl. zum Ganzen auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1321.
+10
+Vgl. zum Beispiel die Tezos AG (Zug) oder die IndéNodes GmbH (Neuenburg).
+11
+Vgl. für Bitcoin René Krügel, Die Behandlung von Bitcoin nach OR-Rechnungslegungsrecht, Expert Focus 2018,
+S. 6 ﬀ., S. 6; vgl. jedoch Bericht des Bundesrates zu Blockchain (Fn. 4), S. 55, der Kryptowährungen immerhin unter
+den «Geldbegriﬀim weitesten Sinn» subsumiert.
+3
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+lungsmittel (WZG) legt fest, dass als gesetzliche Zahlungsmittel die vom Bund ausgegebenen
+Münzen, die von der Schweizerischen Nationalbank (SNB) ausgegebenen Banknoten und die auf
+Franken lautenden Sichtguthaben bei der SNB gelten. Die Kryptowährungen sind nicht staatlich
+ausgegeben und können somit nicht unter den Begriﬀdes gesetzlichen Zahlungsmittels fallen.12
+[Rz 5] Für die Barliberierung verlangt das Gesetz die Hinterlegung des Geldes bei einem dem
+Bankengesetz unterstellten Institut (vgl. Art. 633 OR). Da die Banken zum heutigen Zeitpunkt
+keine solchen Kryptowährungskonti anbieten, ist es bereits aus praktischer Sicht nicht möglich,
+dass eine Barliberierung mittels Kryptowährung erfolgt.13 Auch aus dogmatischer Sicht wäre es
+nicht klar, ob eine Hinterlegung von BTC etc. unter die Barliberierung fallen würde.14 Zwar ist
+die Barliberierung mittels frei konvertibler Fremdwährung (z. B. EUR, USD, GBP und JPY)15 ge-
+mäss 20-jähriger Praxis möglich, sofern der einbezahlte Betrag zum Zeitpunkt der Eintragung ins
+Handelsregister dem zu liberierenden Kapital entspricht (z. B. CHF 100’000 für die Vollliberie-
+rung bei der Aktiengesellschaft).16 Im Unterschied zu Kryptowährungen sind Fremdwährungen
+im Ursprungsland jedoch als gesetzliche Zahlungsmittel anerkannt.17 Zahlungssurrogate sind bei
+der Barliberierung zwar zulässig, dies jedoch nur dann, wenn sie zur gesetzlich geregelten Gut-
+schrift auf dem Einzahlungskonto bei der entsprechenden Bank führen.18 Bei Fremdwährungen
+ist erforderlich, dass diese neben der freien Konvertibilität ebenfalls in der Schweiz mit einem all-
+gemein anerkannten, leicht zugänglichen Wechselkurs gehandelt werden.19 Gemäss vorliegender
+Auﬀassung ist dieses Kriterium bei Kryptowährungen wie BTC und ETH in keiner Weise erfüllt.
+Zwar machen uns etliche mehr oder minder regulierte Tauschbörsen von Kryptowährungen weis,
+dass es so was wie einen aktuellen Wechselkurs der genannten Kryptowährungen gäbe. In Tat
+und Wahrheit werden die meisten BTC-Transaktionen jedoch ausserhalb dieser Tauschbörsen ab-
+12
+François Piller, Virtuelle Währungen – Reale Rechtsprobleme? Eine zivil- und vollstreckungsrechtliche Unter-
+suchung aus der Sicht der Bitcoin-Nutzer, AJP 2017, S. 1426 ﬀ., S. 1428. Im Ergebnis ebenso Handelsregister-
+amt des Kantons Zug, Merkblatt über die Liberierung mit einer Kryptowährung, abrufbar unter https://www.zg.
+ch/behoerden/volkswirtschaftsdirektion/handelsregisteramt/merkblaetter/informationen-zur-anmeldung/
+Merkblatt%20ueber%20Liberierung%20mit%20Kryptowaehrungen.pdf/download: «Soll das Gesellschaftskapital
+im Zuge einer Gründung, Kapitalerhöhung oder nachträglichen (Voll-) Liberierung mittels einer Kryptowährung
+liberiert werden, handelt es sich nicht um eine Barliberierung, sondern um eine Liberierung mittels Sacheinlage».
+13
+Ebenso SBVg-Leitfaden (Fn. 3), S. 10; von der Crone/Monsch/Meisser (Fn. 6), S. 10.
+14
+Für eine analoge Anwendung Müller/Stoltz/Kallenbach (Fn. 1), S. 1321 ﬀ. und wohl auch von der Crone/
+Monsch/Meisser (Fn. 13), S. 10.
+15
+Manuel Meyer, Die Sacheinlage im Aktienrecht, Unter Berücksichtigung der aktuellen Aktienrechtsrevision (Diss.
+Freiburg i. Ue. 2015 = SSHW Bd. 328), Rz. 247 geht davon aus, dass auch die übrigen 17 Währungen des Devisen-
+abwicklungssystems Continuous Linked Settlement frei konvertibel sind. Nicht frei konvertibel ist hingegen etwa
+der CNY, vgl. dazu nur Conradin Cramer, in: Lukas Handschin, Zürcher Kommentar, Art. 620–659b OR, Die Akti-
+engesellschaft, Allgemeine Bestimmungen, Zürich 2016, Art. 633 N. 10 Anm. 21 (zit. ZK-Cramer).
+16
+Lukas Handschin/Conradin Cramer, Gründung und Kapital bei AG und GmbH – ausgewählte Fragen, in: Jörg
+Schmid (Hrsg.), Gesellschaftsrecht und Notar – Beiträge der Weiterbildungsseminare der Stiftung Schweizerisches
+Notariat vom 1. September 2015 in Zürich und vom 8. September 2015 in Lausanne, Zürich 2016, S. 39 ﬀ., S. 60 f.;
+Müller/Stoltz/Kallenbach (Fn. 1), S. 1321; a. M. Peter Böckli, Schweizer Aktienrecht, 4. Auﬂ., Zürich 2009, §
+1 Rz. 361 (Qualiﬁkation als sacheinlage-/sachübernahmeähnlichen Fall mit dem Erfordernis eines Gründungsbe-
+richts); kritisch ebenfalls Meyer (Fn. 15), Rz. 265.
+17
+Dazu Bericht des Bundesrates zu virtuellen Währungen in Beantwortung der Postulate Schwaab (13.3687) und
+Weibel (13.4070) vom 25. Juni 2014, S. 30 und Erläuterungsbericht der FINMA zur Totalrevision der GwV-FINMA
+vom 11. Februar 2015, S. 11; vgl. auch Hess/Spielmann (Fn. 1), S. 175 und Piller (Fn. 12), S. 1428.
+18
+Paul Thalmann/Nora Benninger, Bares ist Wahres, Zur Liberierung in Fremdwährungen nach schweizerischem
+Aktienrecht, REPRAX 4/2003, S. 19 ﬀ., S. 20; Böckli (Fn. 16), § 1 Rz. 353.
+19
+Böckli (Fn. 16), §1 Rz. 360; Meyer (Fn. 15), Rz. 249 ﬀ. Leider lässt der Bericht des Bundesrates zu Blockchain
+(Fn. 4), S. 55 f. oﬀen, ob er an seiner Begründung aus dem Jahre 2014 festhält, wonach den Kryptowährungen auf-
+grund der hohen Volatilität keine Geldqualität zukommt. Anders als vom Bundesrat angenommen, kommt dieser
+Rechtsfrage durchaus Bedeutung zu, was sich gerade bei der Frage der Liberierung beweist.
+4
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+gewickelt. Der Markt ist in hohem Masse intransparent und manipulationsanfällig. Solange der
+Handel und der Verkehr mit Kryptowährungen wenig transparent und nicht reguliert ist, qualiﬁ-
+zieren Einlagen in Kryptowährungen bei einer schweizerischen Bank daher nicht als Bareinlagen
+im Sinne von Art. 633 OR. Die vereinfachte Liberierung nach den Vorschriften der Barliberierung
+bleibt Kryptowährungen u. E. deshalb zu Recht verwehrt.
+[Rz 6] Interessant würde es allerdings dann, wenn eine (ausländische) Rechtsordnung Kryp-
+towährungen als gesetzliche Zahlungsmittel anerkennt.20 In diesem Fall – und wenn gleich-
+zeitig die Banken eine Kryptohinterlegung akzeptierten – müssten sich die Handelsregisteräm-
+ter ernsthaft mit dem Gedanken einer Krypto-Barliberierung auseinandersetzen.21 Sowohl die
+(ausser-)staatliche Anerkennung wie auch die Akzeptanz durch die Banken sind momentan je-
+doch in derart weiter Ferne, dass wohl selbst eine algorithmische Erfassung zur Herausforderung
+verkäme.
+[Rz 7] Zu untersuchen ist folglich, ob Kryptowährungen unter den Sacheinlagebegriﬀfallen und
+– falls ja – ob sie die entsprechenden Voraussetzungen erfüllen.
+3.
+Sacheinlage von Kryptowährungen
+3.1.
+Anwendbarkeit der Sacheinlagevorschriften
+[Rz 8] Eine Sacheinlage liegt vor, wenn die Liberierungsschuld des Zeichners durch die Übertra-
+gung von Sachen oder von andern Vermögenswerten (Patenten, Marken usw.) an die zu gründen-
+de Gesellschaft getilgt wird.22 Die erhöhten Anforderungen an eine Sacheinlage gegenüber der
+Barliberierung des Aktienkapitals sind mit der Funktion des Aktienkapitals und der erschwerten
+Bewertbarkeit der geleisteten Sacheinlage zur Erfüllung der Liberierungsschuld gegenüber dem
+Bargeldwert zu begründen. Damit die Funktion des Aktienkapitals, insbesondere der Schutz der
+Gläubiger und Aktionäre, aufgrund einer Überbewertung nicht ausgehöhlt werden kann, sieht
+das Gesetz für die Sacheinlage folglich die entsprechenden Schutzmechanismen vor.23
+[Rz 9] Hauptvoraussetzung für das Vorliegen einer Sache24 ist dabei die Körperlichkeit des ent-
+sprechenden Gegenstandes.25 Bei Kryptowährungen ist die Körperlichkeit nicht gegeben: Wer
+20
+Volkswirtschaftlich dürfte diese Möglichkeit mittelfristig nur dann realistisch werden, wenn sich etablierte Kryp-
+towährungen wie der BTC weiter stabilisieren und gleichzeitig das Anerkennungsland mit einer stark schwanken-
+den, meist hyperinﬂationären Währung zu kämpfen hat.
+21
+Harald Bärtschi/Nicolas Jacquemart/Stephan D. Meyer, Zahlung und Verzug bei virtuellen Währungen,
+in: Susan Emmenegger (Hrsg.), Zahlungsverkehr, Basel 2018, S. 177 ﬀ., S. 198; vgl. auch Balzli (Fn. 1), Rz. 59;
+Grünewald (Fn. 1), S. 98 f.; kritisch betreﬀend die freie Konvertierbarkeit Müller/Stoltz/Kallenbach (Fn. 1),
+S. 1322; demgegenüber vertritt Florian Schönknecht, Der Einlagebegriﬀnach Bankengesetz, GesKR 2016,
+S. 300 ﬀ., S. 309 die Auﬀassung, dass Bitcoins ohne Weiteres in staatliche Währungen gewechselt werden können.
+22
+Botschaft über die Revision des Aktienrechts vom 23. Februar 1983 (BBl 1983 II 745), S. 854.
+23
+Böckli (Fn. 16), § 1 Rz. 372 f. und 393; Franz Schenker, in: Heinrich Honsell/Nedim Peter Vogt/Rolf Watter
+(Hrsg.), Basler Kommentar, Obligationenrecht II, Art. 530–964 OR inkl. Schlussbestimmungen, 5. Auﬂ., Basel 2016
+(zit. BSK OR II-Verfasser), Art. 628 N. 1; Meyer (Fn. 15), Rz. 91 ﬀ; Guy Beroud/Pascal Favrod-Coune, La libérati-
+on du capital d’une société par apport de crypto-monnaies, Bulletin CEDIDAC Nr. 70, Kap. II.
+24
+Zum Begriﬀder Sache: Bettina Hürlimann-Kaup, Zahlung mit Bitcoins: Zahlung mit Sachen?, in: Susan
+Emmenegger (Hrsg.), Zahlungsverkehr, Basel 2018, S. 139 ﬀ., S. 142.
+25
+Bericht des Bundesrats zu Blockchain (Fn. 4), S. 47 f., m. w. H.; Hess/Spielmann (Fn. 1), S. 195; Ronald Kogens/
+Catrina Luchsinger Gähwiler, Token als Erklärungsträger für Forderungs- und Mitgliedschaftsrechte, in:
+Jusletter 17. Dezember 2018, Rz. 3; vgl. aber Seiler/Seiler (Fn. 1), Rz. 25 ﬀ. mit einer «zeitgemässen Auslegung»
+des Elements der Körperlichkeit.
+5
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+beispielsweise einen BTC besitzt, der ist nicht Eigentümer dieser Kryptowährung (Eigentum kann
+nur an Sachen erworben werden).26 Die Blockchain, welche als Datei zu qualiﬁzieren ist, stellt nur
+das Protokoll dar, auf dem «protokolliert» wird, wer wie viele BTC «besitzt». Die BTC selbst sind
+aber von den Daten auf der Blockchain zu unterscheiden.27 Der BTC stellt somit kein materiel-
+les Gut dar; er ist nur indirekt mittels Blockchain auf dem bzw. den Laufwerken registriert.28 Es
+ist deshalb der Lehre zuzustimmen, wenn sie sog. Native Token (wozu auch Kryptowährungen
+zählen) als Vermögenswerte ohne Rechtsqualität qualiﬁziert.29 Da der Anwendungsbereich der
+Sacheinlage über die Sachen im Sinne von Art. 641 ﬀ. ZGB hinausgeht und jegliche Vermögens-
+werte erfasst, welche die Voraussetzungen aus Kap. 3.2. (Rz. 10 ﬀ.) erfüllen,30 ist es unerheblich,
+dass Kryptowährungen diese Rechtsqualität nicht aufweisen.31
+3.2.
+Einzelne Voraussetzungen
+3.2.1.
+Übersicht
+[Rz 10] Gemäss etablierter Praxis der Handelsregisterämter und der h. L. ist die Qualität der
+Sacheinlage an folgende vier Voraussetzungen gebunden: Aktivierbarkeit, freie Übertragbarkeit,
+freie Verfügbarkeit und freie Verwertbarkeit.32 Zukünftig sollen diese Voraussetzungen gar aus
+dem Gesetzestext hervorgehen (vgl. Art. 634 eOR).
+26
+Pasquier/Ayer (Fn. 1), S. 418; Jörg Schmid/Bettina Hürlimann-Kaup, Sachenrecht, 5. Auﬂ., Zürich/Basel/Genf
+2017, Rz. 694; ähnlich Gobat (Fn. 1), S. 1098; a. M. Martin Eckert, Digitale Daten als Wirtschaftsgut: digitale
+Daten als Sache, SJZ 2016, S. 245 ﬀ., S. 248.
+27
+Bettina Hürlimann-Kaup, Aussonderung von Bitcoins im Konkurs des Verwahrers?, AJP 2018, S. 1447 ﬀ., S. 1447;
+Christian Meisser/Luzius Meisser/Ronald Kogens, Verfügungsmacht an Bitcoins im Konkurs, in: Jusletter IT
+24. Mai 2018, Rz. 4; unklar Schönknecht (Fn. 21), S. 309 f.
+28
+Atomistisches Eigentum an den Blockchain-Laufwerken haben die Miner – die ihrerseits jedoch gemäss White Pa-
+per (zum Begriﬀvgl. Wyss [Fn. 3], S. 12) nur einen kleinen Teil der entsprechenden Kryptowährung beanspruchen,
+wenn überhaupt (d. h. wenn sie diesen Anspruch nicht bereits auf der Blockchain weitergegeben haben). Das Eigen-
+tum an den Blockchain-Laufwerken ist zudem vom Vermögenswert der jeweiligen Kryptowährung zu trennen, da
+den Laufwerken an sich – im Gegenzug zur dahinter stehenden Kryptowährung – ein verschwindend kleiner Wert
+zukommt, dazu treﬀend Hess/Spielmann (Fn. 1), S. 196.
+29
+Bericht des Bundesrats zu Blockchain (Fn. 4), S. 54 m. w. H. («faktische Vermögenswerte»); Balzli (Fn. 1), Rz. 42 ﬀ.
+und insbesondere Rz. 44; Eggen, (Fn. 6), S. 562 f.; Gobat (Fn. 1), S. 1099; Hürlimann-Kaup (Fn. 27), S. 1447;
+Piller (Fn. 12), S. 1429; a. M. Kogens/Luchsinger Gähwiler (Fn. 25), Rz. 10 f. (analoge Anwendung von Art. 713
+des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907; SR 210; ZGB); Eckert Martin K., Digitale Sachen:
+Was sind Daten, juristisch gesehen? Annäherung eines Anwalts an ein nur scheinbar triviales Thema. Handels-
+zeitung, Ausgabe 37, S. 28; vgl. auch Meisser/Meisser/Kogens (Fn. 27), Rz. 4, die von rivalisierenden, ﬁktiven,
+unkörperlichen Gegenständen sui generis ausgehen.
+30
+Dazu eingehend Meyer (Fn. 15), Rz. 289 f., m. w. H.
+31
+Ebenso Müller/Stoltz/Kallenbach (Fn. 1), S. 1322 f.
+32
+Mitteilung des Eidgenössischen Amts für das Handelsregister (EHRA) betreﬀend Sacheinlage und Sachübernahme
+vom 15. August 2001, S. 2 f.; Botschaft zur Änderung des Obligationenrechts (Aktienrecht) vom 23. November
+2016 (BBl 2017 399), S. 490; BSK OR II-Schenker (Fn. 23), Art. 628 N. 3; Müller/Stoltz/Kallenbach (Fn. 1),
+S. 1322; ZK-Cramer (Fn. 15), Art. 634 N. 4; von der Crone/Monsch/Meisser (Fn. 13), S. 10; Peter Forstmoser/
+Arthur Meier-Hayoz/Peter Nobel, Schweizerisches Aktienrecht, Bern 1996, § 15 Rz. 9 ﬀ., erwähnen als fünftes
+Kriterium die Werthaltigkeit des eingelegten Gegenstandes, welche gemäss EHRA aber nicht zu berücksichtigen
+ist, dazu auch Meyer (Fn. 15), Rz. 291 und Rz. 348 ﬀ.).
+6
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+3.2.2.
+Aktivierbarkeit
+[Rz 11] Artikel 959 Abs. 2 OR deﬁniert Aktiven als bilanzierte Vermögenswerte, die «aufgrund
+vergangener Ereignisse» als verfügbar gelten, «ein Mittelzuﬂuss wahrscheinlich ist und ihr Wert
+verlässlich geschätzt werden kann». Entscheidend ist somit, dass ex post betrachtet die fraglichen
+Werte im Rechtsverkehr veräussert werden können und im Gegenzug ein Erlös realisiert wird.33
+[Rz 12] Für die etablierteren Kryptowährungen kann die Aktivierbarkeit bejaht werden, da an
+den Krypto-Börsen – oder, wie oben festgehalten,34 ausserhalb dieser Tauschbörsen – jederzeit
+ein Erlös erzielt werden kann.35 Als problematisch erscheint immerhin die Tatsache, dass Kryp-
+towährungen üblicherweise hohen Schwankungen unterworfen sind, die eine verlässliche Schät-
+zung erheblich erschweren.36 Hinzu tritt die Schwierigkeit, dass die Krypto-Kurse auf den ver-
+schiedenen Plattformen im Vergleich zu Wechselkursen herkömmlicher, staatlicher Währungen
+viel grössere Unterschiede aufweisen.37
+[Rz 13] Fraglich ist, ob die Kryptowährungen zu einem Marktpreis (Art. 960b OR) oder zum An-
+schaﬀungswert (Art. 960a Abs. 1 OR) bilanziert werden. Da die Kryptowährungen aktuell nicht
+an einer Börse im technischen Sinne gehandelt werden, käme höchstens ein «anderer beobacht-
+barer Marktpreis in einem aktiven Markt» (Art. 960b Abs. 1 OR) in Betracht. Der Gesetzgeber
+ging für einen solchen Marktpreis von regulierten Finanzmarktinfrastrukturen aus.38 Die Lehre
+verlangt weiter, dass es sich um ein homogenes Gut handelt, das praktisch beliebig austauschbar
+ist.39 Zudem werden erhöhte Transparenz- und Frequenzanforderungen an den beobachtbaren
+Markt gestellt.40 Die Kryptowährungen erfüllen u. E. die Voraussetzungen für eine Bilanzierung
+zum Marktpreis nicht und sind entsprechend maximal zum Anschaﬀungswert zu bilanzieren
+(Art. 960a Abs. 1 OR).41 Im Ergebnis können somit zumindest die gängigen Kryptowährungen
+wie BTC, XRP und ETH aktiviert werden, jedoch maximal zum Anschaﬀungswert.
+[Rz 14] Im Hinblick auf die zu erfüllenden Kapitalvorschriften muss der Umstand berücksich-
+tigt werden, dass der Wert der Kryptowährungen sehr volatil ist und mithin in kurzer Zeit an
+substantiellem Wert einbüssen kann.42 Obwohl aus rechtlicher Sicht nicht explizit verlangt,43
+33
+Dazu eingehend ZK-Cramer (Fn. 15), Art. 634 N. 5 ﬀ. und Meyer (Fn. 15), Rz. 292 ﬀ.; vgl. auch Böckli (Fn. 16), § 1
+Rz. 375 und Markus Bösiger, Sacheinlage- und Sachübernahmevertrag, SZW 2017, S. 398 ﬀ., S. 405.
+34
+Vgl. dazu oben Rz. 5.
+35
+Diese Aussage ergeht unter der Prämisse, dass die aufsichtsrechtlichen Verpﬂichtungen eingehalten wurden. Sollte
+dies nicht der Fall sein, könnte es sich allenfalls um verbotene Vermögenswerte handeln, die nicht aktivierbar sind,
+vgl. dazu Müller/Stoltz/Kallenbach (Fn. 1), S. 1324; Oesch David/Petry Heiko, Bilanzierung von Kryptowäh-
+rungen nach Banken-Rechnungslegungsvorschriften, Expert Fokus 2019, S. 20 ﬀ., S. 21 f.
+36
+Zu dieser Problematik auch Meyer (Fn. 15), Rz. 552.
+37
+Bericht des Bundesrates zu Blockchain (Fn. 4), S. 55 m. w. H.; Gless/Kugler/Stagno (Fn. 1), S. 87. Fraglich er-
+scheint zudem, ob auf diesen Tauschbörsen ein «wirklicher» Kurs angegeben wird, da – wie oben Rz. 5 erwähnt –
+die meisten Transaktionen ausserhalb dieser Börsen abgewickelt werden.
+38
+AB N 2010, S. 1380 f. mit einem Hinweis auf OTC-Märkte; vgl. dazu auch Lukas Handschin, Rechnungslegung im
+Gesellschaftsrecht, SPR Bd. VIII/9, 2. Auﬂ., Basel 2016, Rz. 613a.
+39
+BSK OR II- Neuhaus/Haag, Art. 960b N. 9 f.; Tobias Hüttche, in: Dieter Pfaﬀ/Stephan Glanz/Thomas Stenz/
+Florian Zihler (Hrsg.), Rechnungslegung nach Obligationenrecht, veb.ch Praxiskommentar, mit Berücksichtigung
+steuerrechtlicher Vorschriften (zit. PK veb-Verfasser), Art. 960b N. 17.
+40
+BSK OR II- Neuhaus/Haag, Art. 960b N. 11.
+41
+Wohl a. M. PK veb-Hüttche (Fn. 39), Art. 960b N. 22.
+42
+Vgl. Beroud/Favrod-Coune (Fn. 23), Kap. II.B.1; Gless/Kugler/Stagno (Fn. 1), S. 87; Müller/Stoltz/
+Kallenbach (Fn. 1), S. 1322.
+43
+Beroud/Favrod-Coune (Fn. 23), Kap. II.B.1.
+7
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+muss zur Vermeidung einer Unter-Pari-Emission eine Sicherheitsmarge eingebaut werden.44 Wie
+auch bei der Barliberierung mittels Fremdwährungen ist massgebend, dass der eingebrachte Wert
+im Zeitpunkt der Beurkundung der Gründung, am Tag der Eintragung im Tagesregister durch
+das kantonale Handelsregisteramt und am Tag der Genehmigung durch das EHRA umgerechnet
+mindestens dem zu liberierenden Betrag entspricht.45 Nach hier vertretener Ansicht sind deshalb
+Sicherheitsmargen in der Höhe der maximalen Kursschwankung innert zwei Wochen (angelehnt
+an den Erfahrungswert, dass der Gründungsprozess ab Unterzeichnung des Sacheinlagevertrags
+bis hin zum deﬁnitiven Handelsregistereintrag in einem seriös vorbereiteten Umfeld in dieser
+Periode regelmässig vonstatten gehen kann) in den vergangenen zwei Jahren angemessen.46 Bei
+jungen Kryptowährungen (weniger als zwei Jahre alt) und bei noch ausgeprägterer Volatilität
+(verglichen mit gängigen Kryptowährungen wie BTC, XRP oder ETH) sind weitere Sicherheits-
+margen zu empfehlen. Nur mit diesen Sicherheitsmargen kann das Risiko minimiert werden,
+dass in den entscheidenden Zeitpunkten (Beurkundung, Tagesregistereintrag und Genehmigung
+durch das EHRA) das erforderliche Kapital gedeckt ist.47
+3.2.3.
+Freie Übertragbarkeit
+[Rz 15] Kryptowährungen sind grundsätzlich übertragbar: Die Übertragung erfolgt bei Vermö-
+genswerten ohne Rechtsqualität dadurch, dass dem Empfänger faktische Verfügungsmacht über
+den Wert verschaﬀt wird.48 Dabei wird entweder ein Kryptowährungsbetrag auf das Wallet des
+Empfängers oder das ganze Wallet bzw. der Private Key auf den Empfänger übertragen.49
+[Rz 16] Die freie Übertragbarkeit ist dann nicht gewährleistet, wenn aufsichtsrechtliche Massnah-
+men ergriﬀen wurden. Bei Kryptowährungen steht eine Unterstellung des Krypto-Herausgebers
+unter das GwG im Zentrum (Art. 2 Abs. 3 lit. b GwG und Art. 4 Abs. 1 lit. b GwV).50 Da das
+44
+Handelsregisteramt des Kantons Zug (Fn. 12); ZK-Cramer (Fn. 15), Art. 633 N. 10. Bösiger (Fn. 33), S. 406 spricht
+in diesem Zusammenhang von einem «angemessenen Bewertungsabschlag».
+45
+Handelsregisteramt des Kantons Zug (Fn. 12); ZK-Cramer (Fn. 15), Art. 633 N. 10; vgl. auch Matthias D.
+Trautmann, Die qualiﬁzierte Kapitalerhöhung, AG, GmbH und Genossenschaft (Diss. ZH 2015 = SSHW Bd. 333),
+Zürich 2016, Rz. 97; weniger weit gehend Böckli (Fn. 16), § 1 Rz. 360.
+46
+Vgl. allgemein auch Böckli (Fn. 16), § 1 Rz. 360. Für den BTC resultiert aus dieser Formel eine empfohlene Sicher-
+heitsmarge von gegen 50 Prozent, angesichts dessen, dass sich Mitte November 2018 ein massiver Kurssturz ereig-
+nete.
+47
+A. M. Müller/Stoltz/Kallenbach (Fn. 1), S. 1325 und auch S. 1332, die einen «willkürlichen, pauschalen Be-
+wertungsabschlag» als unzulässig und widersprüchlich gegenüber den Rechnungslegungsvorschriften erachten
+(abweichend davon allerdings 1329 oben); vgl. zur «willkürlichen Unterbewertung» Hüttche (Fn. 39), Art. 960a
+N. 10. Nach hier vertretener Meinung ist jedoch ein solcher pauschaler Bewertungsabschlag keinesfalls willkürlich,
+sondern vom Aktienrecht gefordert, da die Aktivierbarkeit der Sacheinlage nicht ohne Einschränkungen bejaht
+werden kann und mit einem Abschlag um den nicht aktivierbaren, hoch spekulativen Teil vermindert wird. Ein
+solches Vorgehen ist keineswegs widersprüchlich unter dem Rechnungslegungsrecht. Verlangt wird eine vorsichti-
+ge Bewertung (Art. 960 Abs. 2 OR; anders nur bei Publikumsgesellschaften, bei welchen nach dem Prinzip von true
+and fair view verfahren wird). Des Weiteren ist ein Abschlag anlässlich der Gründung nach obgenannter Formel
+keineswegs willkürlich, stützt er sich doch auf Erfahrungswerte im Kurs der entsprechenden Kryptowährung und
+dient dazu den im Hinblick auf die Fortführung des Unternehmens korrekten Wert darzustellen.
+48
+Bericht des Bundesrates zu Blockchain (Fn. 4), S. 66 und Erläuternder Bericht DLT (Fn. 6), S. 8.
+49
+Vgl. Eggen (Fn. 6), S. 563; Harald Bärtschi/Christian Meisser, Virtuelle Währungen aus ﬁnanzmarkt- und zivil-
+rechtlicher Sicht, in: Rolf H. Weber/Florent Thouvenin (Hrsg.), Rechtliche Herausforderungen durch webbasierte
+und mobile Zahlungssysteme, Zürich 2015, S. 149 f.; a. M. Martin Hess/Stephanie Lienhard, Übertragung von
+Vermögenswerten auf der Blockchain, in: Jusletter 4. Dezember 2017, Rz. 41, die Token analog der Forderungsüber-
+tragung übertragen möchten.
+50
+Wegleitung der FINMA für Unterstellungsanfragen betreﬀend Initial Coin Oﬀerings (ICOs) vom 16. Februar 2018,
+S. 6.
+8
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+GwG den Funktionsschutz des Finanzsystems zum Ziel hat, muss erwartet werden, dass bei re-
+gulatorischen Verstössen trotz massiver Anlegerschädigung die Einziehung der entsprechenden
+Kryptowährung durchgeführt würde.51 In einem solchen Falle müsste der entsprechenden Kryp-
+towährung die Qualität als übertragbarer Vermögenswert versagt werden. Dasselbe gälte u. E.,
+wenn eine Kryptowährung durch eine wesentliche Anzahl Staaten verboten würde.
+3.2.4.
+Freie Verfügbarkeit
+[Rz 17] Artikel 634 Ziﬀ. 2 OR verlangt, dass die Gesellschaft nach ihrer Eintragung im Handels-
+register sofort als Eigentümerin über die geleistete Sacheinlage verfügen kann.52 Im Kontext von
+Kryptowährungen müssen sowohl das digitale Portemonnaie (Wallet mit Public Key) wie auch
+der Zugang zu diesem digitalen Portemonnaie (Private Key) im «Eigentum» der zu gründenden
+Gesellschaft, d. h. der einfachen Gründergesellschaft stehen.53 Da an Daten gemäss geltender
+Rechtslage aufgrund der fehlenden Körperlichkeit kein Eigentum bestehen kann,54 ist nach hier
+vertretener Auﬀassung zu verlangen, dass die Daten (insbesondere der Private Key) im frei ver-
+fügbaren Machtbereich der einfachen Gründergesellschaft stehen. Dabei ist zu unterscheiden, ob
+der Private Key auf einem sog. Desktop Wallet (d. h. auf der Festplatte des Computers gespeichert)
+oder auf einem Hardware Wallet (üblicherweise auf einem USB Stick gespeichert) installiert ist
+oder gar auf einem Paper Wallet (d. h. Abbildung auf einem Stück Papier) abgedruckt ist.55 Je
+nachdem muss der gesamte Computer, der USB Stick oder das Stück Papier in den Machtbereich
+der einfachen Gründergesellschaft überführt werden.
+[Rz 18] Kritische Stimmen mögen vorbringen, die freie Verfügbarkeit sei bei Wallets deshalb nicht
+gegeben, weil die Betreiber der Wallets für eine Verfügung mitwirken müssen.56 Mit dieser Argu-
+mentation dürften jedoch selbst gesperrte Kapitaleinzahlungskonti bei der Barliberierung dem
+Kriterium der freien Verfügbarkeit nicht genügen, da auch in dieser Konstellation eine Mitwir-
+kung der Bank als Kontobetreiberin erforderlich ist.57 Weitere kritische Argumente wie mögliche
+Hackerangriﬀe sind u. E. ebenfalls kein krypto-speziﬁsches Problem, sondern ein solches der
+gesamten digitalen Welt (zu der die Banken längst gehören).
+51
+Vgl. auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1326.
+52
+Vgl. Bösiger (Fn. 33), S. 405.
+53
+Zum Public Key und zum Private Key auch Bärtschi/Jacquemart/Meyer (Fn. 21), S. 194 f.; Hürlimann-Kaup
+(Fn. 27), S. 1447; Meisser/Meisser/Kogens (Fn. 27), Rz. 3. Zur Gründergesellschaft als einfache Gesellschaft:
+Böckli (Fn. 15), § 1 Rz. 92; Markus Vischer, Der Zeichnungs- bzw. Sacheinlagevertrag bei der AG, SJZ 2014,
+S. 537 ﬀ., S. 543.
+54
+Florent Thouvenin, Wem gehören meine Daten? Zu Sinn und Nutzen einer Erweiterung des Eigentumsbegriﬀs,
+SJZ 2017, S. 21 ﬀ., S. 25; Hürlimann-Kaup (Fn. 23), S. 142 f., m. w. H.; a. M. Eckert (Fn. 26), 249.
+55
+Vgl. zu den einzelnen Speicherformen Bärtschi/Jacquemart/Meyer (Fn. 21), S. 237; Gobat (Fn. 1), S. 1096; vgl.
+auch Meisser/Meisser/Kogens (Fn. 27), Rz. 18.
+56
+Vgl. Müller/Stoltz/Kallenbach (Fn. 1), S. 1326. Insbesondere ist in der Lehre umstritten, ob im Konkursfall ei-
+nes Wallet-Betreibers ein Aussonderungsrecht besteht, einlässlich dazu Erläuternder Bericht DLT (Fn. 6), S. 16 ﬀ.;
+vgl. auch Hürlimann-Kaup (Fn. 27), S. 1448 f. und Reiser Nina/Wyss Lukas, Vollgeld-Initiative und Alterna-
+tivkonzepte, SZW 2018, S. 164 ﬀ., S. 173 f; vgl. auch die Konstellation im Urteil des Bundesverwaltungsgerichts
+B-5769/2017 vom 21. Januar 2019, E. 3.2.
+57
+Diese Aussage soll nicht darüber hinwegtäuschen, dass die Banken prudentiell beaufsichtigt sind, während die
+Plattform-Betreiber in aller Regel «nur» GwG-reguliert sind.
+9
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+[Rz 19] An die Ausschliesslichkeit der Verfügungsmacht dürfen keine allzu hohen Anforderun-
+gen gestellt werden.58 So ist es bei der Sacheinlagegründung üblich, dass faktisch mehrere oder
+alle Gründer auch allein Zugriﬀauf die Sacheinlage haben.59 Deshalb ist es nach hier vertretener
+Auﬀassung unschädlich, dass sich faktisch jeder der Gründer auch alleine mit dem Private Key in
+das Wallet der Gründergesellschaft einloggen und mögliche Transaktionen tätigen kann.60
+3.2.5.
+Freie Verwertbarkeit
+[Rz 20] Die freie Verwertbarkeit verlangt die rechtliche und tatsächliche Möglichkeit, die Sachein-
+lage auf Dritte zu übertragen und daraus einen Erlös zu generieren.61 Sie ist nur dann gegeben,
+wenn für einen möglichen Verkauf (z. B. im Konkursfall) ein Markt besteht und dadurch eine
+Umwandlung in (Fiat-)Geld möglich ist.62 Das Marktvolumen ist ein wichtiger Faktor zur Evalu-
+ierung dieses bestehenden Markts. Bei den gängigen Kryptowährungen63 ist ein solcher Markt ge-
+geben, da verschiedene Plattformen eine automatisierte Verkaufsmöglichkeit anbieten und auch
+ausserhalb dieser Tauschplattformen die Praxis aufgezeigt hat, dass eine Verwertbarkeit mög-
+lich ist.64 Bei den sog. «Krypto-Geldautomaten» oder «Krypto-Maschinen»65 ist hingegen eine
+freie Verwertbarkeit nicht ohne Weiteres gewährleistet.66 Die Verwertbarkeit gestaltet sich in die-
+sen Fällen dann besonders schwierig, wenn es um grössere Beträge geht. Zudem müssen je nach
+Kryptowährung nicht unerhebliche Transaktionskosten vom Erlös abgezogen werden.
+3.2.6.
+Zwischenfazit
+[Rz 21] Zusammenfassend ergibt sich, dass die Voraussetzungen der Sacheinlage von den gän-
+gigsten Kryptowährungen erfüllt werden. Auch wenn diese Kryptowährungen starken Kurs-
+schwankungen unterliegen, ist die langfristige Beständigkeit zu bejahen. Dies immerhin solange,
+58
+Anders bei der Barliberierung durch Einzahlung auf ein gesperrtes Kapitaleinzahlungskonto, vgl. BGE 132 III 668
+E. 3.2.1.
+59
+Es kann das Beispiel eines eingebrachten Fahrzeuges erwähnt werden, dessen Schlüssel an einem Ort aufbewahrt
+wird, zu dem alle Gründer Zugriﬀhaben. Zur Voraussetzung der Besitzübertragung: BGE 119 IV 319 E. 2b/aa; vgl.
+auch ZK-Cramer (Fn. 15), Art. 634 N. 12.
+60
+Ein solcher Gründer hätte für sich – ohne das Einverständnis der anderen – kein Verfügungsrecht, vgl. dazu
+Meisser/Meisser/Kogens (Fn. 27), Rz. 18.
+61
+Meyer (Fn. 15), Rz. 328 m. w. H. und insbesondere Rz. 332 ﬀ. diese Voraussetzung ablehnend.
+62
+Mitteilung EHRA (Fn. 32), S. 3; Böckli (Fn. 16), § 1 Rz. 377; Müller/Stoltz/Kallenbach (Fn. 1), S. 1326; Bösiger
+(Fn. 33), S. 405 f.; Meyer (Fn. 15), Rz. 329 f.; vgl. auch Bericht des Bundesrates zu Blockchain (Fn. 4), S. 55.
+63
+Als Referenzwert zu «gängigen Kryptowährungen» kann die Website https://coinmarketcap.com herangezogen
+werden, vgl. dazu Handelsregisteramt des Kantons Zug (Fn. 12).
+64
+Bericht des Bundesrates zu Blockchain (Fn. 4), S. 68; Bärtschi/Jacquemart/Meyer (Fn. 21), S. 240; Gobat (Fn. 1),
+S. 1104 f.; Piller (Fn. 12), S. 1436.
+65
+Bei Krypto-Geldautomaten (engl. Crypto ATM) können Kryptowährungen gegen Bargeld gekauft oder verkauft
+werden. Bei einem Kauf wird das Bargeld in den Krypto-Geldautomaten eingeführt und der Käufer erhält im Ge-
+genzug eine Quittung mit dem Paper Wallet sowie dem dazugehörigen öﬀentlichen und privaten Schlüssel. Bei ei-
+nem Verkauf erhält der Verkäufer auf einer Quittung den öﬀentlichen Schlüssel des Krypto-Geldautomaten bzw.
+dem Betreiber. Sobald die Kryptowährung an den öﬀentlichen Schlüssel übertragen worden ist, kann der Verkäufer
+mit der Quittung die Barauszahlung verlangen (vgl. den Vorgang beispielsweise anhand von Crypto ATM von Bity
+SA (Neuchâtel) https://bity.com/de/products/crypto-atms/).
+66
+Vgl. dazu, Krypto-Automaten am Flughafen: Urlaubsrestgeld in Bitcoins wechseln, https://www.computerbild.de/
+artikel/cb-News-Internet-Bitcoin-Automaten-Flughafen-Kryptowaerung-Urlaubsgeld-22031685.html und Wechsel
+von Krypto in Fiat-Währungen gestaltet sich schwierig, https://www.coinwelt.ch/2017/12/wechsel-von-krypto-in-
+ﬁat-waehrungen-gestaltet-sich-schwierig/.
+10
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+als dass sie nicht durch mehrere westliche Staaten oder eine massgebende Staatengemeinschaft
+verboten werden. Die bekanntesten Kryptowährungen weisen ein genügend hohes Marktvolu-
+men auf, um die Aktivierbarkeit zu bejahen. Schwieriger gestaltet sich die Beurteilung bei neuen
+Kryptowährungen, welche noch nicht genügend prominent sind und deshalb kein richtiger Markt
+vorhanden ist. Die Sacheinlagefähigkeit scheitert dann an der Aktivierbarkeit.
+3.3.
+Sacheinlagevertrag
+[Rz 22] Artikel 634 Ziﬀ. 1 OR verlangt für die Gründung mittels Sacheinlage einen Sacheinla-
+gevertrag. Parteien des Sacheinlagevertrags sind einerseits die Gründer als einfache Gesellschaft
+für die sich in Gründung beﬁndliche Gesellschaft und andererseits der jeweilige Zeichner resp.
+Sacheinleger.67 Dieser Vertrag weist kauf- und tauschrechtliche Elemente auf68und dient dazu,
+der Gesellschaft nach Eintragung im Handelsregister das Verfügungsrecht zu verschaﬀen.69 Die
+Gründer sind zudem vorleistungspﬂichtig, da im Zeitpunkt der Errichtung der Gesellschaft die
+Einlage für mindestens 20 Prozent bzw. mindestens CHF 50’000 geleistet sein muss (vgl. Art. 632
+OR). Im Sacheinlagevertrag sind zwingend die konkretisierten Vermögenswerte und die Anzahl
+hierfür auszugebender Aktien und deren Ausgabebetrag anzugeben.70 Erreicht die Sacheinla-
+ge den Wert gemäss Sacheinlagevertrag nicht, wird die Eintragung in das Handelsregister vom
+Handelsregisteramt verweigert.71 Da gängige Kryptowährungen auf den verschiedenen Tausch-
+plattformen zwar einen Marktwert haben, dieser aufgrund der heute nach wie vor bestehenden
+Volatilität jedoch nicht unerheblich schwankt, ist der Einbau einer Sicherheitsmarge wärmstens
+zu empfehlen.72 Bei der essentiale «Gegenstand der Sacheinlage»73 ist deshalb neben der Be-
+zeichnung der entsprechenden Kryptowährung (z. B. «Der Sacheinleger ist Eigentümer von ETH
+1’000.») und dessen Wert (z. B. «Der Sacheinleger bringt die genannten ETH 1’000 zu einem Preis
+und Wert von total CHF 100’000 in die Gesellschaft ein.»)74 festzuhalten, dass ein allfälliger, über-
+schüssiger Wert den Kapitaleinlagereserven zuzuweisen ist (z. B.: «Die Diﬀerenz zwischen diesem
+Preis und dem höheren Marktwert wird den Reserven aus Kapitaleinlagen zugewiesen.»).75 Die
+Bezeichnung der Kryptowährung muss mit der jeweiligen Abkürzung angegeben werden,76 da
+sie sonst nicht genügend bestimmbar ist.77
+[Rz 23] Wie vorstehend ausgeführt, ist allgemein umstritten und im Einzelfall aufgrund verschie-
+dener Ausgestaltungsmöglichkeiten abzuklären, wie Kryptowährungen übertragen werden bzw.
+67
+Meyer (Fn. 15), Rz. 622 f.; BSK OR II-Schenker (Fn. 23), Art. 634 N. 4; Trautmann (Fn. 45), Rz. 67.
+68
+ZK-Cramer (Fn. 15), Art. 634 N. 21; mit Fokus auf die tauschrechtliche Verwandtschaft: Bösiger (Fn. 33), S. 399.
+69
+BSK OR II-Schenker (Fn. 23), Art. 629 N. 10.
+70
+ZK-Cramer (Fn. 15), Art. 634 N. 22; Müller/Stoltz/Kallenbach (Fn. 1), S. 1327.
+71
+BSK OR II-Schenker (Fn. 23), Art. 634 N. 11.
+72
+Vgl. dazu oben Rz. 14.
+73
+Dazu auch Bösiger (Fn. 33), S. 400.
+74
+Vgl. dazu auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1327 f.; Meyer (Fn. 15), Rz. 641 erachtet hingegen weder
+den Einlagewert noch den Anrechnungswert als essentiale.
+75
+Im Zusammenhang mit Kapitaleinlagereserven sei an die steuerlichen Aspekte erinnert (Emissionsabgabepﬂicht;
+spätere steuerfreie Rückzahlung dieses überschüssigen Werts, z. B. im Falle einer Liquidation).
+76
+Vgl. nur Handelsregisteramt des Kantons Zug (Fn. 12). Die Abkürzung besteht üblicherweise aus drei, ausnahms-
+weise aus vier Grossbuchstaben.
+77
+So gibt es etwa nach Spaltungen der Bitcoin-Blockchain (sog. Hard Forks) heute mehrere Versionen; die wichtigsten
+lauten: Bitcoin Cash (BCH), Bitcoin Gold (BTG), Bitcoin Diamond (BCD) und Bitcoin Private (BTCP).
+11
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+wie an ihnen Verfügungsmacht verschaﬀen wird.78 Diese Frage ist auch in Bezug auf den Sach-
+einlagevertrag relevant: Die Kryptowährungs-Sacheinlage muss in den frei verfügbaren Macht-
+bereich der einfachen Gründergesellschaft überführt werden. Diese Überführung kann auf zwei
+Arten sichergestellt werden:79
+1. Die Sacheinlage wurde bereits auf ein Multisig Wallet in den Herrschaftsbereich der ein-
+fachen Gründergesellschaft transferiert: Diesfalls sollte der Umstand der Übertragung auf
+dem Sacheinlagevertrag abgebildet werden, indem dies zum einen entsprechend umschrie-
+ben wird (z. B.: «Zum Zweck der Übertragung hat der Sacheinleger ETH 1’000 transfe-
+riert.») und zum anderen ein QR-Code auf die Kryptowährungs-Adresse verweist (z. B. auf
+die Plattform https://blockchain.info). Diese Adresse ist der Öﬀentlichkeit zugänglich und
+bildet die vorgenommene Transaktion ab.80
+2. Die Sacheinlage beﬁndet sich zum Zeitpunkt des Vertragsabschlusses noch im persönli-
+chen Wallet der einzelnen Sacheinleger: Diesfalls müssen die Sacheinleger der einfachen
+Gründergesellschaft die unwiderruﬂiche Befugnis erteilen, sofort nach der Eintragung im
+Handelsregister über sämtliche übertragenen Vermögenswerte tatsächlich und rechtlich
+zu verfügen.81 Gemäss der wohl h. L. genügt es, wenn der Besitzeszustand der Sachein-
+lage «von beiden Seiten so vorbereitet wird, dass seine Verwirklichung unmittelbar an-
+schliessend an die Eintragung mit Sicherheit erwartet werden kann».82 Andere Lehrmei-
+nungen83verlangen jedoch in praktischer Hinsicht bereits vor dem Errichtungsakt (d. h. der
+öﬀentlich beurkundeten Gründerversammlung, Art. 629 OR)84 eine Besitzesübertragung.
+Gemäss unserer Erfahrung schliesst sich zumindest das Handelsregisteramt Zug der h. L.
+an.
+[Rz 24] Der Wortlaut des Sacheinlagevertrags sollte Gegenstand einer Vorprüfung des Geschäfts
+beim zuständigen Handelsregisteramt bilden.85 Es darf nicht ausser Acht gelassen werden, dass
+noch nicht alle Handelsregisterämter mit Krypto-Einlagen konfrontiert wurden. Deshalb besteht
+eine erhebliche Rechtsunsicherheit, gerade bei krypto-unerfahrenen Ämtern. Hinzu tritt das er-
+höhte Risiko bei einer (vorläuﬁgen) Nichteintragung, dass sich der Kurs der zugrunde liegenden
+Kryptowährung in der Zwischenzeit erheblich verändert und deshalb statt der Einreichung ei-
+nes Nachtrags im schlechtesten Falle gar ein «Zurück auf Start» droht. Bei weniger gängigen
+78
+Vgl. dazu oben Rz. 15.
+79
+Vgl. zu den Grundzügen auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1328.
+80
+Der Umstand, dass sich die Sacheinlagewerte bereits im Herrschaftsbereich der einfachen Gründergesellschaft be-
+ﬁnden, sollte die Sacheinleger noch nicht vor vertraglichen Zusicherungen betreﬀend die Sacheinlage dispensieren,
+vgl. zu solchen Zusicherungen Bösiger (Fn. 33), S. 403.
+81
+Denkbar ist sodann eine Kombination dieser zwei Varianten, indem der Sacheinlagevertrag nur die Verpﬂichtung
+zur Leistung in ein Wallet im Herrschaftsbereich der einfachen Gründergesellschaft enthält, der Gründungsbericht
+dann aber speziﬁziert, dass das entsprechende Wallet zur Verfügung der einfachen Gründergesellschaft bereits
+erstellt und bedient wurde.
+82
+Alfred Siegwart, in: Zürcher Kommentar, V. Band: Das Obligationenrecht, 5. Teil: Die Aktiengesellschaft, a: Allge-
+meine Bestimmungen (Art. 620–659), Zürich 1945, Art. 633 N. 34 (zit. ZK-Siegwart); ebenso ZK-Cramer (Fn. 15),
+Art. 634 N. 12.
+83
+Böckli (Fn. 16), § 1 Rz. 376; Meyer (Fn. 15), Rz. 525.
+84
+Dazu Böckli (Fn. 16), § 1 Rz. 289.
+85
+Zur möglichen Vorprüfung auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1331. Nur Kryptogründungs-Erfahrene
+sollten den «direkten Weg» in Betracht ziehen.
+12
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+Kryptowährungen ist zudem mittels Vorprüfung abzuklären, ob die Voraussetzungen einer Sach-
+einlagegründung erfüllt werden.86
+3.4.
+Gründungsbericht
+[Rz 25] Im Gründungsbericht haben die Gründer nach Art. 635 OR Rechenschaft über die Art
+und den Zustand von Sacheinlagen und die Angemessenheit deren Bewertung abzulegen (vgl.
+Art. 635 Ziﬀ. 1 OR). Der Bericht muss den eingelegten Vermögenswert präzis umschreiben – ins-
+besondere sind die genauen Bezeichnungen der Kryptowährungen mitsamt Abkürzung zu ver-
+wenden.87 Zudem hat er aufzuzeigen, dass die Bewertung vernünftig ist. Der Gründungsbericht
+wird durch seine Eigenschaft als Beilage zum Errichtungsakt (Art. 631 Abs. 2 Ziﬀ. 2 OR) der Öf-
+fentlichkeit zugänglich gemacht.88 Er ist einfach-schriftlich abzufassen (Art. 635 OR und Art. 43
+Abs. 3 lit. c HRegV).
+[Rz 26] In der Literatur wird gefordert, dass auch die Bewertungsmethode im Gründungsbericht
+oﬀengelegt wird.89 Naheliegend ist eine Referenz auf den jeweils aktuellen Wert gemäss gängi-
+gen Portalen. Als gängiges Portal wird beispielsweise https://www.ﬁnanzen.ch angesehen.90 Zu
+bevorzugen ist aus unserer Sicht die Kursliste der Eidgenössischen Steuerverwaltung ESTV,91 da
+diese auf dem getrimmten Mittel mehrerer Plattformen basiert.92
+[Rz 27] Der Bericht muss sämtliche Angaben und Erläuterungen enthalten, die aus Sicht des inter-
+essierten Lesers für die Bewertung massgebend sind. Der Gründungsbericht muss deshalb auch
+darlegen, dass und weshalb die Vermögenswerte aktivierbar, übertragbar und verwertbar sind.93
+Im Gründungsbericht ist somit zu sämtlichen unter Kapitel 2 behandelten Elementen Stellung
+zu nehmen. Liegen die Voraussetzungen der Sacheinlage nicht oﬀensichtlich vor, muss der Be-
+richt präzise Aufschluss darüber geben, weshalb beispielsweise die Aktivierbarkeit einer neuen
+Kryptowährung zu bejahen ist. Nur so können Dritte die Sacheinlage bzw. deren Rechtmässigkeit
+nachvollziehen. Das Erfordernis eines detaillierten Gründungsberichts erhöht damit den Schutz
+vor Missbrauch.
+86
+Vgl. Handelsregisteramt des Kantons Zug (Fn. 12).
+87
+Vgl. auch oben Fn. 77.
+88
+Meyer (Fn. 15), Rz. 680 m. w. H.
+89
+Böckli (Fn. 16), § 1 Rz. 400; Roland Ruedin, Remarques générales sur le nouveau droit: le capital social, la fonda-
+tion, in: Philippe Ciocca (Hrsg.), Le nouveau droit des sociétés anonymes, Lausanne 1993, S. 253 ﬀ., S. 264 f.; BSK
+OR II-Schenker (Fn. 23), Art. 635 N. 3.
+90
+Handelsregisteramt des Kantons Zug (Fn. 12); a. M. Müller/Stoltz/Kallenbach (Fn. 1), S. 1328, die für eine Ab-
+stellung auf das arithmetische Mittel mehrerer Handelsplattformen plädieren. Bei entsprechend höherer Sicher-
+heitsmarge (vgl. dazu oben Rz. 14) kann u. E. ohne Weiteres auch auf ein weniger gängiges Portal mit höherem
+Kurswert abgestellt werden. Der aus Sicht des Handelsregisters entscheidende Faktor ist, dass der Nominalwert
+zum Zeitpunkt der Gründung gedeckt ist.
+91
+Kurslisten Direkte Bundessteuer 2019, https://www.ictax.admin.ch/extern/de.html.
+92
+NZZ Online vom 28. Dezember 2016: Wie Bitcoins besteuert werden, Abs. 5.
+93
+Adrian Plüss, in: Jeannette K. Wibmer (Hrsg.), Aktienrecht Kommentar, Aktiengesellschaft, Rechnungslegungs-
+recht, VegüV, GeBüV, VASR, Zürich 2016, Art. 635 N. 2; ebenso Böckli (Fn. 16), § 1 Rz. 400.
+13
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+3.5.
+Prüfbestätigung
+[Rz 28] Der Gründungsbericht muss in jedem Fall, d. h. unabhängig davon, ob die zu gründen-
+de Gesellschaft revisionspﬂichtig ist oder nicht, von einem zugelassenen Revisor geprüft werden
+(Art. 635a OR).94 In materieller Hinsicht kommt der Prüfung grosses Gewicht zu, wobei sich
+sowohl die Urkundsperson und das Handelsregisteramt als auch die Gläubiger auf die Feststel-
+lungen des Revisors verlassen dürfen.95 Geprüft wird zum einen die Vollständigkeit der Angaben
+im Gründungsbericht und deren Richtig- resp. Vertretbarkeit sowie die Sacheinlagefähigkeit der
+Sacheinlage.96
+[Rz 29] Inhaltlich weicht die Prüfbestätigung von Kryptowährungen nicht von Prüfbestätigungen
+über herkömmliche Sachen (wie Fahrzeuge oder Schmuck) ab. Insbesondere wird das Prüfergeb-
+nis auch bei Kryptowährungseinlagen in aller Regel nicht begründet.97 Der primäre Unterschied
+besteht in den auﬀällig hohen Kosten für Prüfbestätigungen von Kryptowährungseinlagen. Ge-
+mäss unserer Erfahrung verlangen viele Revisoren einen bis zu zehnmal so hohen Betrag im
+Vergleich zu herkömmlichen Sacheinlagen. Oﬀensichtlich erlaubt der Markt zum momentanen
+Zeitpunkt die Compliance-Kosten im Vorfeld der Prüfbestätigung ohne Einschränkung weiter zu
+verrechnen.98 Da die Kosten für eine solche Prüfbestätigung damit nicht selten fünfstellig sind,
+beﬁnden sich GmbHs mit einem Minimalkapital von CHF 20’000 bereits kurz nach Gründung in
+einem Kapitalverlust nach Art. 820 Abs. 1 i. V. m. Art. 725 Abs. 1 OR.99 Es empﬁehlt sich somit
+eine erhöhte Kapitalausstattung der mit Kryptowährungen zu gründenden Gesellschaften.
+3.6.
+Offenlegungspﬂicht
+[Rz 30] Das Schweizer Aktienrecht verlangt aus Aspekten des Gläubiger- und des Gesellschafter-
+schutzes die Oﬀenlegung der Kryptowährungs-Sacheinlage an diversen Stellen:100
+1. Art. 628 Abs. 1 OR verlangt, dass die Statuten den Gegenstand und dessen Bewertung sowie
+den Namen des Einlegers und die ihm zukommenden Aktien angeben.
+2. Art. 634 Ziﬀ. 1 OR verlangt den Abschluss eines Sacheinlagevertrags,101 welcher seinerseits
+den Gegenstand der Sacheinlage als essentiale negotii umschreiben muss.
+94
+Müller/Stoltz/Kallenbach (Fn. 1), S. 1329. Unterliegt die zu gründende AG jedoch der ordentlichen Revision
+gemäss Art. 727 OR, ist ein zugelassener Revisionsexperte für die Prüfung heranzuziehen: Böckli (Fn. 16), § 1
+Rz. 407; Meyer (Fn. 15), Rz. 703.
+95
+Meyer (Fn. 15), Rz. 706 und 721; vgl. auch Müller/Stoltz/Kallenbach (Fn. 1), S. 1329.
+96
+Meyer (Fn. 15), Rz. 708 ﬀ., m. w. H.
+97
+Es genügt der Prüfungsvermerk «vollständig und richtig», wobei keine Begründung erforderlich ist, Böckli
+(Fn. 16), § 1 Rz. 416; Meyer (Fn. 15), Rz. 713.
+98
+Den (höheren) Aufwand im Zusammenhang mit der Bewertung ansprechend: Müller/Stoltz/Kallenbach (Fn. 1),
+S. 1329.
+99
+Gemäss h. L. besteht für den Verwaltungsrat bereits bei Verdacht eines Kapitalverlusts – auch ohne Vorliegen einer
+Jahresbilanz – die Pﬂicht zur Erstellung einer Zwischenbilanz (BSK OR II-Wüstiner, Art. 725 N 21 m. w. H.). In
+der Folge muss der Verwaltungsrat eine GV einberufen und Sanierungsmassnahmen beantragen (Art. 725 Abs. 1
+OR).
+100
+Die nachfolgenden Punkte 1–3 können als Belege zum Errichtungsakt (Art. 631 OR) beim zuständigen Han-
+delsregisteramt eingesehen resp. es können Auszüge bestellt werden (Art. 11 Handelsregisterverordnung vom
+17. Oktober 2007; SR 221.411; HRegV).
+101
+Vgl. dazu oben Rz. 22 ﬀ.
+14
+
+
+[page_break]
+
+Thomas Müller / Pascal Zysset / Vangelis Kalaitzidakis, Die Einlage von Kryptowährungen zur Gründung einer
+Gesellschaft, in: Jusletter 20. Mai 2019
+3. Art. 635 Ziﬀ. 1 OR verlangt, dass der Gründungsbericht Rechenschaft über die Art und den
+Zustand der Sacheinlagen und die Angemessenheit der Bewertung ablegt.102
+4. Die Tatsache, dass eine Sacheinlage geleistet wurde, erscheint im Zentralen Firmenindex
+Zeﬁx (Art. 14 HRegV) unter der Rubrik «Besondere Tatbestände». Dabei werden sowohl der
+Gegenstand der Sacheinlage als auch die dafür ausgegebenen Aktien publiziert.
+[Rz 31] Mit diesen Vorschriften wird eine weitgehende Transparenz zur Sacheinlage erreicht.
+Insbesondere wird der Umstand, dass das Gesellschaftskapital mittels Kryptowährung liberiert
+wurde, publik gemacht. Damit gehen – zumindest nach heutiger Praxis – einige Probleme im Ge-
+schäftsverkehr einher. So ist die Tatsache der Kryptowährungsliberierung für die meisten Schwei-
+zer Banken eine Red Flag. Sie bieten deshalb für Kontoeröﬀnungen kaum Hand. Diesen Schwierig-
+keiten sollten sich Gründer, die mittels Kryptowährung eine Gesellschaft zu gründen gedenken,
+bewusst sein.
+4.
+Schlussbemerkungen
+[Rz 32] Die exponentiell steigenden Kurse von Kryptowährungen im Jahre 2017 haben Bitcoin,
+Ether etc. nicht nur in der Schweiz zu einer grossen Aufmerksamkeit verholfen. Nach dem Kurs-
+verfall in 2018 ist die Euphorie erstmal weitgehend verﬂogen. Totgesagte leben jedoch bekannt-
+lich länger und nicht wenige sehen im anhaltenden Tiefzinsumfeld und der herbeigeredeten be-
+vorstehenden Rezession eine Renaissance von Kryptowährungen. Derzeit sind Kryptowährun-
+gen jedoch weit davon entfernt, als Zahlungs- oder Wertaufbewahrungsmittel breite Akzeptanz
+zu ﬁnden. Dies liegt einerseits an technischer Ineﬃzienz und andererseits daran, dass wenige
+Marktteilnehmer Schulden in Kryptowährungen haben. Eine Eﬃzienzsteigerung lässt sich durch
+technische (lies: digitale) Entwicklung wohl bewerkstelligen. Die rivalisierende Ausgestaltung
+von Kryptowährungen verunmöglicht jedoch die Schaﬀung von Buch-Kryptowährung analog von
+Buchgeld. Solange niemand oder nur eine verschwindend kleine Anzahl Personen Schulden in
+Kryptowährungen hat, wird sich ausser Spekulanten niemand ﬁnden, der bereit ist, Kryptowäh-
+rungen als Zahlungsmittel anzunehmen.
+[Rz 33] Vor diesem Hintergrund bildet die Sacheinlagegründung mittels Kryptowährung einen
+der wenigen Verwendungszwecke von Kryptowährungen. Insbesondere für Start-ups, die auf-
+grund ihres Zwecks nach wie vor Mühe bekunden, eine Bank zur Eröﬀnung eines Kapitaleinzah-
+lungskontos zu ﬁnden, bildet diese Sacheinlagegründung oft den einzigen Weg zur Gründung
+einer Gesellschaft. Alleine die Tatsache, dass die Handelsregister Sacheinlagegründungen mittels
+Kryptowährungen zulassen, ist bemerkenswert und zeugt schlicht von der Oﬀenheit der Behör-
+den gegenüber neuen Entwicklungen.
+Dr. iur. Thomas Müller, Rechtsanwalt, LL.M. und Dr. iur. Pascal Zysset, Rechtsanwalt sind bei
+der Anwaltskanzlei Walder Wyss AG tätig. MLaw Vangelis Kalaitzidakis bereitet sich aktuell
+auf das Staatsexamen vor. Die Autoren befassen sich regelmässig mit regulatorischen und gesell-
+schaftsrechtlichen Fragen rund um Kryptowährungen.
+102
+Vgl. dazu oben Rz. 25 ﬀ.
+15

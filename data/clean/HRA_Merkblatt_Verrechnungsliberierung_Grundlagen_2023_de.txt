@@ -1,0 +1,164 @@
+Merkblatt 
+Version: 01.01.2023 
+1/3 
+Direktion für Inneres und Justiz 
+Handelsregisteramt des Kantons Bern 
+ 
+Poststrasse 25 
+3071 Ostermundigen 
++41 31 633 43 60 
+hrabe@be.ch 
+www.hrabe.ch 
+ 
+ 
+ 
+ 
+ 
+Verrechnungsliberierung 
+ 
+1. 
+Allgemeines und Begriff 
+Von einer Verrechnungsliberierung spricht man, wenn die Forderung der Gesellschaft auf Leistung der 
+Einlage gegenüber der Person, die Aktien gezeichnet hat, mit einer Forderung dieser Person gegen die 
+Gesellschaft verrechnet wird. Die Verrechnungsliberierung («Leistung der Einlagen durch Verrechnung mit 
+einer Forderung») ist in Art. 634a OR1 geregelt. Die Bestimmung und die nachstehenden Ausführungen 
+gelten auch für die Liberierung von Partizipationsscheinen (Art. 656a Abs. 2 OR1), von Aktien einer Kom-
+manditaktiengesellschaft (Art. 764 Abs. 2 OR1) und von Stammanteilen einer Gesellschaft mit beschränk-
+ter Haftung (Art. 777c Abs. 2 Ziff. 1 und 3 OR1). 
+Bei der Verrechnungsliberierung wird Fremdkapital in Eigenkapital umgewandelt (Passiventausch). 
+Forderungen gegenüber der Gesellschaft werden in Kapital umgewandelt, ohne dass ihr neue Mittel zu-
+fliessen. 
+Zu einer Verrechnungsliberierung kommt es am Häufigsten bei Kapitalerhöhungen. Sie ist aber auch bei 
+der Nachliberierung von Aktien («nachträgliche Leistung von Einlagen auf nicht voll liberierte Aktien») 
+möglich (vgl. Art. 634b Abs. 2 OR1) und gelegentlich bereits bei der Gründung einer Gesellschaft anzu-
+treffen. Bei der Gründung kann eine Verrechnungsliberierung dann stattfinden, wenn die Gesellschaft ein 
+Vermögen mit Aktiven und Fremdkapital übernimmt (z.B. durch Vermögensübertragungsvertrag gemäss 
+Art. 69 ff. FusG2) und Gläubiger/innen des bisherigen Unternehmens Aktien, Partizipationsscheine oder 
+Stammanteile zeichnen, die sie durch Verrechnung mit ihrer Forderung liberieren. 
+Die Verrechnungsliberierung ist keine Sacheinlage. Das Einbringen einer Forderung als Sacheinlage ist 
+von der Liberierung durch Verrechnung zu unterscheiden. Die Verrechnungsliberierung ist eine eigenstän-
+dige, ebenfalls qualifizierte Liberierungsart. 
+ 
+2. 
+Allgemeines Verrechnungsrecht und gesellschaftsrechtliche Besonderheiten 
+Bei der Verrechnungsliberierung kommen grundsätzlich die allgemeinen Regeln über die Verrechnung zur 
+Anwendung (Art. 7 ZGB3 i.V.m. Art. 120 ff. OR1), aber es sind auch gesellschaftsrechtliche Besonderheiten 
+zu beachten: Während die allgemeine Verrechnung einseitig erklärt werden kann, handelt es sich bei der 
+Verrechnungsliberierung in der Regel um ein zweiseitiges Rechtsgeschäft (einzig bei der Nachliberie-
+rung kann der Verwaltungsrat einseitig die Verrechnung mit der Forderung einer Aktionärin bzw. eines 
+Aktionärs erklären). Gegen den Willen der Gesellschaft ist eine Verrechnungsliberierung nie möglich. Wei-
+ter dürfen anders als im allgemeinen Verrechnungsrecht bestrittene oder verjährte Forderungen nicht zur 
+Leistung der Einlage verrechnet werden. Solche Forderungen sind nicht oder zumindest nicht ohne Weiteres 
+gerichtlich durchsetzbar und durch die Verrechnung erwüchse der Gesellschaft kein Vorteil. Weiter wäre eine 
+Verrechnungsliberierung unzulässig, wenn die Forderungen einzig im Hinblick auf eine spätere Liberierung 
+von Kapital begründet wurde. Dies käme einer Umgehung von Art. 633 Abs. 1 OR1 gleich, wonach auf 
+
+
+[page_break]
+
+ 
+Merkblatt 
+Version: 01.01.2023 
+2/3 
+Aktien bzw. Stammanteile entfallende Bareinlagen bei einem Bankinstitut hinterlegt werden müssen. Ge-
+nerell untersagt ist die Verrechnung im Konkurs einer Aktiengesellschaft. Nicht voll einbezahlte Beträge 
+auf Aktien können nicht mit Konkursforderungen verrechnet werde (Art. 213 Abs. 4 SchKG4). 
+ 
+3. 
+Bestand und Verrechenbarkeit der Forderung 
+3.1 
+Bestand der Forderung 
+Der Bestand der Forderung, die zur Verrechnung gebracht werden soll, muss im Gründungs- bzw. im 
+Kapitalerhöhungsbericht dargelegt werden (vgl. Art. 635 Ziff. 2, Art. 652e Ziff. 2 und Art. 777c Abs. 2 
+Ziff. 3 OR1). Auch aus diesem Grund, ist eine Verrechnungsliberierung mit einer bestrittenen Forderung 
+nicht möglich. 
+Die Forderung muss rechtlich erzwingbar, klagbar sein. Künftige Forderungen bzw. blosse Anwartschaf-
+ten können nicht zur Verrechnung gebracht werden. 
+Keine Voraussetzung für die Verrechnungsliberierung ist dagegen die Werthaltigkeit der Forderung (Art. 
+634a Abs. 2 OR1). Eine Verrechnungsliberierung kann also auch zwecks Sanierung einer Gesellschaft und 
+selbst mit einer rangrücktrittsbelegten Forderung erfolgen. Die Bestimmungen über die drohende Zah-
+lungsunfähigkeit, den Kapitalverlust und die Überschuldung (insbesondere die Meldepflichten des Verwal-
+tungsrats bzw. der Geschäftsführung) bleiben jedoch vorbehalten. 
+ 
+3.2 
+Verrechenbarkeit der Forderungen 
+3.2.1 
+Gleichartigkeit der Forderungen 
+Die Verrechnung zweier Forderungen kann nur stattfinden, wenn der Gegenstand der beiden Forderungen 
+gleichartig ist. Bei der Verrechnung zwecks Liberierung muss es sich um Geldforderungen handeln. Die 
+Gleichartigkeit muss im Zeitpunkt der Verrechnung gegeben sein. Die beiden Forderungen müssen nicht 
+aus dem gleichen Rechtsverhältnis stammen. Grundsätzlich gelten auch auf unterschiedliche Währun-
+gen lautende Forderungen als gleichartig, sofern ein Umrechnungskurs zwischen den Währungen existiert 
+und die freie Konvertierbarkeit gegeben ist. Gleichartigkeit bedeutet nicht Gleichwertigkeit; auch die Ver-
+rechnung von Forderungen mit ungleich hohen Beträgen ist möglich. Dabei erlöschen die beiden Forde-
+rungen im Umfang der kleineren. 
+ 
+3.2.2 
+Gegenseitigkeit der Forderungen bzw. Identität der Parteien 
+Die zu verrechnenden Forderungen müssen einander entgegengerichtet sein. Die Rollen von Gläubigerin 
+und Schuldnerin müssen kreuzweise auf die beiden Parteien verteilt sein. Es müssen sich also die 
+Gesellschaft als Gläubigerin der Einlageschuld gegen die bzw. den Zeichnenden als Schuldner/in und die 
+bzw. der Zeichnende als Gläubiger/in der Verrechnungsforderung gegen die Gesellschaft als Schuldnerin 
+gegenüberstehen. Die Gegenseitigkeit darf auch willentlich nachträglich zwecks Verrechnung herbeige-
+führt werden. 
+ 
+3.2.3 
+Fälligkeit bzw. Erfüllbarkeit der Forderung 
+Wird die Verrechnung einseitig erklärt, muss die Forderung, für die die Verrechnung erklärt wird, fällig 
+sein. Die Gegenforderung muss dagegen lediglich bestehen und erfüllbar sein. Welche Forderung wel-
+ches Kriterium erfüllen muss, hängt also davon ab, wer die Verrechnung erklärt, wobei Erfüllbarkeit jeden-
+falls das Mindesterfordernis ist. Bei der Verrechnungsliberierung sind sich die Gesellschaft und ihr/e 
+Schuldner/in in der Regel über die Verrechnung einig. Die Fälligkeit und Erfüllbarkeit der Forderungen ist 
+dabei im Konsens über die Verrechnung enthalten. 
+
+
+[page_break]
+
+ 
+Merkblatt 
+Version: 01.01.2023 
+3/3 
+4. 
+Formelle Vorschriften 
+4.1 
+Öffentliche Urkunde über Kapitalerhöhungsbeschluss 
+Sollen bei einer ordentlichen Kapitalerhöhung bei einer Aktiengesellschaft bzw. einer Kapitalerhöhung bei 
+einer Gesellschaft mit beschränkter Haftung die Einlagen durch Verrechnung geleistet werden, muss in 
+der öffentlichen Urkunde über den Erhöhungsbeschluss der General- bzw. Gesellschafterversammlung 
+der Betrag der zu verrechnenden Forderungen, der Name der Gläubigerin bzw. des Gläubigers und 
+die ihr bzw. ihm zukommenden Aktien, Partizipationsscheine bzw. Stammanteile enthalten sein (Art. 
+650 Abs. 2 Ziff. 5 und Art. 781 Abs. 5 Ziff. 1 OR1). 
+ 
+4.2 
+Statuten 
+Bei einer Verrechnungsliberierung müssen die Statuten den Betrag der zur Verrechnung gebrachten 
+Forderung, den Namen der Gläubigerin bzw. des Gläubigers und die ihr bzw. ihm zukommenden Ak-
+tien, Partizipationsscheine bzw. Stammanteile angeben. Die General- bzw. die Gesellschafterver-
+sammlung kann die Statutenbestimmung nach zehn Jahren aufheben (Art. 634a Abs. 3 und Art. 777c Abs. 
+2 Ziff. 1 OR1). 
+Kommt es bei der Gründung zu einer Verrechnungsliberierung müssen die durch die Gründer/innen fest-
+gelegten Gründungsstatuten eine entsprechende Bestimmung enthalten. Bei einer Nachliberierung oder 
+Kapitalerhöhung mit Verrechnung ist der Verwaltungsrat bzw. die Geschäftsführung für die Anpassung der 
+Statuten zuständig. 
+ 
+4.3 
+Bericht und Prüfungsbestätigung 
+Im Gründungs- oder Kapitalerhöhungsbericht muss über den Bestand und die Verrechenbarkeit der zur 
+Verrechnung gebrachten Forderung Rechenschaft gegeben werden (Art. 635 Ziff. 2, Art. 652e Ziff. 2, Art. 
+777c Abs. 2 Ziff. 3 und Art. 781 Abs. 5 Ziff. 4 OR1). 
+Eine zugelassene Revisorin oder ein zugelassener Revisor muss den Bericht prüfen und schriftlich 
+bestätigen, dass dieser vollständig und richtig ist (Art. 635a, Art. 652f Abs. 1, Art. 777c Abs. 2 Ziff. 3 
+und Art. 781 Abs. 5 Ziff. 4 OR1). 
+ 
+4.4 
+Handelsregister 
+Im Handelsregister werden der Betrag der zur Verrechnung gebrachten Forderung sowie die dafür 
+ausgegebenen Aktien, Partizipationsscheine bzw. Stammanteile eingetragen (Art. 45 Abs. 2 lit. c, Art. 
+48 Abs. 2, Art. 54 Abs. 4, Art. 59b Abs. 2, Art. 60, 73 Abs. 2 und Art. 76 Abs. 2 HRegV5). 
+ 
+1 Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) vom 30. März 1911 (OR; SR 220) 
+2 Bundesgesetz vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und Vermögensübertragung (Fusionsgesetz, FusG; SR 221.301) 
+3 Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907 (ZGB; SR 210) 
+4 Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG; SR 281.1) 
+5 Handelsregisterverordnung vom 17. Oktober 2007 (HRegV; SR 221.411) 
+                                                   

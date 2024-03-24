@@ -402,3 +402,6 @@ FodyWeavers.xsd
 .env/
 ENV/
 venv/
+
+# Mac system files
+.DS_Store

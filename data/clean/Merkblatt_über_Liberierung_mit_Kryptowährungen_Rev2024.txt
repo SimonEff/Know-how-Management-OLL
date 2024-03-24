@@ -1,0 +1,55 @@
+ 
+Volkswirtschaftsdirektion 
+Handelsregister- und Konkursamt 
+ 
+Handelsregisteramt 
+ 
+Rev2024 
+ 
+Merkblatt über die Liberierung mit einer Kryptowährung 
+  
+Am 25. September 2017 hat das Handelsregisteramt des Kantons Zug als erstes Handelsregister-
+amt der Schweiz eine Sacheinlagegründung mit der Kryptowährung Bitcoin (BTC) in das Handels-
+register eingetragen. In der Zwischenzeit sind weitere Eintragungen hinzugekommen und die Anfra-
+gen zum Thema häufen sich. Was gilt es zu beachten? 
+ 
+1. Sacheinlage 
+ 
+Soll das Gesellschaftskapital im Zuge einer Gründung, Kapitalerhöhung oder nachträglichen (Voll-) 
+Liberierung mittels einer Kryptowährung liberiert werden, handelt es sich nicht um eine Barliberie-
+rung, sondern um eine Liberierung mittels Sacheinlage (Art. 634 OR). Es sind die entsprechenden 
+Bestimmungen des Obligationenrechts (OR; SR 220) und der Handelsregisterverordnung (HRegV; 
+SR 221.411) zu beachten. 
+ 
+2. Welche Kryptowährungen 
+ 
+Damit ein Vermögenswert als Sacheinlage dienen kann, muss er insbesondere aktivierbar, frei 
+übertragbar, frei verfügbar und verwertbar sein (vgl. Art. 634 OR). Je verbreiterter eine Kryptowäh-
+rung ist und je aktiver eine Kryptowährung gehandelt wird, desto eher werden diese Kriterien erfüllt. 
+Das Handelsregisteramt Zug orientiert sich bei dieser Frage an der Auflistung auf https://coinmar-
+ketcap.com. Je höher «rangiert» eine Kryptowährung ist, desto eher kann sie als Sacheinlage die-
+nen. Ohne weiteres akzeptiert das Handelsregisteramt Zug derzeit Bitcoin (BTC) und Ethereum 
+(ETH) als Sacheinlage. Bei Transaktionen mit anderen Kryptowährungen empfiehlt es sich, vorab 
+mit dem Handelsregisteramt Zug Kontakt aufzunehmen. Je nachdem sind weitere Unterlagen, die 
+die Einhaltung der Sacheinlagekriterien nachweisen, erforderlich. 
+ 
+3. Bezeichnung der Kryptowährung 
+ 
+Die Kryptowährung ist eindeutig zu bezeichnen. Alleine die Bezeichnung «Bitcoin» genügt zum Bei-
+spiel nicht. Wir empfehlen, die jeweilige Abkürzung hinzuzufügen. Bei Bitcoin (Core) wäre dies 
+«BTC», bei Bitcoin Cash «BCH» und bei Bitcoin Gold «BTG». 
+ 
+4. Gründungsbericht 
+ 
+Im Gründungsbericht muss insbesondere die Bewertungsmethode offen gelegt werden. Es ist da-
+her die für die Bewertung verwendete Handelsplattform und der dort angegebene Marktwert festzu-
+halten. Das Handelsregisteramt Zug verwendet für seine Zwecke den Umrechner auf www.finan-
+zen.ch. 
+ 
+5. Kapitaldeckung / Empfehlung 
+ 
+Das Kapital in Schweizer Franken muss im Zeitpunkt der öffentlichen Beurkundung gedeckt sein 
+(vgl. Art. 629 Abs. 2 Ziff. 3 und Art. 652g Abs. 1 Ziff. 3 OR). Aufgrund der starken Wertschwankun-
+gen empfiehlt es sich, bei der Einlage einer Kryptowährung eine «Sicherheitsmarge» einzuberech-
+nen. Wir empfehlen zudem, analog zu Art. 629 Abs. 3 OR den angewandten Umrechnungskurs in 
+der öffentlichen Urkunde festzuhalten.  

@@ -1,0 +1,192 @@
+ Kommentar zu:
+Urteil: 4A_39/2021  vom 9. August 2021, zur Publikation vorgesehen
+Sachgebiet: Gesellschaftsrecht
+Gericht: Bundesgericht
+Spruchkörper: I. zivilrechtliche Abteilung
+dRSK-Rechtsgebiet: Gesellschaftsrecht und Finanzmarktrecht
+De  | Fr  | It  | 
+Nur Bares ist Wahres und nur verbriefte Aktien sind wahre Aktien
+Urteil 4A_39/2021 zum Recht des Aktionärs auf Verbriefung von Namenaktien
+Autor / Autorin
+Pascal Zysset
+Redaktor / Redaktorin
+Beat Brändli
+Dominik Rieder
+In diesem Urteil befasste sich das Bundesgericht mit der gesetzlich nicht explizit geregelten und in der Lehre
+umstrittenen Frage, ob Aktionäre einen Anspruch auf Verbriefung ihrer Namenaktien haben. Das Gericht bejahte
+einen entsprechenden gesetzlichen Anspruch, sofern die Statuten nichts Gegenteiliges festhalten.
+Sachverhalt
+[1] Die Aktionärin B. hält 70 von insgesamt 210 Namenaktien der A. AG (Sachverhalt A.). Sie klagte am 28. Mai
+2018 gegen die Gesellschaft A. AG beim Handelsgericht Zürich auf Aushändigung ihrer Aktien als Wertpapiere.
+Das Handelsgericht kam am 2. Dezember 2020 im Urteil HG200141-O zum Schluss, dass ein entsprechender
+gesetzlicher Anspruch bestehe, solange die Statuten ein solches Recht nicht ausdrücklich ausschlössen. Da im
+vorliegenden Fall die Statuten nichts Entsprechendes vorsähen, habe die Aktionärin einen Anspruch auf
+wertpapiermässige Verbriefung ihrer Mitgliedschaft. Damit hiess das vorinstanzliche Gericht die Klage gut und
+verpﬂichtete die Gesellschaft unter Strafandrohung zur Aushändigung der Wertpapiere (bei Verbriefung der
+einzelnen Namenaktien als Aktientitel) oder des Wertpapiers (bei Verbriefung mehrerer Namenaktien als
+Aktienzertifikat; Sachverhalt B.).
+[2] Die Gesellschaft erhob gegen das handelsgerichtliche Urteil Beschwerde in Zivilsachen an das Bundesgericht
+und beantragte dabei eine Aufhebung des Urteils sowie eine vollumfängliche Abweisung der Klage
+(Sachverhalt 
+C). 
+Das 
+Bundesgericht 
+wies 
+die 
+Beschwerde 
+der 
+Gesellschaft 
+unter 
+Kosten- 
+und
+Entschädigungsfolge ab.
+Erwägungen des Bundesgerichts
+[3] Die Gesellschaft stellte sich auf den Standpunkt, dass kein gesetzlicher Anspruch auf Ausgabe der Aktien als
+Wertpapier bestehe und dass vorliegend auch statutarisch kein entsprechendes Recht vorgesehen sei. Ohnehin
+genüge es zur Rechtsausübung der Aktionärin, dass eine gewöhnliche Beweisurkunde ausgestellt würde. Zudem
+
+
+[page_break]
+
+seien die Aktien vorliegend vinkuliert. Durch die Gutheissung eines Aktionärsanspruchs auf Verbriefung habe die
+Vorinstanz Art. 622 OR verletzt (E. 3).
+[4] Das Bundesgericht hielt in seinen Erwägungen zunächst fest, dass die Frage, ob ein Anspruch zur Verbriefung
+von Namenaktien bestehe, im OR nicht geregelt sei. In einem alten Urteil aus dem Jahre 1957 habe das
+Bundesgericht jedoch im Zusammenhang mit Inhaberaktien pauschal einen Verbriefungsanspruch bejaht, ohne
+diesen weiter zu begründen (E. 4.1).
+[5] Das Gericht führte weiter aus, es gebe zur Frage des Verbriefungsanspruchs eines Aktionärs in der Lehre zwei
+Auﬀassungen. Die eine Meinung bejahe einen gesetzlichen Anspruch, wobei dieser nach überwiegender
+Auﬀassung statutarisch wegbedungen werden könne (E. 4.2.1). Die andere Lehrmeinung verneine einen
+gesetzlichen Anspruch, wobei die statutarische Anspruchseinräumung möglich bleibe (E. 4.2.2). Damit sei sich die
+herrschende Lehre zumindest darin einig, dass es kein zwingendes Recht auf Verbriefung der Mitgliedschaft gebe.
+Umstritten bleibe aber, ob der Anspruch gesetzlich bestehe und statutarisch wegbedungen werden könne oder
+aber umgekehrt gesetzlich nicht bestehe, aber statutarisch eingeführt werden könne (E. 4.2.3).
+[6] Das Bundesgericht rief in Erinnerung, dass die wertpapiermässige Verbriefung kein zwingendes Erfordernis für
+die Entstehung, die Geltendmachung oder die Übertragung der Mitgliedschaft sei und daher in der Praxis meist auf
+die Verbriefung verzichtet werde (E. 4.3.1). Trotzdem gehe das Aktienrecht vom Grundsatz der
+wertpapiermässigen Verurkundung aus, was sich etwa aus Art. 684 Abs. 2 OR, der aktienrechtlichen
+Unpersönlichkeit und der leichten Übertragbarkeit der Mitgliedschaft sowie der Verkehrsfähigkeit der
+Aktionärsstellung ergebe. Damit sei grundsätzlich von einem gesetzlichen Anspruch auf Verbriefung auszugehen
+(E. 4.3.2). Allerdings müsse es einer AG freistehen, den Verbriefungsanspruch von Namenaktien statutarisch
+auszuschliessen, da die Verbriefung weder für die Entstehung noch für die Geltendmachung oder für die
+Übertragung der Mitgliedschaft notwendig sei. Diese privatautonome Gestaltungsmöglichkeit erlaube es, den
+konkreten Umständen der jeweiligen AG Rechnung zu tragen (E. 4.3.3).
+[7] Das neue Aktienrecht ändere an diesem grundsätzlichen Verbriefungsanspruch nichts. Auch künftig gäbe es
+keine explizite gesetzliche Bestimmung zu dieser Frage. Zwar werde Art. 622 OR neu in einem Konditionalsatz
+formuliert, jedoch sage das Aktienrecht damit nur, dass kein zwingender Aktionärsanspruch auf Verbriefung
+bestehe. Damit ändere sich nichts an der bisherigen Konzeption (E. 4.4).
+[8] Zusammengefasst, so das Bundesgericht, hätten Aktionäre daher einen gesetzlichen Anspruch auf Verbriefung
+ihrer Mitgliedschaftsrechte, der bei Namenaktien statutarisch wegbedungen werden könne (E. 4.5). Damit sei die
+Auffassung des vorinstanzlichen Handelsgerichts nicht zu beanstanden (E. 4.6).
+[9] Die Vorinstanz habe im vorliegenden Fall Art. 3 der Statuten überprüft, wonach der Gesellschaft die Wahl
+zukomme, ob sie anstelle von einzelnen Aktien Zertiﬁkate ausstellen wolle. Dabei bleibe nach vorinstanzlicher
+Interpretation des Wortlauts oﬀen, ob die Aktien in Form von Wertpapieren oder als blosse Beweisurkunden
+auszugeben seien. Die Vorinstanz habe daraus geschlossen, dass in diesem Fall der Verbriefungsanspruch
+statutarisch nicht wegbedungen worden sei (E. 5.1). Die dagegen erhobenen Vorbringen der Gesellschaft, dass
+sie den Begriﬀ «Zertiﬁkat» als Beweisurkunde verstanden habe und diese Ausführungen von der Aktionärin nicht
+bestritten worden seien (E. 5.2), erachtete das Bundesgericht als nicht hinreichend dargelegt. Es sei gemäss
+Bundesgericht nicht ersichtlich, dass sich die Parteien in der Auslegung des Begriﬀs «Zertiﬁkat» einig gewesen
+seien (E. 5.3). Damit bleibe es bei der vorinstanzlichen Statutenauslegung, wonach keine Wegbedingung des
+Verbriefungsanspruchs erfolgt sei und womit die Aktionärin einen entsprechenden Anspruch habe (E. 5.4).
+Kurzkommentar
+[10] Das vorliegende Urteil des Bundesgerichts behandelt die in der Lehre umstrittene und höchstrichterlich bislang
+ungeklärte Frage des gesetzlichen Verbriefungsanspruchs von Aktionären betreﬀend deren Namenaktien. Die
+fehlende Klärung dieser zentralen Frage des Wertpapierrechts stellte die jüngere Rechtspraxis allerdings nicht vor
+allzu grosse Probleme, da zumindest bei Publikumsgesellschaften und kleinen Gesellschaften kaum mehr
+Verbriefungen durchgeführt wurden (vgl. auch E. 3 des bundesgerichtlichen sowie E. II.1.3 des
+handelsgerichtlichen Urteils). Dies ist nicht zuletzt darauf zurückzuführen, dass Aktienübertragungen ohne
+Weiteres auch mittels Zession (statt: Indossament) durchgeführt werden können. Diese Art der Aktienübertragung
+
+
+[page_break]
+
+ist gemäss Lehre und Rechtsprechung selbst dann möglich, wenn ausnahmsweise vorgängig eine Verbriefung
+stattfand (BGE 124 III 350 E. 2c S. 353; 90 II 164 E. 6 S. 179; ROBERT FURTER, in: Basler Kommentar zum
+Wertpapierrecht, Basel 2012, Art. 967 OR N 9). In diesem Zusammenhang sind mit dem vorliegenden obiter
+dictum des Bundesgerichts, wonach unverbriefte Namenaktien durch Zession zu übertragen seien (E. 4.3.2), erste
+Unklarheiten zu beleuchten. Zuerst einmal ist die Aussage dahingehend zu relativieren, dass die DLT-
+Aktienübertragung (Übertragung gemäss Distributed Ledger Technology) vorbehalten ist. Allerdings fällt der
+vorliegende Urteilssachverhalt auch in eine Zeit vor Inkrafttreten des neuen DLT-Rechts (Bundesgesetz vom
+25. September 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer
+Register, in Kraft seit 1. Februar 2021). Weiter fragt sich, ob das Bundesgericht mit dieser Aussage die
+Übertragung verbriefter Namenaktien mittels Zession anzweifelt. Dies ist m. E. nicht der Fall, da das Gericht nur
+festhält, dass bei Nichtverbriefung die Zession zu wählen ist, nicht jedoch, dass umgekehrt bei verbrieften Titeln
+nur das Indossament möglich ist («Solange»). In diesem Zusammenhang bleibt also alles beim Alten.
+[11] Eine weitere, praktisch insb. für bestehende Gesellschaften sehr bedeutsame Frage stellt sich im
+Zusammenhang mit Musterstatuten. Müssen nun alle hinsichtlich der Statuten über die Bücher und den Wortlaut,
+dem eine entscheidende Bedeutung zukommt (so auch das vorinstanzliche Handelsgericht in E. II.2.1.2),
+anpassen? Eine Recherche zeigt, dass doch einige Musterstatuten bereits bis anhin einen expliziten
+Anspruchsausschluss der Verbriefung vorsahen (so üblich bei Mustern grösserer Anwaltskanzleien, der
+Musterurkundensammlung des Verbands bernischer Notare und der Sammlung der Swiss Private Equity &
+Corporate Finance Association). Der explizite Ausschluss fehlt jedoch grundsätzlich bei Statuten-Kurzversionen
+sowie etwa bei den Mustern der Handelsregisterämter Zürich und Appenzell-Innerrhoden sowie der Plattform
+«gruenden.ch». 
+Letztere 
+dürften 
+unter 
+dieser 
+neuen 
+Rechtsprechungsrealität 
+die 
+Absichten 
+der
+Publikumsgesellschaften sowie der kleinen Gesellschaften nicht mehr genügend reﬂektieren. In jedem Fall lohnt
+es sich für die Rechtsabteilungen der Publikumsgesellschaften sowie für die Verwaltungsräte der kleinen
+Gesellschaften, einen prüfenden Blick auf den Statutenwortlaut (häuﬁg Art. 3 oder Art. 4 mit dem Titel «Aktientitel»
+oder «Aktienzertiﬁkate») zu werfen und gegebenenfalls für die nächste Generalversammlung eine Statutenrevision
+zu planen. Der anzustrebende Wortlaut könnte demnach wie folgt lauten: «Die Gesellschaft gibt keine als
+Wertpapier verbrieften Aktien oder Aktienzertiﬁkate aus und der Aktionär hat keinen Anspruch auf Aushändigung
+von verbrieften Aktientiteln.» Von Interesse ist in diesem Zusammenhang die Frage, ob der angepasste
+Statuteninhalt auch für bereits vor Statutenrevision erworbene Aktien gültig sein kann. Genauer genommen geht
+es darum, ob diesen Aktionären der Verbriefungsanspruch entzogen werden kann oder ob sich diese auf
+wohlerworbene Rechte berufen können. Beim Verbriefungsanspruch handelt es sich um ein durch Erwerb der
+Mitgliedschaft erworbenes Recht, das während der gesamten Zeit der Aktionärseigenschaft andauert und somit
+als pendentes Rechtsverhältnis (negotia pendentia) qualifiziert (vgl. Urteil des BGer 4A_6/2009 vom 11. März 2009
+E. 2.5.2 mit Verweisung auf MARKUS VISCHER, in: Basler Kommentar zum Zivilgesetzbuch II, 6. Auﬂ., Basel 2019,
+Art. 1 SchlT ZGB N 6, 9 und 11). Die Einschränkung des Aktionärsrechts ﬁndet jedoch primär im Innenverhältnis
+gegenüber bestehenden Aktionären statt und kann m. E. damit – jedenfalls bei Einstimmigkeit der Aktionäre –
+diesen gegenüber stattﬁnden (zu den Grundlagen MARKUS VISCHER, Intertemporales Statutenrecht am Beispiel der
+AG, SJZ 116/2020 S. 484 f.). Gegenüber neuen Aktionären, welche ihre Aktien kurz vor Publikation im
+Handelsregister erwerben, überwiegt jedoch deren Vertrauen in den bisherigen Statuteninhalt. In jedem Fall setzt
+eine solche Rückwirkung eine explizite statutarische Anordnung voraus, welche bei bestehenden
+Kleingesellschaften in Betracht gezogen werden sollte, wenn sie im Nachgang des vorliegenden
+Bundesgerichtsurteils eine Statutenrevision traktandieren.
+[12] Aus verfahrensstrategischer Perspektive stellt sich dem Leser des vorliegenden Sachverhalts die Frage,
+warum sich der Verwaltungsrat der Gesellschaft in diesem Fall überhaupt gegen einen Verbriefungsantrag bis vor
+Bundesgericht zur Wehr setzte, obwohl der Stand in der Lehre – realistisch ausgedrückt – eine Erfolgschance von
+maximal 50% versprach und die Aktionärin mit wenig Aufwand hätte zufriedengestellt werden können. Nicht
+umsonst blieb diese praxisrelevante Frage der Verbriefung so lange ungeklärt: Bisher war es einfach keinem
+Verwaltungsrat des Aufwands wert, sich in einem kostenaufwändigen Verfahren auf Rechnung der Gesellschaft
+gegen einen Verbriefungsantrag zur Wehr zu setzen.
+[13] Obwohl Aktienverbriefungen in letzter Zeit nicht mehr allzu grosse Wellen schlugen und mehr ein
+«Grosseltern-Estrich-Relikt» darstellten, werden sie durch diesen bundesgerichtlichen Leitentscheid plötzlich
+
+
+[page_break]
+
+wieder aktuell. Angesprochen sein dürften weniger die Aktionäre, die mit unverbrieften Aktien in aller Regel sehr
+gut leben können, sondern die Gesellschaften, welche ihre Statutenformulierung überprüfen sollten. Die
+Verwaltungsräte können mit einem solchen Vorgehen allfälligen zukünftigen Forderungen zuvorkommen, sollten
+sie dennoch von nostalgisch oder querulatorisch veranlagten Aktionären angestrebt werden.
+[14] Die vorliegende Diskussion um Statutenanpassungen stellt sich im GmbH-Recht nicht. Bereits Art. 784 Abs. 1
+OR lässt es oﬀen, ob Urkunden ausgestellt werden. Die Lehre folgt daraus sowie aus dem personenbezogenen
+und handelsfremden Stammanteilscharakter, dass die GmbH-Gesellschafter keinen Anspruch auf Verbriefung der
+Stammanteile haben (SHELBY DU PASQUIER/MATTHIAS WOLF/MATTHIAS OERTLE, in: Basler Kommentar zum
+Obligationenrecht II, 5. Auﬂ., Basel 2016, Art. 784 OR N 3; HANS RUDOLF TRÜEB, in: Handkommentar zum
+Schweizer Privatrecht, 3. Aufl., Zürich 2016, Art. 784 OR N 3).
+[15] Wenn auch verbriefte Wertpapiere gemeinhin nicht als Bargeld qualiﬁzieren, so ist der Vergleich doch
+erstaunlich: Auch bei der Erfüllung von Geldschulden stellt die Bargeldzahlung in der Praxis heute den
+Ausnahmefall dar (spätestens seit COVID-19). Jedoch geht der Gesetzgeber bei Art. 84 Abs. 1 OR ebenfalls vom
+Grundsatz der Erfüllung mittels physischen Geldes aus und bargeldlose Zahlungen sind nach Art. 2 i. V. m. Art. 3
+WZG grundsätzlich nur bei abweichender Willensübereinstimmung, d. h. einer Einigung auf ein elektronisches
+Zahlungsmittel, möglich. Damit liess sich der Gesetzgeber oﬀensichtlich von der Devise «nur Bares ist Wahres»
+leiten. In beiden Fällen, beim Bargeld wie auch beim Wertpapier, stammt diese Auﬀassung oﬀensichtlich aus dem
+letzten Jahrtausend. Dabei ist nicht die bundesgerichtliche Rechtsprechung zu kritisieren. Vielmehr ist m. E.
+rechtspolitisch zu fordern, dass das Recht verstärkt auf das digitale Zeitalter abgestimmt wird.
+ 
+Dr. iur. PASCAL ZYSSET, Rechtsanwalt und Notar, Walder Wyss AG.
+Zitiervorschlag: Pascal Zysset, Nur Bares ist Wahres und nur verbriefte Aktien sind wahre Aktien, in: dRSK,
+publiziert am 4. November 2021
+ISSN 1663-9995. Editions Weblaw
+Weblaw AG | Schwarztorstrasse 22 | 3007 Bern
+T +41 31 380 57 77 info@weblaw.ch
