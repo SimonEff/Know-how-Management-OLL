@@ -404,4 +404,4 @@ ENV/
 venv/
 
 # Mac system files
-.DS_Store
+*.DS_Store
