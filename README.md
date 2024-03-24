@@ -1,0 +1,1 @@
+# Projekt 1: Know-how Management System
