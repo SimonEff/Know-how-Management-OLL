@@ -1,0 +1,70 @@
+Seite 1 / 2
+Verkäufer	
+Name
+Vorname
+Wohnadresse
+PLZ/Ort
+Geburtsdatum
+Telefonnummer
+Der Verkäufer ist rechtmässiger Eigentümer 
+des Fahrzeugs      ja /  nein
+Käufer	
+Name
+Vorname
+Wohnadresse
+PLZ/Ort
+Geburtsdatum
+Telefonnummer
+Fahrzeug	
+Marke
+Modell/Typ
+Karosserie (Limousine, Kombi, Cabrio, ...)
+Farbe
+Hubraum
+Leistung
+Getriebeart
+Fahrgestell-Nummer
+Stamm-Nummer
+Typengenehmigung
+1. Inverkehrsetzung
+Kilometerstand
+Datum der letzten MFK-Prüfung
+Datum des nächsten Abgastests
+Die meisten dieser Angaben finden Sie im Fahrzeugausweis.
+Verkaufspreis in CHF
+Zusätzliche Ausstattung (z.B. Klimaanlage) oder Ausrüstung (z.B. Winterreifen)
+Kaufvertrag 
+für ein Fahrzeug
+ Seite 2 / 2
+Weitere Angaben zum Fahrzeug	
+Ist das Fahrzeug unfallfrei (nur eventuelle Bagatellschäden wie z.B. Kratzer oder Parkbeulen)?      ja /  nein
+Bemerkungen
+Sind Mängel am Fahrzeug bekannt?      ja /  nein
+Bemerkungen
+Ist das Serviceheft vorhanden und korrekt nachgeführt?      ja /  nein
+Bemerkungen
+Allgemeine Bestimmungen	
+Garantieleistung
+ Jede Gewährleistung, soweit nach Gesetz möglich, wird wegbedungen, insbesondere sind Wandelung und Minderung ausgeschlossen.
+ Zwei Jahre Gewährleistung gemäss Art. 210 OR.
+ Andere Bestimmung
+Zahlung
+ Bar bei der Übergabe des Fahrzeugs
+ Sonstige Zahlungsart
+Fahrzeugübergabe
+Übergabedatum
+Übergabeort 
+Anwendbares Recht 
+Im Übrigen finden die gesetzlichen Bestimmungen über den Kaufvertrag (Art. 184 ff. OR) Anwendung.
+Salvatorische Klausel	
+Sollte eine Bestimmung dieses Vertrages unwirksam sein, tritt an die Stelle der unwirksamen Bestimmung die gesetzliche Regelung. 
+	
+Die übrigen Bestimmungen des Vertrages bleiben wirksam.
+Verkäufer	
+Ort/Datum
+Unterschrift
+Käufer	
+Ort/Datum
+Unterschrift
+Diese Vertragsvorlage wurde von AutoScout24 zur Verfügung gestellt. AutoScout24 ist an der vertraglichen Beziehung nicht beteiligt 
+und trägt keinerlei Verantwortung für den Abschluss, den Inhalt, die Erfüllung oder sonstige Belange dieses Vertrages.

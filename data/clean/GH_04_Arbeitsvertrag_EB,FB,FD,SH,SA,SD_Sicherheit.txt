@@ -1,0 +1,450 @@
+ARBEITSRECHT
+RECHTSFRAGEN IM BETRIEBLICHEN ALLTAG	
+Referent:	
+lic .iur. Joseph B. Koch, Rechtsanwalt, Toggenburgerstrasse 35, 9500 Wil SG 
+071 912 30 50, j.koch@gkr.ch, www.gkr.ch
+DER ARBEITSVERTRAG
+ Recht
+2
+1	
+Arbeitsvertrag
+1.1	
+Grundsätzliches
+Der Arbeitsvertrag ist einer der wichtigsten Verträge einer Firma, ausser es handle 
+sich um einen Einmannbetrieb. Für viele der rund 3 Millionen Angestellten in der 
+Schweiz ist der Arbeitsvertrag eine wesentliche Lebensgrundlage.
+Zu beachten ist, dass nicht nur der «gewöhnliche Angestellte» als Arbeitnehmer gilt, 
+sondern auch die Putzfrau und der Direktor einer Firma und sogar der Alleinaktionär 
+einer AG, sofern er ständig im Betrieb tätig ist.
+Der wichtigste und am meisten angewandte Arbeitsvertrag ist der Einzelarbeitsver-
+trag; er wird in den Art. 319 bis 343 OR geregelt und gilt stets dann, wenn nicht ein 
+«Besonderer Arbeitsvertrag» massgebend ist. Als Einzelarbeitsverträge gelten auch:
+–	 Teilzeitarbeitsvertrag, bei welchem die Arbeit nicht in Vollzeit (ganztags, 5 Tage pro 
+Woche), sondern in Teilzeit verrichtet wird (z.B. Halbtags-Sekretärin, Putzfrau usw.);
+–	 Aushilfsvertrag, wobei das wichtigste Merkmal die Unregelmässigkeit, die zeitliche 
+Befristung der Arbeit und der Abruf bzw. die Anfrage nach vorhandener Arbeit im 
+Vordergrund stehen (z.B. Studenten in der freien Zeit);
+–	 Temporärarbeitsvertrag mit der Besonderheit, dass der Arbeitsvertrag nicht (wie 
+landläufig oft angenommen wird) zwischen der Einsatzfirma und dem Werktätigen 
+besteht, sondern nur (!) zwischen der Vermittlungsfirma und dem Stellensuchenden.
+Das Gesetz bezeichnet folgende Arbeitsverhältnisse als «Besondere Arbeitsverträge»:
+–	 Lehrvertrag (Art. 344 bis 346a OR)
+–	 Handelsreisendenvertrag (Art. 347 bis 350a OR)
+–	 Heimarbeitsvertrag (Art. 351 bis 354 OR)
+Der Gesamtarbeitsvertrag (GAV) gilt für Angehörige einer bestimmten Berufsgruppe 
+und kann in zwei verschiedenen Formen auftreten:
+–	 allgemein verbindlich erklärter GAV, dieser gilt automatisch;
+–	 nicht allgemein verbindlich erklärter GAV, dieser gilt nur, falls die Firma dem be-
+treffenden Arbeitgeberverband und der Mitarbeiter dem betreffenden Arbeitneh-
+merverband angehört.
+Zu beachten ist, dass der «Normalarbeitsvertrag» überhaupt nichts zu tun hat mit 
+dem «normalen» Arbeitsvertrag der täglichen Praxis. Der NAV wird von den zuständi-
+gen Behörden erlassen und gilt nur für:
+–	 landwirtschaftliche Arbeitnehmer
+–	 Angestellte im Hausdienst
+–	 Heim- und Spitalpersonal
+Es ist stets im Einzelfall zu prüfen, ob ein Arbeitsvertrag vorliegt oder eventuell ein 
+Auftrag, ein Werkvertrag bzw. ein Agenturvertrag.
+ Recht
+3
+1.1.1	
+Agenturvertrag
+Agent ist, wer als selbständiger Unternehmer Geschäfte auf fremden Namen und auf 
+fremde Rechnung vermittelt. Der Agent arbeitet auf Provisionsbasis, trägt seine Spe-
+sen selbst und führt auch eine Buchhaltung (Art. 418a OR).
+1.1.2	
+Werkvertrag
+Beim Werkvertrag liefert der Hersteller ein fertiges Werk ab gegen Werklohn plus 
+Kosten für Herstellungsmaterial und Spesen. Der Hersteller arbeitet auf eigenes Risi-
+ko; d.h., misslingt ihm das Werk, so ist kein Entgelt geschuldet (Art. 363 OR).
+1.1.3	
+Auftrag
+Beim Auftrag arbeitet der Beauftragte völlig selbständig und ist in der Regel an keine 
+Weisung oder Anordnung gebunden. Beide Vertragsparteien können den Auftrag je-
+derzeit fristlos kündigen (!). Geschuldet ist dabei das Honorar plus Spesen (Art. 394 OR).
+1.1.4	
+Im Zweifelsfall
+Bestehen Zweifel, um welchen Vertrag es sich handelt, so nehmen die Gerichte in al-
+ler Regel einen Arbeitsvertrag an. Es ist übrigens nicht erlaubt, einen Arbeitsvertrag 
+als z.B. einen Agenturvertrag zu bezeichnen; massgebend sind allein die wirklichen 
+und wesentlichen Elemente des Vertragsinhaltes (Art. 18 OR). Liegt ein Arbeitsver-
+trag vor, so sind die zwingenden Vorschriften des OR zu beachten, wie Lohnfortzah-
+lung, Ferien, Kündigungs- und Sperrfristen, Überstundenentschädigung usw.
+1.2	
+Anstellungsgespräch
+Bevor ein Arbeitsvertrag abgeschlossen wird, treffen sich meist die beiden Parteien 
+(Firma und künftiger Mitarbeiter) zu einem Anstellungs- bzw. Vorstellungsgespräch, 
+um sich kennen zu lernen und die Modalitäten des neuen Arbeitsverhältnisses zu be-
+sprechen. Hierbei ergeben sich oft die folgenden Probleme: Notwehrrecht auf Lüge? 
+– Verschweigen von Tatsachen, dies auf Seiten des künftigen Angestellten. Ein soge-
+nanntes «Notwehrrecht auf Lüge» gibt es nicht, weil es den Tatbestand der absichtli-
+chen Täuschung (Art. 28 OR) erfüllt, was zur fristlosen Entlassung führen kann.
+Natürlich ist nicht jede Lüge beim Vorstellungsgespräch erheblich; so muss ein Mau-
+rer seine Vorstrafen nicht bekannt geben, sofern diese nichts mit seinem Beruf zu 
+tun haben. Ein Bankangestellter muss hingegen allfällige Vermögensdelikte – auf An-
+frage hin – wahrheitsgemäss angeben. Gefragt werden darf in aller Regel:
+–	 Zivilstand, Kinder
+–	 militärischer Grad
+–	 Lohnpfändung
+–	 Vorstrafen (sofern berufserheblich)
+–	 Krankheiten (sofern berufserheblich)
+–	 Ausweise, Diplome, Zeugnisse, Bewilligungen  
+(bei diesen Punkten gibt es überhaupt kein Notwehrrecht auf Lügen)
+ Recht
+4
+Anderseits sind nicht zu erfragen:
+–	 religiöse Zugehörigkeit
+–	 gewerkschaftliche Tätigkeit
+–	 Freizeitverhalten, Hobbies
+–	 politische Tätigkeit
+–	 freundschaftliche Beziehungen;
+dies immer mit den Ausnahmen, dass diese Punkte für die neue Stelle berufserheb-
+lich sind. Bei Kaderangehörigen darf natürlich mehr gefragt werden als bei einem 
+subalternen Angestellten oder gar einer Hilfskraft. Entscheidend ist das Ausmass der 
+Vertrauensstellung.
+1.3	
+Inhalt des Vertrages
+Der vereinbarte Arbeitsvertrag sollte mindestens die wichtigsten Punkte erfassen 
+und schriftlich niederlegen, damit (auch nach einigen Jahren) klar und beweisbar ist, 
+was abgemacht worden ist, z.B.
+–	 Funktion, Arbeitsgebiet
+–	 Eintrittsdatum, Probezeit, Kündigungsfrist
+–	 Lohn, Zuschläge, Gratifikation, Spesen
+–	 Arbeitszeiten, Gleitzeit, Blockzeit, Präsenzzeit
+–	 Regelung der Überstunden
+Gewisse Vereinbarungen bedürfen zwingend der schriftlichen Form, wie z.B. Aus-
+schluss der Überstundenentschädigung, Vereinbarung von Mehrarbeit gemäss Art. 
+34 GAV, Spesenvergütung oder Ferien-Barabgeltung usw.
+1.4	
+Gesamtarbeitsvertrag
+Der Gesamtarbeitsvertrag ist als Normenvertrag eine Rechtsquelle besonderer Art. 
+Er liegt zwischen Gesetz und gewöhnlichem obligationenrechtlichem Vertrag. Das 
+zwingende Recht des Bundes und der Kantone steht über dem Gesamtarbeitsvertrag 
+und ist Mindestnorm. Der Gesamtarbeitsvertrag gilt dagegen dann, wenn er für den 
+Arbeitnehmer günstigere Bestimmungen aufstellt.
+Der Gesamtarbeitsvertrag geht, weil schriftlich abgeschlossen, jedem Gewohnheits-
+recht oder Übung vor.
+Ein Gesamtarbeitsvertrag kann einerseits von Arbeitgeberverbänden oder einzelnen 
+Arbeitgebern mit grösserer Belegschaft und andererseits von Arbeitnehmerverbän-
+den abgeschlossen werden. Arbeitgeberseits können sowohl natürliche (Einzelfirma) 
+als auch juristische Personen (Aktiengesellschaften, arbeitnehmerseits hingegen nur 
+juristische Personen (Arbeitnehmerverbände), Vertragsparteien sein.
+Der Gesamtarbeitsvertrag gilt einerseits für die beteiligten Verbände selbst und an-
+dererseits für deren Verbandsmitglieder. Wenn diese ein Arbeitsverhältnis eingehen 
+wirkt der Gesamtarbeitsvertrag als Arbeitsvertrag. Das Besondere ist, dass die ver-
+ Recht
+5
+tragsschliessenden Verbände Bestimmungen aufstellen, die für das Arbeitsverhältnis 
+zwischen dem einzelnen Arbeitgeber und seinem Arbeitnehmer direkt gelten. Was 
+im Gesamtarbeitsvertrag festgelegt ist, kann nicht wegbedungen werden; d.h. der 
+Vertragsinhalt gilt als Minimalbedingung. Daraus ergibt sich, dass der Arbeitnehmer 
+auf die Minimalansprüche aus dem Gesamtarbeitsvertrag während der Dauer des Ar-
+beitsverhältnisses und während eines Monates danach nicht verzichten kann.
+Die Vertragsparteien (Verbände) haben für die Einhaltung des Gesamtarbeitsvertra-
+ges zu sorgen; dies ist eine allgemeine Vertragspflicht. Zur Einhaltungspflicht kommt 
+als wichtiger Aspekt die Friedenspflicht, d.h. die Vertragsparteien haben den Ar-
+beitsfrieden zu wahren und sich insbesondere jeder Kampfmassnahme zu enthalten. 
+Nach dem Umfang dieser Friedenspflicht wird eine relative und eine absolute unter-
+schieden: die relative beinhaltet die Wahrung des Arbeitsfriedens in Bezug auf die 
+Arbeitsbedingungen, die im Gesamtarbeitsvertrag geordnet sind und als absolute 
+gilt jene Pflicht, den Arbeitsfrieden überhaupt zu wahren, auch wenn das Verhalten 
+im Gesamtarbeitsvertrag nicht ausdrücklich geregelt ist.
+Der Geltungsbereich des Gesamtarbeitsvertrages wird vertraglich durch Beitritt ei-
+nes weiteren Verbandes oder durch Anschluss eines Arbeitgebers oder Arbeitneh-
+mers, welcher nicht Verbandsmitglied ist, ausgedehnt. Daneben kann der Gesamtar-
+beitsvertrag durch die Allgemeinverbindlicherklärung durch den Bundesrat für die 
+ganze Branche gültig erklärt werden.
+1.4	
+Pflichten des Arbeitnehmers
+1.4.1	
+Persönliche Arbeitsleistung
+Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu leis-
+ten.
+1.4.2	
+Sorgfaltspflicht
+Der Arbeitnehmer hat die ihm übertragene Arbeit sorgfältig auszuführen. Für den 
+Schaden, den er dem Arbeitgeber absichtlich oder fahrlässig zufügt, ist er verant-
+wortlich. Das Mass der Sorgfalt richtet sich nach der Stellung im Betrieb, nach Bil-
+dungsgrad, Fähigkeiten und Berufsrisiko.
+1.4.3	
+Verbot von Schwarzarbeit
+Dem Arbeitnehmer ist es untersagt, während der Dauer des Arbeitsverhältnisses ge-
+gen Entgelt für einen Dritten Arbeit zu leisten, wenn er dadurch den Arbeitgeber be-
+nachteiligt. Dies kann erfolgen durch Konkurrenzierung oder durch Schwächung der 
+Leistungsfähigkeit (Übermüdung etc.).
+1.4.4	
+Treuepflicht
+ Recht
+6
+Der Arbeitnehmer ist zur Wahrung der Geschäftsinteressen verpflichtet. Dazu gehört 
+insbesondere die Geheimhaltungspflicht betreffend vertraulicher Informationen.
+1.4.5	
+Leistung von Überstunden
+Wenn es die Umstände erfordern, ist der Arbeitnehmer in zumutbarem Masse zur 
+Leistung von Überstunden verpflichtet.
+1.4.6	
+Befolgung von Weisungen
+Der Arbeitnehmer hat den Anordnungen und Weisungen des Arbeitgebers bzw. sei-
+ner Vorgesetzten Folge zu leisten.
+1.5	
+Pflichten des Arbeitgebers
+1.5.1	
+Lohnzahlung
+Der Arbeitgeber hat den vereinbarten Lohn zu bezahlen, auch wenn er den Arbeit-
+nehmer infolge Arbeitsmangel nicht beschäftigen kann.
+Gestützt auf Art. 324a OR hat der Arbeitgeber bei Krankheit, Unfall oder Militärdienst 
+des Arbeitnehmers den Lohn für eine beschränkte Zeit weiter zu entrichten. Heute 
+wird diese Verpflichtung in der Regel durch eine Krankentaggeld-Versicherung abge-
+deckt.
+1.5.2	
+Lohnzuschlag für Überzeit oder Kompensation 1 : 1
+Soweit nichts schriftlich vereinbart ist, hat der Arbeitgeber dem Arbeitnehmer die 
+Überstunden mit einem Zuschlag von 25% zu entschädigen Allerdings kann er an-
+ordnen, dass Überstunden im Verhältnis 1 : 1 kompensiert werden müssen. Das ist 
+zumindest die gesetzliche Regelung. Der neue GAV Dach und Wand verlangt neu, 
+dass normale Überstunden, welche nicht an einem Samstag oder Feiertag geleistet 
+wurden, nur noch mit Freizeit von gleicher Dauer kompensiert werden dürfen (vgl. 
+Art. 25 GAV).
+1.5.3	
+Weitere Pflichten des Arbeitgebers
+–	 Bereitstellung der notwendigen Arbeitsgeräte
+–	 Vergütung von Spesen (tatsächliche Auslagen gegen Beleg)
+–	 Massnahmen zum Schutz der Gesundheit
+–	 Einräumen der üblichen Frei- und Ferienzeit
+–	 Ausstellen eines Zeugnisses
+–	 Gewährung der Freizügigkeit bei Pensionskassen
+ Recht
+7
+1.6	
+Arbeitszeit – Überzeit – Überstunden - Jahresarbeitszeit
+Der GAV Dach und Wand stellt den unterstellten Betrieben ein sehr flexibles Arbeits-
+zeitmodell zur Verfügung. Verschiedene Erfahrungen zeigen aber, dass diese Mög-
+lichkeiten nur bedingt und sehr unterschiedlich genutzt werden. Die nachfolgende 
+Darstellung soll daher aufzeigen und verständlich machen, welche Varianten einem 
+Unternehmer bezüglich flexibler Arbeitszeiteinteilung zur Verfügung stehen und auf 
+welche rechtlichen Rahmenbedingungen dabei zu achten ist.
+Die Zeiten, als stur von 7.00 Uhr bis 12.00 Uhr und 13.00 Uhr bis 17.30 Uhr gearbeitet 
+werden musste, sind wohl Vergangenheit. Die geänderten Anforderungen an ein fle-
+xibles Unternehmen bedingen auch bezüglich Arbeitszeit durchlässigere Lösungsan-
+sätze. Was ist denn eigentlich aus arbeitsrechtlicher Sicht «Arbeitszeit»? Als Arbeits-
+zeit gilt die Zeit, während der sich der oder die Arbeitnehmende zur Verfügung des 
+Arbeitgebers zu halten hat. Diese Definition folgt aus Art. 13 Abs. 1 der Verordnung 
+zum Arbeitsgesetz. Aus der Natur des Arbeitsvertrages geht der Grundsatz hervor, 
+dass die Einteilung der konkreten Arbeitszeit Sache des Arbeitgebers ist. Der GAV 
+Dach und Wand konkretisiert diesen Grundsatz in Art. 31 bis 35.
+1.6.1	
+Was heisst «flexibles Arbeitszeitmodell» oder «Jahresarbeitszeit»?
+Der GAV Dach und Wand sieht vor, dass die Arbeitnehmenden pro Jahr eine «Ar-
+beitszeit» von 2184 Stunden zu leisten bzw. auszuweisen haben. Diese Zahl errech-
+net sich ganz einfach: 52 Wochen mal 42 Wochenstunden. Faktisch heisst das, dass 
+der Arbeitgeber jedem Arbeitnehmer pro Kalenderjahr 2148 Stunden zu bezahlen 
+hat, sofern diese Stunden nachgewiesen sind. Dieser Nachweis sieht im Modellfall 
+wie folgt aus: Ferien: 23 Tage à 8,4 Stunden: 193,2 Stunden, 9 bezahlte Feiertage: 
+75,6 Stunden, total 268,8 Stunden, die bezahlt werden, ohne dass dafür gearbeitet 
+werden muss. Die restlichen 1879,2 Stunden sind grundsätzlich abzuarbeiten. Im Ein-
+zelfall wird diese Zahl reduziert durch weitere bezahlte Absenzen wie Krankheit, Un-
+fall, Militärdienst oder Aus- und Weiterbildung.
+Wie bzw. in welchem Intervall nun diese 1887,6 Stunden «abgearbeitet» werden 
+müssen, bestimmt grundsätzlich der Arbeitgeber bzw. mehr und mehr das Bedürfnis 
+des Kunden. Der GAV erlaubt denn auch die Einteilung der täglichen oder wöchent-
+lichen Tagesarbeitszeit unterschiedlich zu gestalten. Je nach Bedürfnis können sogar 
+Team oder Objekt bezogen unterschiedliche Arbeitszeiten angeordnet werden. Vor 
+allem aber lässt dieses System zu, dass von Frühjahr bis Herbst markant mehr als 42 
+Stunden pro Woche geleistet werden müssen, damit im Winter dann infolge miss-
+licher Wetterbedingungen diese Mehrarbeit wieder mit Freizeit kompensiert bzw. 
+ein Arbeitspensum von beispielsweise nur 6 oder sogar 0 Stunden bestimmt werden 
+kann. Im Idealfall ergibt das Stundentotal (Ferien + Feiertage + gearbeitete Stunden) 
+des Modellarbeitnehmers Ende Jahr 2184 Stunden. Dies dürfte in der Praxis wohl 
+eher selten der Fall sein.
+ Recht
+8
+1.6.2	
+Vorhol- oder Überstunden definieren
+Zum System der flexiblen Einteilung der Jahresarbeitszeit gehört es unabdingbar, 
+dass der Unternehmer zumindest die fixen Daten, deren Arbeitszeit vorgeholt, d.h. 
+vorausgearbeitet werden muss, frühzeitig einplant. Der GAV verlangt denn auch in 
+Art. 32.1, dass die pro Kalenderjahr vorhersehbaren vorzuholenden Tage (Brücken, 
+Weihnacht/Neujahr etc. ) den Mitarbeitenden schriftlich bekannt gegeben werden 
+müssen. Wichtig ist, dass die regelmässige Mehrarbeit von Frühling bis Herbst klar 
+als Vorholzeit bezeichnet und definiert wird. Der Unternehmer hat seine Mitarbeiter 
+unmissverständlich darauf hinzuweisen, dass die im Sommer geleistete regelmässi-
+ge Mehrarbeit – der 8,4 Stunden übersteigende Teil der täglichen Arbeitszeit – nicht 
+Überstunden, sondern Vorholzeit für den Winter und Schlechtwettertage darstellen. 
+Werden also für den Sommer oder einige Wochen 9,5 Stunden tägliche Arbeitszeit 
+festgelegt, dann ergibt dies keine Überstunden. Erst, wenn auch diese 9,5 Stunden 
+überschritten werden, ergibt der überschiessende Teil Überstunden. Hier gilt es aber 
+unbedingt zu berücksichtigen, dass das Arbeitsgesetz die dauernde Anordnung von 
+mehr als 50 Wochenstunden verbietet, ein teilweises und als Ausnahme definiertes 
+Überschreiten dieser Limite ist aber erlaubt.
+«Überstunden» oder «Überzeit»
+1.6.3	
+Samstagsarbeit
+Gleich verhält es sich bei angeordneter Samstagsarbeit. Wird an einem Samstag Ar-
+beit angeordnet, so ist unbedingt klar festzuhalten, dass es sich dabei um Vorholzeit 
+handelt. Wer den Betrieb Weihnachten/Neujahr schliesst und die entsprechende Zeit 
+zum Abbau von Vorholzeit einsetzt, sollte alle gearbeiteten Samstage vorab für die-
+se Grossbrücke einsetzen. Art. 26 GAV hält nämlich fest, dass Samstage, die nicht als 
+Vorholzeit definiert sind, mit einem Überstundenzuschlag entschädigt werden müs-
+sen. Wer bei hohem Arbeitsanfall also Samstagsarbeit anordnet, sollte dies unbe-
+dingt schriftlich festhalten (Anschlagbrett), dass es sich dabei explizit um Vorholzeit 
+für die XY-Tage handelt.
+Vertragliche Arbeitszeit (einzelarbeitsvertrag oder GAV)
+42 Wochenstunden gem. GAV
+50 Wochenstunden
+«Überstunden»
+«Überzeit»
+Zulässige Arbeitszeit gemäss Arbeitsgesetz
+Mehrarbeit vertragliche Arbeitszeit bis Limit Arbeitsgesetz =
+Arbeitsstunden über Höchststunden-Limit gemäss Arbeitsgesetz =
+ Recht
+9
+2	
+Kündigungsrecht
+2.1	
+Ordentliche Kündigung
+Mit der Kündigung als einseitiger Willenserklärung übt der Kündigende ein Gestal-
+tungsrecht (einseitiges Rechtsgeschäft) aus, ohne dass es der Mitwirkung der Gegen-
+partei bedarf; ein dagegen erhobener Protest bleibt wirkungslos, eine im Gegenzug 
+erklärte Widerkündigung ebenfalls. Eine Bestätigung des Kündigungsempfangs ist 
+unnötig und bedeutungslos.
+Ist keine besondere Form vorgesehen, so kann die Kündigung formlos erfolgen. Der 
+GAV Dach und Wand schreibt in Art. 74 vor, dass die Kündigung mit eingeschriebe-
+nem Brief zu erfolgen hat.
+Die Kündigungserklärung muss ihrem Sinne nach so eindeutig sein, dass der Emp-
+fänger sie nicht missverstehen kann. Eigentlich reicht «ich kündige» schon aus, denn 
+alle weiteren Umstände ergeben sich aus dem Arbeitsvertrag, GAV oder Gesetz. Aus-
+sagen wie «Es ist wohl besser, wenn wir uns trennen» können kaum als eindeutige 
+Kündigung ausgelegt werden.
+2.1.1	
+Kündigung und Pensionierung
+Mit Erreichen des AHV-Alters wird in der Regel auch die Erwerbstätigkeit eingestellt. 
+Dies heisst aber keineswegs, dass auf diesen Zeitpunkt ein bestehendes Arbeitsver-
+hältnis von sich aus dahinfallen würde. Ebenso wenig kann von einer mit dem Errei-
+chen des Pensionierungsalters ablaufenden Vertragsdauer die Rede sein. Soll also 
+das Arbeitsverhältnis nicht über diese Altersgrenze hinaus weitergeführt werden, so 
+bedarf es einer ordentlichen Kündigung, sofern nicht Personalreglement oder Ver-
+trag anderes vorsehen.
+2.1.2	
+Kündigung vor Stellenantritt
+Wohl kann die Kündigung vor Antritt der Stelle erklärt werden, bloss entbindet dies 
+den Arbeitnehmer nicht von der Pflicht zum Stellenantritt. Gekündigt wird nicht der 
+Vertrag, sondern das Arbeitsverhältnis, dessen Bestehen Voraussetzung für die Zu-
+verlässigkeit der Kündigung bildet. Die Kündigungsfrist bemisst sich also erst vom 
+ersten Anstellungstage an, auch wenn der Auflösungswille schon Wochen zuvor 
+kundgetan worden ist. Unterbleibt der Stellenantritt wegen vermeintlich bereits wie-
+der erfolgter Auflösung, liegt Vertragsbruch vor.
+2.2	
+Kündigungsfristen und -termine
+Es obliegt dem Kündigenden dafür zu sorgen, dass dem Kündigungsempfänger die 
+Erklärung rechtzeitig zugestellt wird bzw. dieser die Möglichkeit hat, sie in Empfang 
+zu nehmen, bevor die Kündigungsfrist zu laufen beginnt. Erreicht die Kündigung den 
+Adressaten verspätet, so ist sie nicht ungültig; vielmehr wird sie auf den nächstmög-
+lichen Termin wirksam.
+ Recht
+10
+Weigert sich der Empfänger, den eingeschriebenen Brief entgegenzunehmen oder 
+lässt er die Abholfrist absichtlich unbenutzt verstreichen, gilt die Kündigung gleich-
+wohl als rechtzeitig zugestellt, wenn der letzte Tag der Abholfrist noch vor Beginn 
+der effektiven Kündigungsfrist liegt.
+In der Praxis werden einige geläufige Begriffe oft verwechselt oder falsch angewen-
+det. Unter Kündigung wird die mündlich ausgesprochene oder schriftlich festgehal-
+tene Willenserklärung verstanden, das Arbeitsverhältnis auf einen bestimmten Zeit-
+punkt hin aufzulösen. Der Kündigungstermin hingegen gibt an, auf welches Datum 
+hin das Arbeitsverhältnis aufgelöst werden soll. Demgegenüber bedeutet Kündi-
+gungsfrist diejenige Zeitdauer, die mindestens zwischen Empfangnahme der Kündi-
+gung und Beendigung des Vertragsverhältnisses liegen muss.
+2.3	
+Sonderfall: Kündigung und Krankheit
+Zwei häufige Fälle, welche regelmässig zu Problemen Anlass geben, sollen kurz nä-
+her betrachtet werden:
+–	 Krankheit während der Kündigungsfrist
+–	 Kündigung während Krankheit
+In beiden Fällen existieren gemäss Art. 336c OR Sperrfristen, jedoch mit unterschied-
+lichen Rechtsfolgen.
+2.4	
+Nichtigkeit der Kündigung
+Die Kündigung, die während einer Sperrfrist ausgesprochen wird, ist nichtig. Sie ent-
+faltet keinerlei Rechtswirkungen (Art. 336c Abs. 2 OR).
+2.5	
+Unterbruch der Kündigungsfrist
+Ist die Kündigung durch den Arbeitgeber vor Beginn einer Sperrfrist erfolgt, so ist sie 
+gültig; sofern die Kündigungsfrist aber bis zum Beginn einer Sperrfrist noch nicht ab-
+gelaufen ist, wird deren Ablauf unterbrochen und erst nach Beendigung der Sperr-
+frist fortgesetzt (Art. 336c Abs. 2 OR).
+Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie das Ende eines 
+Monats oder einer Arbeitswoche, und fällt dieser nicht mit dem Ende der fortgesetz-
+ten Kündigungsfrist zusammen, so verlängert sich diese bis zum nächstfolgenden 
+Endtermin (Art. 336c Abs. 3 OR).
+ Recht
+11
+Beispiel: Der Arbeitgeber kündigt am 20. Mai schriftlich mit eingeschriebenem Brief. 
+Der Brief wird am 24. Mai von der Post abgeholt. Kündigunsfrist 2 Monate. Der Ar-
+beitnehmer wird zwischen 15. und 25. Juni arbeitsunfähig geschrieben. Wann endigt 
+dieses Arbeitsverhältnis?
+2.6	
+fristlose Entlassung
+2.6.1	
+In welchen Fällen darf eine fristlose Kündigung ausgesprochen 
+werden?
+Eine fristlose Kündigung ist nur aus wichtigem Grund zulässig. Ein wichtiger Grund 
+ist dann gegeben, wenn dem Kündigenden die Fortsetzung des Arbeitsverhältnisses 
+nach Treu und Glauben nicht mehr zugemutet werden kann (Art. 337 OR).
+Schwerwiegende Verfehlungen rechtfertigen eine fristlose Entlassung auch ohne 
+vorgängige Abmahnung. Dies können sein: Straftaten am Arbeitsplatz, wiederholte 
+oder generelle Arbeitsverweigerung, konkurrenzierende Tätigkeit, Verrat von Ge-
+schäftsgeheimnissen, Annahme von Schmiergeldern, Tätlichkeiten und Beleidigun-
+gen von Vorgesetzen oder Arbeitskollegen (sofern es sich nicht lediglich um Baga-
+tellfälle handelt).
+Bei weniger schwerwiegenden Verfehlungen ist eine fristlose Kündigung erst nach 
+vorangegangener Abmahnung zulässig. Dazu können gehören: Verspätetes Erschei-
+nen am Arbeitsplatz, einmaliges Wegbleiben vom Arbeitsplatz ohne guten Grund, 
+übermässiges Telefonieren oder Internetbenutzung am Arbeitsplatz, Verstoss gegen 
+Weisungen des Arbeitgebers usw. Es kommt immer auf die Umstände des einzelnen 
+Falles an.
+Schlechte Arbeitsausführung ist mit Ausnahme ganz krasser Fälle höchstens ein 
+Grund für eine ordentliche, nicht jedoch für eine fristlose Kündigung. Niemals Grund 
+für eine fristlose Entlassung ist die unverschuldete Verhinderung des Arbeitnehmers 
+an der Arbeitsleistung (Art. 337 Abs. 3 OR).
+24.5. 1.6.
+Kündigunsfrist 2 Monate
+Kündigunsfrist wird unterbrochen
+Kündigunsfrist verlängert sich automatisch bis Ende Monat
+15. – 25.6.
+1.7.
+1.8.
+11.8.
+1.9.
+ Recht
+12
+Selbstverständlich müssen die Vorwürfe den Tatsachen entsprechen. Entlässt der 
+Arbeitgeber einen Arbeitnehmer fristlos, weil er ihn verdächtigt, einen Diebstahl im 
+Betrieb begangen zu haben, und bestätigt sich der Verdacht nach durchgeführter 
+Untersuchung nicht, so ist die fristlose Entlassung zu Unrecht erfolgt.
+Falls der Arbeitgeber nicht sofort reagiert, verwirkt er sein Recht auf eine fristlose 
+Kündigung. Nach der Gerichtspraxis hat er nach einem Vorfall, der Anlass für eine 
+fristlose Entlassung geben könnte, zwei bis drei Arbeitstage Zeit, um sich zu ent-
+scheiden, ob er tatsächlich fristlos kündigen will. Grösseren Unternehmen räumt die 
+Gerichtspraxis eine etwas längere Frist ein, weil davon ausgegangen wird, dass die 
+zuständigen Organe nicht ständig präsent sind. Eine sorgfältige Abklärung des Vor-
+falls gereicht dem Arbeitgeber nicht zum Nachteil, sofern er die Abklärungen sofort 
+einleitet.
+Ein Arbeitnehmer steht im unterjährigen Arbeitsverhältnis; die Kündigungsfrist be-
+trägt einen Monat auf das Ende eines Monats. Der Arbeitgeber kündigt am 26. Juli 
+auf Ende August. Der Arbeitnehmer erkrankt vom 3. bis 18. August. Die Kündigung 
+ist gültig und läuft vom 26. Juli bis 3. August. Dann bleibt sie bis zum 18. August 
+stehen und läuft ab dem 19. August weiter. Die einmonatige Kündigungsfrist endet 
+somit erst im September. Da nur auf Ende Monat gekündigt werden kann, verlängert 
+sich die Kündigungsfrist auf Ende September. Die auf Ende August ausgesprochene 
+Kündigung wird somit auf September wirksam.
+Nach Ablauf der Sperrfrist kann der Arbeitgeber das Arbeitsverhältnis kündigen, 
+selbst wenn der Arbeitnehmer noch an der Arbeitsleistung infolge Krankheit oder 
+Unfall verhindert ist.
+2.7	
+Schlussabrechnung
+Für eine saubere Schlussabrechnung müssen folgende Punkte berücksichtigt werden:
+–	 geleistete Arbeitszeit (Basis gem. GAV)
+–	 allfällige Provisionen, Spesen, Gewinnbeteiligung
+–	 ordentlicher Lohn bis zum Kündigungstermin / Anteil 13. Monatslohn
+–	 Ferienabrechnung
+–	 weitere Forderungen wie Darlehen, Vorschüsse usw.
+–	 Werkzeug

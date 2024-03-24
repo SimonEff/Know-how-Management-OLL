@@ -1,0 +1,1644 @@
+94
+Jahresabschluss bei der Aktiengesellschaft
+4.2.	
+Jahresabschluss bei der Aktiengesellschaft
+4.2.1.	
+Merkmale der AG 
+	
+(nach Berücksichtigung der Aktienrechtsreform ab 1.1.2023)
+	
+•
+Gründung durch eine oder mehrere natürliche oder juristische Personen oder Handelsgesellschaften 
+(OR 620)
+	
+•
+Es ist eine Kapitalgesellschaft mit eigener Firma (= Namen der AG)
+	
+•
+
+Das Aktienkapital ist zum Voraus bestimmt und besteht aus Teilsummen (= Aktien), deren Nennwert 
+grösser als Null ist (OR 622, Abs. 4)
+	
+•
+Die am Aktienkapital beteiligten Teilhaber werden als Aktionäre bezeichnet
+	
+•
+Das Aktienkapital muss mindestens Fr. 100 000.– betragen (OR 621)
+	
+•
+Für die Schulden der AG haftet nur das Gesellschaftsvermögen, d.h., die Aktionäre haften nicht  
+mit ihrem Privatvermögen, sie können demnach bei einem Konkurs der AG höchstens den Wert  
+verlieren, den sie für die Aktien bezahlt haben (OR 620)
+	
+•
+Da die Aktionäre nicht im Handelsregister eingetragen werden, bleiben sie anonym, d.h.,  
+Aussenstehende sehen nicht, wer die wirklichen Eigentümer einer AG sind
+	
+•
+Eine Besonderheit ist die Doppelbesteuerung: Die AG und die Aktionäre werden getrennt  
+besteuert, d.h.,  
+1. die Gesellschaft zahlt Gewinn- und Kapitalsteuern 
+2. 
+die Aktionäre zahlen Einkommenssteuern für die Dividenden (Gewinnanteil) sowie Vermögens- 
+steuern (Wert der Aktien am Jahresende)
+Die gesamten rechtlichen und steuerlichen Grundlagen der AG können im Band «Rechtskunde und Grundlagen des Staates» aus 
+dem Lehrmittelverlag Grünig nachgelesen werden (www.lehrmittelverlag-gruenig.ch)
+4.2.2	
+Das Eigenkapital der AG
+Im Gegensatz zur Einzelunternehmung wird das Eigenkapital der AG von mehreren Personen finanziert. Bei 
+der Gründung wird vorerst das Aktienkapital gebildet. Da die AG vom Gesetz gezwungen wird, Reserven 
+anzulegen, entsteht mit der Zeit weiteres Eigenkapital. 
+Wir unterscheiden:
+Auf Grund der Aktienrechtsreform gelten ab 1.1.2023 insbesondere für die Bildung der Reserven die folgen-
+den Grundlagen:
+Aktienkapital 
+– 
+besteht aus einer bestimmten Anzahl Aktien  
+zu einem festgelegten Nennwert
+= GRUNDKAPITAL
+Konto:
+«Aktienkapital»
+GESAMTES
+EIGENKAPITAL 
+DER AG
+Reserven
+–	 Gesetzliche Kapitalreserve (OR 671)
+	 Zuweisung aus dem Erlös über dem Nennwert 
+bei der Ausgabe von Aktien (sog. Agio)
+–	 Gesetzliche Gewinnreserve (OR 672)
+	 Zwingende Zuweisung von 5% des Jahres­
+gewinnes
+–	 Freiwillige Gewinnreserve (OR 673)
+	 Zuweisung durch Beschluss der GV
+–	 Gewinnvortrag
+	 Nicht verteilter Reingewinn, der in die nächste 
+Rechnungsperiode übertragen wird.
+= ZUWACHSKAPITAL
+Konten:
+–	 Gesetzl. Kapitalreserve 
+–	 Gesetzl. Gewinnreserve
+–	 Freiwillige Gewinnreserve
+–	 Gewinnvortrag
+Nach OR Art. 674 sind die Reserven in erster Linie zur Deckung von Verlusten zu verwenden
+ 95
+Jahresabschluss bei der Aktiengesellschaft
+4.2.3.	
+Gewinnverteilung
+Die Generalversammlung (GV) ist zuständig für die Genehmigung der Jahresrechnung sowie die Beschluss-
+fassung über die Verwendung des Gewinns (OR 698 Abs. 2). 
+In der Praxis erstellt der Verwaltungsrat (VR) zuhanden der Generalversammlung einen Vorschlag, wie der 
+Gewinn verteilt werden soll. Bevor Gewinne an die Aktionäre ausbezahlt werden, müssen die gesetzlichen 
+und statutarischen Bestimmungen beachtet werden.
+Für den Jahresabschluss steht im revidierten Aktienrecht ab 1.1.2023 der OR-Artikel 672 im Mittelpunkt, 
+der zwingend die Bildung einer Reserve aus dem Jahresgewinn vorsieht.
+OR-Art.
+Konto
+672 Abs. 1
+Zuweisung von 5% des Jahresgewinns.
+Liegt ein Verlust vor, ist dieser vor der Zuweisung  
+zu beseitigen (siehe S. 102)
+Gesetzliche Gewinnreserve
+(Abkürzung GGRes)
+672 Abs. 2
+Die gesetzliche Gewinnreserve ist zu äufnen, bis sie zusammen mit der gesetzlichen 
+­
+Kapitalreserve die Hälfte des im Handelsregister eingetragenen Aktienkapitals 
+erreicht.
+Die Gewinnverteilung nach OR 672 gilt als Mindestnorm. In der Praxis sind die Zuweisungen für die Reser-
+ven meist höher. Damit erhält die Unternehmung Zuwachskapital, das sehr wichtig ist für die Selbstfinan-
+zierung der AG. Dieses Kapital verursacht weder Zinskosten noch Dividendenforderungen. Zudem wird der 
+Hauptzweck, in schlechteren Jahren mit den Reserven Verluste zu decken, erfüllt. Nach der Zuweisung an 
+die Reserven kann der restliche Gewinn für die Ausschüttung an die Aktionäre (Dividenden) und Verwal-
+tungsräte (Tantièmen) verwendet werden.
+In den folgenden Fallbeispielen und Aufgaben werden die Reserven vorwiegend aus dem Jahres-
+gewinn gebildet. Wie auf der Seite 94 dargestellt, können auch freiwillige gesetzliche Reserven 
+gebildet werden (siehe ab Seite 104 ff). 
+Fallbeispiel 1 
+Berechnung der Gewinnverteilung (nach OR 672 Abs. 1) und Konten
+Die Motta AG weist Ende Jahr die folgenden Abschlusszahlen auf (in Kurzzahlen):
+Konto Aktienkapital	
+2200
+Konto Gesetzliche Gewinnreserven	
+280
+Reingewinn	
+120
+Vorschlag des Verwaltungsrats für die Gewinnverteilung:
+– Zuweisung an die Gesetzlichen Gewinnreserven gemäss OR 672
+– 5% Dividenden an die Aktionäre
+– Rest = Konto Gewinnvortrag
+1. Berechnung der Gewinnverteilung:
+Reingewinn
+120
+– Zuweisung an die gesetzliche Gewinnreserve:  5% vom RG 120
+    6
+– 5% Dividende vom AK 2200
+110
+– 116
+Rest: Gewinnvortrag
+   
+4
+Für die Gewinnverteilung wird der Reingewinn vorerst ins Konto «Gewinnvortrag» übertragen.
+Danach werden die zu verteilenden Gewinnanteile aus dem Gewinnvortrag in die Konten «Reserven» und 
+«Gewinnausschüttung»1) übetragen.
+1)	 gehört zu den kurzfristigen Verbindlichkeiten
+¡
+ 96
+Jahresabschluss bei der Aktiengesellschaft
+2. Gewinnverteilung in die Konten eintragen:
+Dazu stehen die Konten Gewinnvortrag, Gesetzliche Gewinnreserven (GGRes) und Gewinnausschüt-
+tung zur Verfügung:
+Betrag
+Gewinn­
+ausschüttung
+ GGRes
+Gewinnvortrag
+Anfangsbestände
+0
+280
+0
+Übertrag des RG in Kto GV
+120
+Zuweisung an die GGRes
+6
+6
+6
+Zuweisung Dividenden
+110
+110
+110
+Rest: im Gewinnvortrag
+4
+Schlussbestand (in SBZ)
+SB 110
+
+SB 286
+
+SB 4
+
+110
+110
+286
+286
+120
+120
+Hinweis zum Konto «Gewinnausschüttung»:
+	
+•
+gehört zum kurzfristigen Fremdkapital, da die Dividenden eine Schuld der AG gegenüber den 
+Aktionären darstellen. 
+	
+•
+Die Dividenden werden den Aktionären nach der Generalversammlung und nach Abzug von 35% 
+Verrechnungssteuer ausbezahlt (siehe Fallbeispiel 2).
+Aufgabe 62
+Die Braun AG weist Ende Jahr die folgenden Abschlusszahlen auf (in Kurzzahlen):
+Konto Aktienkapital	
+5 000
+Konto GGRes	
+340
+Reingewinn	
+300
+Vorschlag des Verwaltungsrats für die Gewinnverteilung:
+Zuweisung an die Gesetzlichen Gewinnreserven gemäss OR 672
+5% Dividenden an die Aktionäre
+Rest ins Konto Gewinnvortrag
+Aufgabe: Gewinnverteilung berechnen und Beträge in die Konten eintragen:
+Reingewinn
+– Zuweisung an die gesetzlichen Gewinnreserven: 
+5% vom 
+– 5% Dividende vom 
+Rest: Gewinnvortrag
+Betrag
+Gewinn­
+ausschüttung
+ GGRes
+Gewinnvortrag
+Anfangsbestände
+0
+340
+0
+Übertrag des RG ins Konto GV
+Zuweisung an die GGRes
+Zuweisung Dividenden
+Rest: Gewinnvortrag
+Schlussbestand (in SBZ)
+ 97
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 63
+Die Goodwill AG weist Ende Jahr die folgenden Abschlusszahlen auf (in Kurzzahlen):
+Konto Aktienkapital	
+6 000
+Konto GGRes	
+270
+Reingewinn	
+320
+Vorschlag des Verwaltungsrats für die Gewinnverteilung:
+Zuweisung an die gesetzlichen Gewinnreserven gemäss OR 672
+5% Dividenden an die Aktionäre
+Rest ins Konto Gewinnvortrag
+Aufgabe: Gewinnverteilung berechnen und Beträge in die Konten eintragen:
+Reingewinn
+– Zuweisung an die GGRes:
+– 5% Dividende vom 
+Rest: Gewinnvortrag
+Betrag
+Gewinn­
+ausschüttung
+GGRes
+Gewinnvortrag
+Anfangsbestände
+0
+270
+0
+Übertrag des RG ins Konto GV
+Zuweisung an die GGRes
+Zuweisung Dividenden
+Rest: Gewinnvortrag
+Schlussbestand (in SBZ)
+Zusatzaufgabe
+Bilden Sie für die obige Gewinnverteilung die Buchungssätze und tragen Sie die Konto-Nummern ein.
+(Grundlage: Herausklappbarer Kontenplan für KMU auf der letzten Seite dieses Buches)
+Buchungssatz
+Betrag
+Konto-Nr.
+Soll
+Konto-Nr.
+Haben
+Zusammenfassung:
+1.
+Reingewinn ins Konto «Gewinnvortrag» übertragen
+2.
+Aus dem Gewinnvortrag werden die Gewinnanteile verteilt:
+– ins Konto GGRes (Gewinnvortrag / GGRes)
+– ins Konto Gewinnausschüttung (Gewinnvortrag / Gewinnausschüttung)
+ 98
+Jahresabschluss bei der Aktiengesellschaft
+Bei den folgenden Beispielen und Aufgaben ist der Betrag für die Reservenzuweisung in ­
+Prozenten, 
+Franken oder in Kurzzahlen angegeben und ist immer mindestens so hoch, damit die gesetzliche 
+Bestimmung gemäss OR 672 erfüllt ist.
+Fallbeispiel 2 
+Verbuchung der Gewinnverteilung
+Die Sportdress AG hat im abgelaufenen Jahr einen Reingewinn von 500 (in Kurzzahlen) erzielt.
+Schlussbilanz vor der Gewinnverteilung:
+Schlussbilanz vor Gewinnverbuchung (in Kurzzahlen)
+Umlaufvermögen
+Flüssige Mittel	
+900
+FLL	
+	
+800
+Warenbestand	
+1 500	
+3 200
+Anlagevermögen
+Mobilien+Maschinen	
+2 000
+Immobilien	
+7 000	
+  9 000
+	
+	
+	
+12 200
+Fremdkapital
+VLL	
+	
+1 500
+Hypotheken	
+5 000	
+6 500
+Eigenkapital
+Aktienkapital	
+5 000
+GGReserven	
+180
+Gewinnvortrag	
+     20	
+5 200
+Jahresreingewinn	
+	
+ 
+    500
+	
+	
+	
+12 200
+Abschluss:
+Der Reingewinn wird entweder offen ausgewiesen oder ins Konto Gewinnvortrag übertragen. Die Ver-
+buchung des Gewinns auf ein Bilanzkonto ist notwendig, da die Konten der Erfolgsrechnung im neuen 
+Jahr nicht wieder eröffnet werden.
+Der Reingewinn wird vor dem Abschluss wie folgt verbucht:
+Erfolgsrechnung / Gewinnvortrag	
+500
+Danach wird die Schlussbilanz nach der obigen Gewinnverbuchung erstellt:
+Schlussbilanz nach Gewinnverbuchung
+Umlaufvermögen
+Flüssige Mittel	
+900
+FLL	
+	
+800
+Warenbestand	
+1 500	
+3 200
+Anlagevermögen
+Mobilien+Maschinen	
+2 000
+Immobilien	
+7 000	
+  9 000
+	
+	
+	
+12 200
+Fremdkapital
+VLL	
+	
+1 500
+Hypotheken	
+5 000	
+6 500
+Eigenkapital
+Aktienkapital	
+5 000
+GGReserven	
+180
+Gewinnvortrag	
+   520	
+  5 700
+	
+	
+	
+12 200
+Zeitlicher Ablauf:
+31.12.20
+Abschluss
+Gewinn offen ausweisen oder in Konto Gewinnvortrag
+  1.11.21
+Eröffnung
+März–Juni
+GV-Beschluss
+Gewinnverteilung und Gewinnverbuchung
+¡
+ 99
+Jahresabschluss bei der Aktiengesellschaft
+Ende März wird der Generalversammlung die folgende Gewinnverteilung vorgeschlagen:
+Rechnerische Verteilung des Gewinns (Gewinnverwendungsplan)
+Gewinnvortrag gemäss Bilanz
+520
+Zuweisung in die GGRes gemäss OR 672: 5% v. RG =	
+25
+8% Dividende vom Aktienkapital von 5000	
+400
+– 425
+Gewinnvortrag neu
+    95
+Die Verbuchung der Gewinnverteilung erfolgt über das Konto Gewinnvortrag!
+Datum Geschäftsfall
+Buchungssatz
+Gewinnvortrag
+01.01. Anfangsbestand
+Eröffnungsbilanz
+Gewinnvortrag
+520
+31.03. Zuweisung in die GGRes
+Gewinnvortrag
+GGRes
+25
+31.03. Zuweisung der Dividende
+Gewinnvortrag
+Gew.-ausschütt.
+400
+SB 95
+
+520
+520
+Verbuchung der Dividendenauszahlung
+Nach der Genehmigung der Dividende durch die Generalversammlung (GV) muss die Aktiengesellschaft 
+die fällige Dividende an die Aktionäre auszahlen. Da die Dividende der Verrechnungssteuer unterliegt, 
+erhält der Aktionär nur die Nettodividende.
+Buchungen:
+1. 
+Die Sportdress AG überträgt Mitte April auf das Konto «Schuld bei VST» 35% Verrechnungssteuer 
+vom Dividendenbetrag (35% von 400 = 140)
+2. Banküberweisung der Nettodividenden an die Aktionäre (65% von 400 = 260)
+3. Ende April überweist die Sportdress AG die VST-Schuld an die Eidg. Steuerverwaltung
+Datum
+Geschäftsfall
+Buchungssatz
+Gewinnausschüttung
+Anfangsbestand
+Eröffnungsbilanz
+Gew.-ausschütt.
+400
+15.4. Gutschrift der VST für EStV
+Gew.-ausschütt.
+Schuld bei VST
+140
+15.4. Banküberw. an Aktionäre
+Gew.-ausschütt.
+Bank
+260
+30.4. Banküberw. VST-Schuld
+Schuld bei VST
+Bank (140)
+SB 0
+
+400
+400
+ 100
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 64
+Die Sommer AG weist am Abschlusstag die folgende Schlussbilanz vor der Gewinnverteilung aus (in Kurz-
+zahlen):
+Schlussbilanz vor Gewinnverbuchung am 31.12. 20.1
+Umlaufvermögen
+Flüssige Mittel	
+60
+FLL	
+	
+155
+Warenbestand	
+95	
+310
+Anlagevermögen
+Maschinen	
+230
+Mobilien	
+130	
+360
+	
+	
+	
+	
+	
+	
+670
+Fremdkapital
+VLL	
+	
+130
+Darlehen	
+70	
+200
+Eigenkapital
+Aktienkapital	
+400
+GGReserven	
+25
+Gewinnvortrag	
+5	
+430
+Jahresreingewinn	
+	
+40
+	
+	
+670
+Der Reingewinn von 40 wird für den Abschluss in das Konto Gewinnvortrag übertragen.
+Buchungssatz mit Betrag:
+31.12.
+Übertrag des RG
+40
+Ergänzen Sie die Zahlen des Eigenkapitals für die folgende Schlussbilanz:
+Schlussbilanz nach Gewinnverbuchung am 31.12. 20.1
+Umlaufvermögen	
+	
+310
+Anlagevermögen	
+	
+360
+	
+	
+	
+670
+Umlaufvermögen	
+	
+200
+Eigenkapital
+Aktienkapital	
+GGReserven	
+Gewinnvortrag neu	
+	
+	
+	
+Im April des folgenden Jahres beschliessen die Aktionäre an der Generalversammlung die folgende 
+Gewinnverteilung:
+– Zuweisung in die gesetzlichen Gewinnreserven gemäss OR 672
+– 6% Dividenden vom Aktienkapital an die Aktionäre
+– Rest Gewinnvortrag
+1.	Berechnung für die Verteilung des Gewinns
+Gewinnvortrag gemäss SBZ nach Gewinnverbuchung
+– Zuweisung in die gesetzlichen Gewinnreserven
+– ____% Dividende vom AK
+Neuer Gewinnvortrag
+ 101
+Jahresabschluss bei der Aktiengesellschaft
+2.	Verbuchung der Gewinnverteilung
+Bilden Sie die Buchungssätze mit Betrag und führen Sie das Konto Gewinnvortrag.
+Die Verrechnungssteuer (VST) von 35% ist ebenfalls zu verbuchen. Die Nettodividende wird den Aktio-
+nären mit Banküberweisung ausbezahlt.
+Buchungssatz
+Betrag
+Gewinnvortrag
+3.	Geben Sie an, welchen Bestand die folgenden Konten nach der Gewinnverbuchung aufweisen:
+Konto 
+Bestand
+GGRes
+Gewinnvortrag
+Aufgabe 65
+Die Roby AG weist am Abschlusstag die folgende Schlussbilanz vor der Gewinnverbuchung aus (in Kurz-
+zahlen):
+Schlussbilanz vor Gewinnverteilung am 31.12. 20.1
+Umlaufvermögen
+Flüssige Mittel	
+180
+FLL	
+	
+220
+Vorräte	 	
+130	
+530
+Anlagevermögen
+Maschinen	
+280
+Mobilien	
+120
+Immobilien	
+800	
+1 200
+	
+	
+	
+1 730
+Fremdkapital
+VLL	
+	
+180
+Darlehen	
+600	
+780
+Eigenkapital
+Aktienkapital	
+800
+GGReserven	
+44
+Gewinnvortrag	
+6	
+850
+Jahresreingewinn	
+	
+100
+	
+	
+	
+1 730
+Der Reingewinn von 100 wird für den Abschluss in das Konto Gewinnvortrag übertragen.
+Bilden Sie den Buchungssatz mit Betrag.
+31.12.
+Übertrag des RG
+ 102
+Jahresabschluss bei der Aktiengesellschaft
+Ergänzen Sie die Zahlen des Eigenkapitals für die folgende Schlussbilanz:
+Schlussbilanz nach Gewinnverbuchung am 31.12. 20.1
+Umlaufvermögen	
+	
+Anlagevermögen	
+	
+	
+	
+	
+Fremdkapital	
+	
+Eigenkapital
+Aktienkapital	
+GGReserven	
+Gewinnvortrag neu	
+	
+	
+	
+Im April des folgenden Jahres beschliessen die Aktionäre an der Generalversammlung die folgende 
+Gewinnverteilung:
+–	 Zuweisung in die gesetzlichen Gewinnreserven gemäss OR 672
+–	 12% Dividenden vom Aktienkapital an die Aktionäre
+–	 Rest in den Gewinnvortrag
+1.	Berechnung für die Verteilung des Gewinns 
+Gewinnvortrag gemäss SBZ nach Gewinnverbuchung
+2.	Verbuchung der Gewinnverteilung
+Buchungssatz
+Betrag
+Gewinnvortrag
+3.	Die Verrechnungssteuer (VST) von 35% ist zu verbuchen. Die Nettodividende wird den Aktionären mit 
+Banküberweisung ausbezahlt.
+Betrag
+Buchungssatz
+Gewinnausschüttung
+Bestand aus Gewinnvert.
+Schuld bei VST
+35% der Bruttodividende
+Banküberweisung der
+Nettodividende an Aktionäre
+4.	Geben Sie den Bestand des Eigenkapitals der AG nach der Gewinnverbuchung an:
+Konto 
+Total Eigenkapital
+ 103
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 66
+Erstellen Sie mit den folgenden Zahlen den Gewinnverteilungsplan der folgenden AG: 
+Die gesetzlichen Gewinnreserven sind nach OR 672 zu bilden.
+a) Rotor AG
+b) Sun AG
+Aktienkapital
+5 000
+10 000
+Bestand gesetzl. Gewinnreserven vor Gewinnverteilung
+460
+980
+Gewinnvortrag Vorjahr
+12
+20
+Jahresgewinn
+660
+920
+Dividenden
+12%
+8%
+Tantiemen an VR
+–
+50
+Gewinnverteilung
+1)	 Rotor AG
+Betrag
+Reingewinn
++ Gewinnvortrag Vorjahr
+Verteilbarer RG
+Zuweisung an die GGRes:
+–         % Dividenden
+Gewinnvortrag neu
+2)	 Sun AG
+Betrag
+Reingewinn
++ Gewinnvortrag Vorjahr
+Verteilbarer RG
+Zuweisung an die GGRes:        % von        
+–         % Dividenden
+–  Tantiemen an VR
+Gewinnvortrag neu
+	
+Verbuchen Sie die Gewinnverteilung der Sun AG im Konto Gewinnvortrag
+Buchungssatz
+Betrag
+Gewinnvortrag
+Anfangsbestand GV
+ 104
+Jahresabschluss bei der Aktiengesellschaft
+4.2.4.	
+Gesetzliche und freiwillige Gewinnreserven
+Neben der gesetzlichen Gewinnreserve kann die AG auch freiwillige Reserven aus dem Jahresgewinn bil-
+den (siehe Übersicht auf Seite 94). Diese werden als «Freiwillige Gewinnreserven» bezeichnet (OR 673). Sie 
+müssen aber entweder in den Statuten festgelegt oder durch einen Beschluss der Generalversammlung 
+gebildet werden.
+Die Devise lautet:
+Mehr Reserven = mehr Eigenkapital = bessere finanzielle Sicherheit!
+Die Bildung von allzu vielen Reserven kann aber auch zu einem Interessenkonflikt mit den Aktionären füh-
+ren, da durch die Bildung von Reserven weniger Dividenden zur Verfügung stehen.
+Abkürzungen:
+Gesetzliche Gewinnreserven = GGRes
+Freiwillige Gewinnreserven = FGRes
+Fallbeispiel 3 
+Die Pronto AG weist Ende Jahr die folgenden Abschlusszahlen auf (in Kurzzahlen):
+Konto Aktienkapital	
+5 000
+Konto Gesetzliche Reserven	
+340
+Reingewinn	
+ 500
+Gewinnvortrag aus Vorjahr	
+5
+Vorschlag des Verwaltungsrats für die Gewinnverteilung
+Zuweisung an die GGRes gemäss OR 672
+Zuweisung an die FGRes 20
+9% Dividenden an die Aktionäre
+Rest ins Konto Gewinnvortrag
+Gewinnverteilung berechnen und Beträge in die Konten eintragen:
+Reingewinn
+500
++ Gewinnvortrag Vorjahr
+5
+Verteilbarer RG
+505
+Zuweisung an die GGRes: 5% vom RG 500
+25
+Zuweisung FGRes
+20
+– 9% Dividenden vom AK
+450
+495
+Gewinnvortrag neu
+10
+Betrag
+Gewinnaus-
+schüttung
+GGRes+FGRes
+Gewinnvortrag
+Bestand vor Gewinnverteilung
+5
+0
+340
+5
++ Reingewinn (ER/GV)
+500
+500
+Zuweisung an die GGRes 
+25
+25
+25
+Zuweisung an die FGRes
+20
+20
+20
+Zuweisung Dividenden 
+(GV/Gewinnausschüttung)
+450
+450
+450
+Schlussbestände: Übertrag in SBZ
+SB 450
+    
+SB 385
+    
+SB 10
+    
+450
+450
+385
+385
+505
+505
+¡
+ 105
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 67
+Die Alpin AG besitzt ein Aktienkapital von 800 000.–. Dieses setzt sich zusammen aus 8000 Namen­
+aktien 
+zu nominal je Fr. 100.–.
+Die Alpin AG weist Ende Jahr die folgende Schlussbilanz vor der Gewinnverteilung aus (in 1 000 Fr.):
+Schlussbilanz am 31.12. 20.1
+Umlaufvermögen	
+	
+485
+Anlagevermögen	
+	
+920
+	
+	
+	
+1 405
+Fremdkapital	
+	
+320
+Eigenkapital
+Aktienkapital	
+800
+GGReserven + FGReserven	
+120
+Gewinnvortrag	
+5
+Jahresreingewinn	
+160	
+1 085
+	
+	
+	
+1 405
+Die Generalversammlung hat beschlossen, die Reserven um total 72 zu erhöhen. Die Aktionäre sollen so 
+viele ganze Prozente Dividende wie möglich erhalten (GGRes gemäss OR 672).
+1.	Die Gewinnverteilung ist in der Tabelle zu erstellen und zu verbuchen.
+Betrag
+Buchungssatz
+Gewinnvortrag
+Anfangsbest. Gewinnvortrag 
+Übertrag RG in Gewinnvortrag
+= verteilbarer RG
+– Zuweisung GGRes
+– Zuweisung FGRes
+– ____% Dividenden
+= Endbestand Gewinnvortrag
+2.	Verbuchung der Dividende und der VST.
+Betrag
+Buchungssatz
+Gewinnausschüttung
+Bestand aus Gewinnvert.
+Schuld bei VST
+35% der Bruttodividende
+Banküberweisung der
+Nettodividende an Aktionäre
+3.	Der Einzelunternehmer P. Küng besitzt 100 Namenaktien der Alpin AG. Wie verbucht er die Gutschrift 
+seiner Bank für den Zahlungseingang der Dividende (Konto «Finanzertrag aus Wertschriften»)
+Betrag
+Buchungssatz
+ 
+ 
+Banküberw. Nettodividende
+VST-Anspruch
+ 106
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 68
+Die Rotair AG besitzt ein Aktienkapital von 1 200 000.–. Dieses setzt sich zusammen aus 12 000 Namen-
+aktien zu nominal je Fr. 100.–.
+Die Rotair AG weist Ende Jahr die folgende Schlussbilanz vor der Gewinnverteilung aus (Beträge in 1000 Fr.):
+Schlussbilanz am 31.12. 20.1 (Kurzzahlen)
+Umlaufvermögen	
+	
+970
+Anlagevermögen	
+	
+1 520
+	
+	
+	
+2 490
+Fremdkapital	
+	
+770
+Eigenkapital
+Aktienkapital	
+1 200
+GGReserven	
+180
+FGReserven	
+90
+Gewinnvortrag	
+10
+Jahresreingewinn	
+  240	
+1 720
+	
+	
+2 490
+Die Generalversammlung hat beschlossen, die GGRes gemäss OR 672 zu bilden. Die FGRes sind vorerst 
+um 38 zu erhöhen. Danach sollen die Aktionäre höchstens 15% Dividende erhalten. Der neue Gewinnvor-
+trag soll 5 betragen. Ein Restgewinn ist nach Verteilung in die FGRes zu übertragen.
+1.	Gewinnverteilung und Verbuchung
+Betrag
+Buchungssatz
+Gewinnvortrag
+Anfangsbest. Gewinnvortrag 
+Übertrag RG in Gewinnvortrag
+= verteilbarer RG
+– Zuweisung GGRes
+– Zuweisung FGRes
+– ____% Dividenden
+– Zuweisung zusätzliche FGRes
+Gewinnvortrag neu
+2.	Verbuchung der Dividende und der VST
+Betrag
+Buchungssatz
+Gewinnausschüttung
+Betrag aus Gewinnvert.
+Schuld bei VST
+35% der Bruttodividende
+Banküberweisung der
+Nettodividende an Aktionäre
+3.	Die Auto AG besitzt 200 Namenaktien der Rotair AG. Wie verbucht diese die Bankgutschrift für den 
+Zahlungseingang der Dividende (Konto «Finanzertrag aus Wertschriften»)
+Betrag
+Buchungssatz
+Banküberw. Nettodividende
+VST-Anspruch
+ 107
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 69
+Die Pronto AG weist Ende Jahr die folgenden Abschlusszahlen auf (in Kurzzahlen):
+Konto Aktienkapital	
+6 000
+Konto Gesetzliche Reserven (GGRes + FGRes) 	
+320
+Reingewinn	
+600
+Gewinnvortrag aus Vorjahr	
+8
+Vorschlag des Verwaltungsrats für die Gewinnverteilung:
+–  Zuweisung an die GGRes gemäss OR 672
+–  Zuweisung an die FGRes: 25
+–  9% Dividenden an die Aktionäre
+–  Rest ins Konto Gewinnvortrag
+Gewinnverteilung berechnen und Beträge in die Konten eintragen:
+Reingewinn
++ Gewinnvortrag Vorjahr
+Verteilbarer RG
+Zuweisung an die GGRes: 
+Zuweisung an die FGRes
+– 9% Dividenden
+Gewinnvortrag neu
+Betrag
+Gewinn­
+ausschüttung
+Reserven
+(GGRes+FGRes)
+Gewinnvortrag
+Bestand vor Gewinnverteilung
++ Reingewinn
+Zuweisung an die GGRes
+Zuweisung an die FGRes
+Zuweisung Dividenden
+Schlussbestände
+Verbuchen Sie die Schuld der AG an die VST und die Banküberweisung der Dividenden an die Aktionäre
+Buchungssatz
+Gewinn­
+ausschüttung
+Bestand nach Gewinnverteilung
+Schuld bei VST 
+– 35% der Bruttodividende
+Banküberweisung der 
+Nettodividende an Aktionäre
+ 
+ 108
+Jahresabschluss bei der Aktiengesellschaft
+4.2.5.	
+Verlustverteilung
+Eine Unternehmung kann infolge eines schlechten Geschäftsgangs Verluste erzielen. In diesem Fall ist es 
+wichtig, dass sie in guten Jahren genügend gesetzliche oder freie Reserven gebildet hat. Gemäss OR 620 
+Abs. 1+2 haftet bei der AG das Gesellschaftsvermögen für die Verbindlichkeiten der Unternehmung, es gibt 
+demnach keine persönliche Haftung für die Aktionäre.
+Wie werden Verluste gedeckt? Diese Frage wird gemäss neuem Aktienrecht ab 1.1.2023 in den OR-­
+Artikeln 671–674 beantwortet: 
+Die gesamten Reserven inkl. Gewinnvortrag dienen zur Deckung von Verlusten und müssen 
+gemäss OR Art. 674 in der folg. Reihenfolge gedeckt werden:
+1.	 mit dem Gewinnvortrag
+2.	 aus der freiwilligen Gewinnreserve (FGRes)
+3.	 aus der gesetzlichen Gewinnreserve (GGRes)
+4.	 aus der gesetzlichen Kapitalreserve (GKRes)
+Wenn der Gewinnvortrag und die Reserven nicht ausreichen, um die Verluste zu decken, wird der unge-
+deckte Restverlust ins Konto «Verlustvortrag» übertragen. Im Gegensatz zur Einzelunternehmung kann 
+ein Verlust nicht mit dem Aktienkapital verrechnet werden, da dieses eine feste Grösse bildet, die sich aus 
+einer bestimmten Anzahl Aktien zusammensetzt und nur verändert werden kann, wenn das Aktienkapital 
+aufgestockt oder vermindert würde.
+Das Konto «Verlustvortrag» ist ein Minus-Passivkonto (Buchungsregeln umgekehrt wie das Konto 
+Ge­
+winnvortrag). Es wird entweder bei den Aktiven in der Bilanz als unters­
+ter Posten eingesetzt oder 
+beim Eigenkapital als Minusposten.
+Die Verbuchung des Verlusts
+Fallbeispiel
+Eine AG weist Ende Jahr einen Verlust von 20 aus. 
+Vor der Verbuchung eines Verlusts ergeben sich 3 Möglichkeiten:
+1.	 Verlust kann mit dem Gewinnvortrag und den Reserven gedeckt werden 
+(Annahme: Bestand FGRes 8, GGRes 14, Gewinnvortrag 3)
+2.	 Verlust kann nur zum Teil mit Gewinnvortrag und Reserven gedeckt werden 
+(Annahme: Bestand Konto GGRes 12, Gewinnvortrag 2)
+3.	 Verlust kann nicht gedeckt werden, da keine Reserven mehr vorhanden sind
+1. 
+Verlust kann mit Gewinnvor-
+trag und Reserven gedeckt  
+werden
+2. 
+Verlust kann nur zum Teil mit 
+Gewinnvortrag und Reserven 
+gedeckt werden
+3. 
+Verlust kann nicht 
+gedeckt werden,  
+da keine Reserven  
+mehr vorhanden sind
+Verbuchung
+Verbuchung
+Verbuchung
+1.	Gewinnvortrag ausgleichen: 
+Gewinnvortrag / ER
+3
+1.	Gewinnvortrag ausgleichen: 
+Gewinnvortrag / ER
+2
+Verlustvortrag / ER
+20
+2.	Rest aus Reserven decken: 
+FGRes / ER 
+GGRes / ER
+8
+9
+2.	Reserven ausgleichen: 
+GGRes / ER
+12
+3.	Rest auf Kto Verlustvortrag: 
+Verlustvortrag / ER
+6
+Total
+20
+Total
+20
+¡
+ 109
+Jahresabschluss bei der Aktiengesellschaft
+Die in den folgenden Aufgaben aufgeführten Reserven bestehen sowohl aus gesetzlichen wie auch aus 
+freiwilligen Gewinnreserven. Der Einfachheit halber verwenden wir in den folgenden Aufgaben 70–73 nur 
+noch das Konto «Reserven».
+Aufgabe 70
+Die Sotec AG weist für das Geschäftsjahr 20.4 einen Verlust von 70 aus. Dieser wird mit den Reserven 
+gedeckt.
+Schlussbilanz vor Verlustverbuchung
+Umlaufvermögen	
+	
+320
+Anlagevermögen	
+	
+550
+	
+	
+	
+870
+Jahresverlust	
+	
+70
+	
+	
+	
+	
+	
+	
+940
+Fremdkapital	
+	
+455
+Eigenkapital
+Aktienkapital	
+400
+Reserven	
+80
+Gewinnvortrag	
+5	
+485
+	
+	
+	
+940
+1.	Verbuchung des Verlustes: Da noch genügend Reserven und der Gewinnvortrag vorhanden sind, wird 
+der Verlust über das Konto Gewinnvortrag (GV) ausgebucht.
+	
+Erstellen Sie die Buchungssätze mit Betrag.
+Datum
+Geschäftsfall
+Buchungssatz
+Betrag
+31.12.
+Ausgleich Gewinnvortrag
+31.12.
+Deckung aus Reserven
+2.	Ergänzen Sie die Zahlen des Eigenkapitals in der Schlussbilanz
+Schlussbilanz nach Verlustverbuchung
+Umlaufvermögen	
+	
+320
+Anlagevermögen	
+	
+550
+	
+	
+	
+	
+	
+	
+870
+Fremdkapital	
+	
+455
+Eigenkapital
+Aktienkapital	
+400
+Reserven	
+Gewinnvortrag	
+	
+	
+	
+	
+ 110
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 71
+Die Brauerei AG weist für das Geschäftsjahr 20.4 einen Verlust von 50 aus. Dieser wird mit den Reserven 
+gedeckt.
+Schlussbilanz vor Verlustverbuchung
+Umlaufvermögen	
+	
+225
+Anlagevermögen	
+	
+770
+	
+	
+	
+995
+Jahresverlust	
+	
+50
+	
+	
+	
+1 045
+Fremdkapital	
+	
+505
+Eigenkapital
+Aktienkapital	
+500
+Reserven	
+37
+Gewinnvortrag	
+3	
+540
+	
+	
+	
+1 045
+1.	Verbuchung des Verlustes:  
+Der Verlust ist so weit wie möglich mit den Reserven und dem Gewinnvortrag zu decken.
+	
+Ein Restverlust wird als Verlustvortrag ausgewiesen.
+	
+Erstellen Sie die Buchungssätze mit Betrag.
+Datum
+Geschäftsfall
+Buchungssatz
+Betrag
+Anfangsbestand
+31.12.
+Ausgleich Gewinnvortrag
+31.12.
+Deckung mit Reserven
+31.12.
+Rest aus Verlustvortrag
+2.	Ergänzen Sie die Zahlen des Eigenkapitals in der Schlussbilanz. Der Verlustvortrag ist als Minus-Passiv-
+konto darzustellen.
+Schlussbilanz nach Verlustverbuchung
+Umlaufvermögen	
+	
+225
+Anlagevermögen	
+	
+770
+	
+	
+	
+	
+	
+	
+995
+Fremdkapital	
+	
+505
+Eigenkapital
+Aktienkapital	
+500
+Reserven	
+Gewinnvortrag	
+Verlustvortrag	
+	
+	
+	
+	
+ 111
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 72 a
+Die Bilanz einer AG weist beim Jahresabschluss die folgende Bilanz aus (Kurzzahlen):
+Kasse 44, Bank 86, FLL 70, Warenbestand 110, Mobilien 120, Verlust 55,
+VLL 95, Passivdarlehen 100, Aktienkapital 250, Reserven 40.
+1.	 Erstellen Sie die Bilanz vor Verlustdeckung.
+2.	 Der Verlust ist so weit wie möglich durch die Reserven zu decken.
+	
+Erstellen Sie die Bilanz nach Deckung des Verlustes.
+Bilanz vor Verlustdeckung
+Bilanz nach Verlustdeckung
+3.	 Geben Sie das Eigenkapital der AG an 
+a)  gemäss Bilanz vor Deckung des Verlustes
+b)  gemäss Bilanz nach Deckung des Verlustes
+Aufgabe 72 b
+Die Bürki AG erzielte im laufenden Geschäftsjahr das folgende Ergebnis:
+Total Aufwände 	
+	
+2 750 000
+Total Erträge 	
+	
+2 700 000
+Nennen Sie zwei Möglichkeiten, wie das Jahresergebnis verbucht werden kann:
+1. 
+2.
+ 112
+Jahresabschluss bei der Aktiengesellschaft
+Weitere Fälle zur Gewinn- und Verlustverteilung der AG
+Aufgabe 73
+Die Stucki-Küchen AG weist am 31. Dezember die folgenden Beträge (Kurzzahlen) aus:
+Konten
+Prov. Saldobilanz
+Nachträge
+Def. Saldobilanz
+Soll
+Haben
+Soll
+Haben
+Soll
+Haben
+Flüssige Mittel
+85
+FLL
+135
+Aktive RA
+Materialbestand
+140
+Einrichtungen (Mob., Masch., Fahrz.)
+270
+VLL u. Gewinnausschüttung
+164
+Passive RA
+Passivdarlehen
+100
+Aktienkapital
+250
+Reserven
+30
+Gewinnvortrag
+2
+Erlös aus Arbeiten
+650
+Materialaufwand
+260
+Personalaufwand
+220
+Raumaufwand
+36
+Werbeaufwand
+20
+Sonst. Betriebsaufwand
+30
+Finanzaufwand
+Abschreibungen
+        
+        
+1 196
+1 196
+Vor dem Abschluss sind die folgenden Nachtragsbuchungen zu erstellen und in die obige Saldobilanz zu 
+übertragen. In der def. Saldobilanz kann die SBZ und die ER mit Gewinnausweis dargestellt werden.
+Nr.
+Geschäftsfälle
+Soll
+Haben
+Betrag
+1.
+Die Gutschrift des Lieferanten für den Umsatz­
+bonus auf dem Materialeinkauf von 9 wird erst im 
+neuen Jahr eintreffen
+2.
+Die Rechnung Dezember für Telefon- und Internet-
+gebühren wird erst im neuen Jahr eintreffen
+4
+3.
+Abschreibungen auf den Einrichtungen
+35
+4.
+Bankbelastung für die Teilrückzahlung des 
+­
+Darlehens 10, für den Darlehenszins 3
+5.
+Endbestand des Materialvorrats 125
+6.
+Die Rechnung für eine Werbeaktion von Okt. bis 
+März wurde mit 12 bezahlt und verbucht. ½ davon 
+sind dem neuen Jahr zu belasten
+7.
+Der Gewinn ist ins Konto Gewinnvortrag zu 
+­
+übertragen
+ 113
+Jahresabschluss bei der Aktiengesellschaft
+Im neuen Jahr ist das Konto Gewinnvortrag zu eröffnen und der Gewinn wie folgt zu verteilen:
+–	 Erhöhung der gesamten Reserven um 18
+–	 10% Dividende an die Aktionäre 
+–	 Rest: Gewinnvortrag
+Die Gewinnverteilung erstellen und verbuchen.
+Betrag
+Buchungssatz
+Gewinnvortrag
+Gewinnvortrag
+Anfangsbestand
+– Zuweisung Reserven
+– ____% Dividenden
+= Endbest.  Gewinnvortrag
+Aufgabe 74
+Die Rotex AG weist am Ende des Geschäftsjahres die folgenden Zahlen aus:
+–	 Aktienkapital 1,5 Mio Franken
+–	 Verlustvortrag Fr. 120 000.–
+In den letzten zwei Jahren hat die Unternehmung Verluste ausweisen müssen, deshalb sind die Reserven 
+aufgebraucht. Im laufenden Jahr hat die AG wieder einen Reingewinn von Fr. 260 
+000.– erwirtschaftet. Der 
+Verwaltungsrat schlägt der Generalversammlung die folgende Gewinnverteilung vor:
+–	 Beseitigung des Verlustvortrages der Vorjahre 
+–	 Gesetzliche Reserve gemäss OR 672
+–	 Bildung einer freiwilligen Gewinnreserve von Fr. 50 000.–
+–	 Dividende: so viele ganze Prozente wie möglich 
+–	 Evtl. Restbetrag ins Konto Gewinnvortrag
+1.	Gewinnverteilung und Gewinnverbuchung
+Betrag
+Buchungssatz
+Verlust-/Gewinnvortrag
+Verlustvortrag aus Vorjahr
+Anfangbestand
+Jahresreingewinn
+= verteilbarer Reingewinn
+– Zuweisung GGRes
+– Zuweisung FGRes
+– ____% Dividenden
+= Endbest. Gewinnvortrag
+2.	Berechnen Sie den Bestand des Eigenkapitals der Rotex AG vor und nach der Gewinnverteilung.
+Konto 
+Anfangsbestand
+Endbestand
+Aktienkapital
+Total Eigenkapital
+ 114
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 75
+Die Maurer AG verbucht am Ende des Geschäftsjahres die folgenden Geschäftsfälle
+Jahresgewinn gemäss Erfolgsrechnung	
+	
+	
+	
+Fr.	
+120 000.–
+Verlustvortrag des Vorjahres 	
+	
+	
+	
+Fr.	
+15 000.–
+1.	Der Gewinn ist wie folgt zu verteilen:
+	
+– Deckung des Verlustvortrages
+	
+– Bildung von gesetzlichen und freiwilligen Gewinnreserven	
+	
+	
+	
+Fr.	
+30 000.–
+	
+– 6% Dividende des Aktienkapitals von 1,2 Mio. Franken
+	
+– Rest = Gewinnvortrag
+Gewinnverteilung und Verbuchung des Gewinns
+Jahresgewinn gemäss Erfolgsrechnung	
+	
+	
+	
+Fr.	
+Deckung Verlustvortrag des Vorjahres	
+	
+Fr.	
+Zuweisung in die GGRes + FGRes	
+	
+Fr.	
+% Dividende von Fr.	
+=	 Fr.	
+	
+Fr.	
+Neuer Gewinnvortrag	
+	
+	
+	
+Fr.	
+2.	Banküberweisung von 35% VST vom Dividendenbetrag an die Steuerverwaltung
+Nr.
+Buchungssatz
+Verlust- / Gewinnvortrag
+Gewinnausschüttung
+Anfangsbestand Verlustvortrag
+3.	 Aktionär P. Studer besitzt 100 Aktien der Maurer AG, Nominalwert je Aktie Fr. 100.–.
+	
+Am 15.3. des neuen Geschäftsjahres wird die Dividende an P. Studer per Bank überwiesen.
+	
+Berechnung und Verbuchung:
+	
+Berechnung: 100 Aktien zu je Fr. 
+	 Nominalwert =	
+Fr.	     10 000 
+	
+Bruttodividende: % 
+ von Fr. 
+ =		
+Fr.	
+	
+– 35% VST	
+	
+Fr.	
+	
+= Nettodividende	
+	
+Fr.	
+Buchungssatz
+15.3.
+Überweisung Dividende
+Fr.
+4.	Stellen Sie das Eigenkapital der AG nach der Gewinnverteilung dar:
+Konto 
+Betrag
+Aktienkapital
++ 
++ 
+                 
+Total Eigenkapital
+                 
+ 115
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 76
+Die beiden Unternehmer A. Winkler und B. Szabo gründen eine neue AG. Die Gründung ist über das Konto 
+«Forderung Aktionäre» zu verbuchen.
+1.	 Gründung der Trading AG mit einem Aktienkapital von Fr. 600 000.–.
+2.	 Die beiden Aktionäre überweisen je Fr. 270 000.– auf das Bankkonto der neuen AG.
+3.	 Aktionär Winkler bringt einen Geschäftswagen im Wert von Fr. 40 000.– und die Computeranlagen für 
+Fr. 20 000.– ein.
+a)	 Verbuchung der Gründung
+Buchungssatz
+Betrag
+Forderung der Aktionäre
+b)	 Nach zwei Jahren erzielt die neue AG erstmals einen Gewinn von Fr. 80 
+000.–. Der RG des ersten ­
+Jahres 
+von Fr. 3 000.– wurde in das Konto Gewinnvortrag verbucht.
+	
+Gewinnverteilung:
+	
+–  Gesetzliche Gewinnreserve: Minimum gemäss OR 672
+	
+–  Dividenden: so viele ganze Prozente wie möglich
+	
+–  Rest ins Konto Gewinnvortrag
+Stellen Sie den Gewinnverteilungsplan dar und verbuchen Sie die Gewinnverteilung. Zudem sind die 
+Beträge in das Konto Gewinnvortrag einzusetzen.
+Gewinnverteilung:
+Betrag
+Verbuchung der Gewinnverteilung:
+Betrag
+Buchungssatz
+Gewinnvortrag
+Gewinnvortrag
+Anfangsbestand
+ 116
+Jahresabschluss bei der Aktiengesellschaft
+Aufgabe 77 a
+1.	Kreuzen Sie an, welche der folgenden Aussagen über die Dividende richtig oder falsch sind. Falsche 
+Aussagen sind zu berichtigen.
+Aussagen
+R
+F
+Korrektur
+1.
+Die Dividende ist der Gewinnanteil an die Ak­
+tionäre
+2.
+Die Dividende wird in % des Börsenkurses berechnet
+3.
+Das Konto Gew.-ausschütt. gehört zum Zuwachskapital
+4.
+Die Dividende ist VST-pflichtig
+2.	Kreuzen Sie an, welche der folgenden Aussagen über die AG richtig oder falsch sind. Falsche Antworten 
+sind zu berichtigen.
+Aussagen
+R
+F
+Korrektur
+1.
+In der AG ist der Verwaltungsrat das oberste Organ
+2.
+Die AG ist verpflichtet, eine gesetzliche Gewinnreserve 
+zu ­
+bilden. Diese beträgt mind. 5% des RG
+3.
+Bei einem Konkurs haftet der Aktionär für das AK
+4.
+Die Reserven dienen zur Auszahlung der Dividenden
+Aufgabe 77 b
+Ergänzen Sie die folgenden Lückentexte mit den richtigen Begriffen.
+Nr.
+1.
+Nach der Ermittlung des Jahresgewinns erstellt der ________________________den Gewinn­
+verteilungsplan. Bevor dieser in Kraft tritt, muss er von der ____________________________
+genehmigt werden
+2.
+Ein Verlust wird aus den _________________________und dem____________________
+gedeckt.
+Falls dies nicht möglich ist, wird er ins Konto ______________________übertragen.
+Dieses Konto wird beim Eigenkapital als _______________________________eingesetzt.
+3.
+Das Eigenkapital einer AG besteht aus dem______________________, 
+den__________________und dem ______________________.  
+4.
+Die AG muss gemäss OR 672 zwingend gesetzliche Gewinnreserven bilden, da für die Schulden 
+nur das ____________________________haftet. Ein Aktionär kann somit im Konkursfall nur  
+seine ______________________verlieren.
+5.
+Die gesamten Reserven und der Gewinnvortrag bilden zusammen das _____________________. 
+ 
+Dieser Teil des Eigenkapitals ist wichtig für die _____________-Finanzierung.
+6.
+Wenn die AG einen Reingewinn erzielt, dann erhalten die Aktionäre eine ______________.  
+Die Höhe der Dividende hängt ab von der ____________________________________________. 
+Jeder Aktionär erhält die Dividende in _______des __________werts seiner Aktien.
+7.
+Die Aktionäre erhalten allerdings nur die __________-Dividende, da die AG verpflichtet ist, 
+______% VST abzuziehen. Diese wird an die Eidg. Steuerverwaltung überwiesen. Wenn der 
+­
+Aktionär seinen Aktienbesitz und die Dividendenerträge in seiner ____________________ 
+aufführt, erhält er die bei der Auszahlung abgezogene ___________zurück. Dieser Vorgang dient 
+zur Verhinderung der _________________________________.
+8.
+Die Banküberweisung der Dividende an die Aktionäre wird verbucht mit
+_______________________/____________________.
+ 117
+Jahresabschluss bei der Aktiengesellschaft
+Merke
+	
+•
+Das Eigenkapital einer AG setzt sich aus dem Aktienkapital, den Reserven und dem Gewinnvortrag 
+zusammen. Das Aktienkapital wird als Grundkapital bezeichnet, die Reserven und der Gewinnvor-
+trag bilden das Zuwachskapital.
+	
+•
+Das Zuwachskapital ist wichtig für die Selbstfinanzierung, d.h., es stellt Kapital dar, das keine Zins-
+kosten verursacht.
+	
+•
+Der Reingewinn wird am Jahresende auf das Konto Gewinnvortrag übertragen. 
+Die Buchung dafür lautet: Erfolgsrechnung / Gewinnvortrag
+	
+•
+In der Praxis wird die Gewinnverteilung meistens im neuen Jahr ausgeführt, da diese von der 
+General­
+versammlung zuerst genehmigt werden muss. 
+	
+•
+Im Gegensatz zur Einzelunternehmung müssen in der AG verschiedene zwingende Gesetzes­
+bestimmungen beachtet werden. Ein Beispiel ist die Vorschrift zur Bildung von Reserven: 
+5% vom Jahresreingewinn müssen für die Bildung der gesetzlichen Gewinnreserven berechnet 
+werden. Diese Reserve muss so lange gebildet werden, bis diese zusammen mit den gesetzlichen 
+Kapitalreserven die Hälfte des im Handelsregister eingetragenen Aktienkapitals erreicht (OR 672, 
+Abs. 2). 
+	
+•
+Eine Dividende an die Aktionäre ist erst nach der Bildung der gesetzlichen Reserve zugelassen.  
+Sie wird in % des Aktienkapitals (=Nominalwert oder Nennwert aller Aktien) ausgedrückt.
+	
+•
+Die AG muss 35% VST vom Dividendenbetrag an die Steuerverwaltung überweisen. 
+Buchungssatz: Gewinnausschüttung / Schuld bei der EStV (VST) 
+Dividende brutto – 35% VST = Nettodividende, welche die Aktionäre ausbezahlt erhalten. 
+Buchungssatz: Gewinnausschüttung (65%) / Flüssige Mittel
+	
+•
+Das Konto Gewinnausschüttung gehört zu den kurzfristigen Verbindlichkeiten gegenüber den 
+­
+Aktionären.
+	
+•
+Entsteht in der AG beim Abschluss ein Verlust, dann ist dieser mit den Reserven und dem Gewinn-
+vortrag zu decken. Falls diese beiden Posten den Verlust nicht decken können, wird ein Rest in  
+das Konto Verlustvortrag übertragen. Das Konto Verlustvortrag ist ein Minus-Passivkonto und wird 
+in der Bilanz beim Eigenkapital als Abzugsposten aufgeführt.
+•	 Zusammenfassung der Buchungen vom Abschluss bis zur Gewinnauszahlung
+Zeitpunkte
+Grundlagen
+Buchungen
+1. Abschlusstag
+Gewinn aus ER 
+oder 
+Verlust aus ER
+ER 
+ 
+GVor, FGRes, GGRes  
+Verlustvortrag
+Gewinnvortrag (GVor) 
+ 
+ER 
+ER
+2. Wiedereröffnung
+EBZ
+EBZ
+Verlustvortrag
+Gewinnvortrag 
+EBZ
+3. 
+GV-Beschluss über 
+Gewinnverteilung
+OR 672–674
+Gesetzl. Reserven
+Gewinnvortrag
+GGRes
+4. Gewinnausschüttung
+Dividenden
+Gewinnvortrag
+Gewinnausschüttung
+5. Gewinnauszahlung
+Nettodividende 
+VST
+Gewinnausschüttung 
+Gewinnausschüttung
+Flüssige Mittel 
+Schuld bei VST
+!
