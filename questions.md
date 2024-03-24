@@ -20,4 +20,4 @@
 - Dateiname: GV-Protokoll AG.docx
 - Frage: Kurze Opting-Out-Klausel AG
 - Antwort: Im nachfolgenden GV-Protokoll ist unter Ziff. 2.2 eine Opting-Out-Klausel zu entnehmen.  
-Fundstelle im Dokument: 2.2 Verzicht auf die Revision (Opting out) Die Generalversammlung beruft die [...], in [...], als Revisionsstelle ab. Sämtliche Aktionäre erklären zu Protokoll, ab dem Geschäftsjahr […] auf die eingeschränkte Revision und damit auf die Wahl einer Revisionsstelle zu verzichten, weil die Gesellschaft ge-mäss Verwaltungsrat nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat und die Voraussetzungen für die Pflicht zur ordentlichen Revision nicht erfüllt.
+- Fundstelle im Dokument: 2.2 Verzicht auf die Revision (Opting out) Die Generalversammlung beruft die [...], in [...], als Revisionsstelle ab. Sämtliche Aktionäre erklären zu Protokoll, ab dem Geschäftsjahr […] auf die eingeschränkte Revision und damit auf die Wahl einer Revisionsstelle zu verzichten, weil die Gesellschaft ge-mäss Verwaltungsrat nicht mehr als zehn Vollzeitstellen im Jahresdurchschnitt hat und die Voraussetzungen für die Pflicht zur ordentlichen Revision nicht erfüllt.
