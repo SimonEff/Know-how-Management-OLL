@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(255, 255, 200);
+}
+h1{
+    text-align: center;
+}
+form{
+    margin-bottom: 30px;
+    text-align:center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60%;
+}
+.index{
+    min-height: 400px;
+}
+.score{
+    float: right;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.card{
+    display: block;
+    box-shadow: 0px 0px 15px #ccc;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+.card a{
+    text-decoration: none;
+    padding: 2px;
+    background-color: teal;
+    color: white;
+    font-size: 36px;
+}
+.card small{
+    margin-top: auto;
+}
