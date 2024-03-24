@@ -2,8 +2,8 @@
 
 ## Beispiel
 
-- Dateiname
-- Frage
+- Dateiname: 90.20.docx
+- Frage: Bericht Kapitalerhöhung GmbH nach Beschluss der Gesellschafter
 - Antwort
 - Fundstelle im Dokument
 
