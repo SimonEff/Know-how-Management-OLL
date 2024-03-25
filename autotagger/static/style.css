@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 200);
+    background-color: #C4DFE6;
 }
 h1{
     text-align: center;
@@ -7,6 +7,9 @@ h1{
 form{
     margin-bottom: 30px;
     text-align:center;
+}
+#query{
+    width: 40%;
 }
 .container{
     margin-left: auto;
@@ -23,19 +26,31 @@ form{
 }
 .card{
     display: block;
-    box-shadow: 0px 0px 15px #ccc;
+    border-radius: 10px;
+    background-image: linear-gradient(to right bottom, #86b4cd, #96c5dd, #86b4cd);
+    box-shadow: 2px 2px 7px #ccc;
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
     margin-bottom: 25px;
 }
-.card a{
-    text-decoration: none;
-    padding: 2px;
-    background-color: teal;
-    color: white;
-    font-size: 36px;
+.card b{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #162d3d;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 90%;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.card i{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #466c8d;
 }
 .card small{
     margin-top: auto;
+    margin-left: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #36617d;
 }

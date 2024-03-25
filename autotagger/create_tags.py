@@ -10,18 +10,25 @@ DATA_DIR = pathlib.Path(r"../data/unclean")
 
 def iter_texts(data_dir=DATA_DIR):
     for path in data_dir.glob("**/*.*"):
+        parts = []
         try:
             if path.suffix == '.docx':
                 doc = docx.Document(str(path))
-                text = '\n\n'.join(para.text for para in doc.paragraphs)
-                yield path, text
+                for i, para in enumerate(doc.paragraphs):
+                    part = para.text
+                    parts.append(part)
+                    yield path, f"Abschnitt {i+1}, {path.name}", part
             elif path.suffix == '.pdf':
                 with path.open("rb") as fp:
                     pdf = PyPDF2.PdfReader(fp)
-                    text = '\n\n'.join(page.extract_text() for page in pdf.pages)
-                    yield path, text
+                    for i, page in enumerate(pdf.pages):
+                        part = page.extract_text()
+                        parts.append(part)
+                        yield path, f"Seite {i+1}, {path.name}", part
         except:
             pass
+        if parts:
+            yield path, path.name, '\n\n'.join(parts)
 
 def create_tags(text):
     nlp_doc = NLP(text)
@@ -31,5 +38,5 @@ def create_tags(text):
     return {'text': text, 'tags': tags}
 
 print("Create tags...")
-data = {path.name: create_tags(text) for path, text in tqdm.tqdm(iter_texts(), unit=" documents")}
+data = {name: create_tags(text) for path, name, text in tqdm.tqdm(iter_texts(), unit=" documents")}
 pathlib.Path("data.json").write_text(json.dumps(data), encoding='utf-8')
