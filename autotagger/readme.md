@@ -5,9 +5,11 @@
 * Web UI using FastAPI & Uvicorn
 * PDF support via PyPDF2
 * Docx support via python-docx
+* Split documents in searchable pages and paragraphs
 
 ## Requirements
 * Python 3.12
+* (Create and activate a venv)
 * `python -m pip install -r requirements.txt`
 * `spacy download de_core_news_lg`
 
