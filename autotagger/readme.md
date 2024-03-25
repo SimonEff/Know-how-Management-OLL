@@ -1,6 +1,6 @@
 # Know how Management OLL autotagger
 ## About
-* Local tagging using Spacy language model `de-core-news-lg`
+* Local tagging using spaCy language model `de-core-news-lg`
 * Local search using BM25Okapi
 * Web UI using FastAPI & Uvicorn
 * PDF support via PyPDF2
@@ -9,6 +9,7 @@
 ## Requirements
 * Python 3.12
 * `python -m pip install -r requirements.txt`
+* `spacy download de-core-news-lg`
 
 ## Usage
 * Preprocess documents: `python create_tags.py`
