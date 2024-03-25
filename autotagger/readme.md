@@ -9,7 +9,7 @@
 ## Requirements
 * Python 3.12
 * `python -m pip install -r requirements.txt`
-* `spacy download de-core-news-lg`
+* `spacy download de_core_news_lg`
 
 ## Usage
 * Preprocess documents: `python create_tags.py`
